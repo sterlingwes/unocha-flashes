@@ -1,0 +1,15 @@
+{
+  "name": "unocha-flashes",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "node-html-markdown": "^1.3.0",
+    "puppeteer": "^22.1.0"
+  }
+}
