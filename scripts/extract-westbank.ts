@@ -57,6 +57,7 @@ const parsedReportHeadSection = [
   "# Closest Extracts\n",
   `This file includes all extracts from ${rawReportFileName} that match one of the following template strings within a Levenshtein distance of <= ${levFilterThreshold}:\n`,
   ...matchStrings.map((matchString) => `* ${matchString}\n`),
+  `In double nested brackets you'll see the distance number and which string matched (though more than one string may have matched). For example: ((34 for #2)) would be a distance of 34 vs. the second template string in the list above.\n`,
   "---\n",
 ];
 

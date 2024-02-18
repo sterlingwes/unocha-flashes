@@ -6,6 +6,8 @@ This file includes all extracts from parsed/westbank-raw.md that match one of th
 
 * Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem
 
+In double nested brackets you'll see the distance number and which string matched (though more than one string may have matched). For example: ((34 for #2)) would be a distance of 34 vs. the second template string in the list above.
+
 ---
 
 ## 2024-02-16
