@@ -2,6 +2,9 @@
 
 This repo contains the Flash Updates issued by the UN's Office for the Coordination of Humanitarian Affairs (OCHA). They've been converted from HTML into Markdown for easier parseability.
 
+- `reports/` has the full reports
+- `parsed/` has extracts from the reports
+
 The reports were daily except for the following reports which consolidated information for hiatus days:
 
 - 2023-12-18 covered two days (17th and 18th) - 1 skipped
