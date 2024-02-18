@@ -6,6 +6,8 @@ This file includes all extracts from parsed/westbank-raw.md that match one of th
 
 * Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem
 
+* This raises to 331 Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 10 January 2024
+
 In double nested brackets you'll see the distance number and which string matched (though more than one string may have matched). For example: ((34 for #2)) would be a distance of 34 vs. the second template string in the list above.
 
 ---
@@ -199,6 +201,10 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 31 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((97 for #1))
 
+* On 30 January, a Palestinian family was forced to demolish its residence in the Jabal al Mukabbir neighbourhood of East Jerusalem due to lack of permit; four people, including two children, were displaced. Since 7 October 2023 and as of 31 January 2024, 499 Palestinians, including 248 children, have been displaced following the demolition of their homes in Area C and East Jerusalem due to lack of Israeli-issued building permits, which are almost impossible to obtain. Over 100 Palestinian homes have been demolished on these grounds between 7 October 2023 and as of 31 January 2024\. In one incident on 30 January, in Qalandiya (Jerusalem), the Israeli authorities demolished a horseback riding club on an eight dunum area comprising ten structures, all of which were demolished due to lack of permit. ((79 for #2))
+
+* A total of 22 homes have been punitively demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions since 7 October 2023 and as of 31 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((98 for #3))
+
 
 ---
 
@@ -216,6 +222,10 @@ In double nested brackets you'll see the distance number and which string matche
 ### Displacement (West Bank)
 
 * Since 7 October 2023 and as of 29 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
+
+* Since 7 October 2023 and as of 30 January 2024, 495 Palestinians, including 246 children, have been displaced following the demolition of their homes due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. About 100 Palestinian homes have been demolished on the same grounds between 7 October 2023 and 30 January 2024. ((81 for #2))
+
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 30 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 
 ---
@@ -237,6 +247,10 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 29 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
 
+* Since 7 October 2023 and as of 29 January 2024, 495 Palestinians, including 246 children, have been displaced following the demolition of their homes due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. About 100 Palestinian homes have been demolished on the same grounds between 7 October 2023 and 29 January 2024. ((82 for #2))
+
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 29 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
+
 
 ---
 
@@ -254,6 +268,8 @@ In double nested brackets you'll see the distance number and which string matche
 ### Displacement (West Bank)
 
 * Since 7 October 2023 and as of 28 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
+
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 28 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 
 ---
@@ -273,6 +289,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 26 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
 
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 26 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
+
 
 ---
 
@@ -290,6 +308,8 @@ In double nested brackets you'll see the distance number and which string matche
 ### Displacement (West Bank)
 
 * Since 7 October 2023 and as of 25 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
+
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 25 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 
 ---
@@ -309,6 +329,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 24 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((95 for #1))
 
+* On 23 January, the Israeli authorities demolished on punitive grounds a house in ‘Urif village in Nablus, displacing five people, including one child. The house belonged to a Palestinian currently in prison convicted of being involved in shooting and killing four Israeli settlers on Road 60 near Eli settlement in Nablus on 20 June 2023\. A total of 22 homes have been demolished and 105 Palestinians, including 45 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 24 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((96 for #3))
+
 
 ---
 
@@ -326,6 +348,8 @@ In double nested brackets you'll see the distance number and which string matche
 ### Displacement (West Bank)
 
 * Since 7 October 2023 and as of 23 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
+
+* A total of 21 homes have been demolished and 100 Palestinians, including 44 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 23 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((94 for #4))
 
 
 ---
@@ -345,6 +369,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 22 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
 
+* On 21 January, the Israeli authorities demolished on punitive grounds two residential structures comprising three apartments, and caused damage to a fourth apartment, displacing five people, including two children, in Hebron city. The houses belonged to the families of two of the three Palestinians who were shot and killed while they were carrying out a shooting attack against Israeli forces stationed at the Beit Jala checkpoint near Bethlehem. A total of 21 homes have been demolished and 100 Palestinians, including 44 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 22 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((95 for #3))
+
 
 ---
 
@@ -362,6 +388,8 @@ In double nested brackets you'll see the distance number and which string matche
 ### Displacement (West Bank) 
 
 * Since 7 October 2023 and as of 21 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((96 for #1))
+
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 20 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 
 ---
@@ -381,6 +409,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 19 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((97 for #1))
 
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 19 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+
 
 ---
 
@@ -399,6 +429,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 18 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((97 for #1))
 
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 18 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+
 
 ---
 
@@ -414,6 +446,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 
 ### Displacement (West Bank) 
+
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 17 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 
 ---
@@ -431,6 +465,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank) 
 
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 16 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+
 
 ---
 
@@ -446,6 +482,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 
 ### Displacement (West Bank) 
+
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 15 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 
 ---
@@ -488,7 +526,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* This raises to 332 the number of Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 11 January 2024\. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank (332); 323 were killed by Israeli forces, eight by Israeli settlers and one by either Israeli forces or settlers. So far this year, 23 Palestinians, including three children, have been killed. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((99 for #2))
+* This raises to 332 the number of Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 11 January 2024\. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank (332); 323 were killed by Israeli forces, eight by Israeli settlers and one by either Israeli forces or settlers. So far this year, 23 Palestinians, including three children, have been killed. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((17 for #2))
 
 * Since 7 October 2023 and as of 11 January 2024, five Israelis, including four members of the Israeli forces, have been killed in Palestinian attacks in the West Bank, including East Jerusalem. Four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed (36) in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank was the highest since OCHA started recording casualties in 2005\. ((79 for #3))
 
@@ -510,12 +548,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 10 January 2024, 4,148 Palestinians, including 627 children, were injured in the West Bank, including East Jerusalem. Of them, 4,034 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((40 for #4))
 
+* This raises to 331 Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 10 January 2024\. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank (331); 322 were killed by Israeli forces, eight by Israeli settlers and one by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((1 for #2))
+
 
 ### Displacement (West Bank) 
 
 * Since 7 October 2023 and as of 10 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((97 for #1))
 
-* On 10 January, a house was demolished in Sur Bahir neighbourhood of East Jerusalem for lack of Israeli-issued building permit. This raises to 453 Palestinians who have been displaced, including 227 children, between 7 October 2023\. and 10 January 2024, following the demolition of their homes, due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. ((91 for #2))
+* On 10 January, a house was demolished in Sur Bahir neighbourhood of East Jerusalem for lack of Israeli-issued building permit. This raises to 453 Palestinians who have been displaced, including 227 children, between 7 October 2023\. and 10 January 2024, following the demolition of their homes, due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. ((89 for #2))
 
 
 ---
@@ -527,6 +567,8 @@ In double nested brackets you'll see the distance number and which string matche
 * Since 7 October 2023 and as of 9 January 2024, five Israelis, including four members of the Israeli forces, have been killed in Palestinian attacks in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005\. ((79 for #3))
 
 * Since 7 October 2023 and as of 9 January 2024, a total of 4,097 Palestinians, including 622 children, were injured in the West Bank, including East Jerusalem. Of them, 3,983 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((44 for #4))
+
+* This raises to 330 the number of Palestinians killed in the West Bank, including East Jerusalem, since 7 October 2023 and as of 9 January 2024\. Among the fatalities are 84 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank (330); 321 were killed by Israeli forces, eight by Israeli settlers and another one by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((38 for #2))
 
 
 ### Displacement (West Bank)
@@ -543,6 +585,8 @@ In double nested brackets you'll see the distance number and which string matche
 * Since 7 October 2023 and as of 8 January 2024, five Israelis, including four members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) is the highest since OCHA started recording casualties in 2005\. ((78 for #3))
 
 * Since 7 October 2023 and as of 7 January 2024, a total of 4,068 Palestinians, including 614 children, were injured in the West Bank, including East Jerusalem. Of them, 3,952 have been injured by Israeli forces, 95 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((45 for #4))
+
+* A total of 329 Palestinians has been killed in the West Bank, including East Jerusalem, since 7 October 2023 and as of 8 January 2024\. Among the fatalities were 84 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank (329); 320 were killed by Israeli forces, eight by Israeli settlers and another one by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((41 for #2))
 
 
 ### Displacement (West Bank)
@@ -562,6 +606,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 7 January 2024, 4,042 Palestinians, including 606 children were injured in the West Bank, including East Jerusalem. Of them, 3,929 have been injured by forces, 92 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((40 for #7))
 
+* This brings to 326 the number of Palestinian fatalities in the West Bank, including East Jerusalem, since 7 October 2023 and as of 7 January 2024\. Among the fatalities were 84 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((44 for #5))
+
 
 ### Displacement (West Bank)
 
@@ -578,6 +624,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 5 January 2024, 4,021 Palestinians, including 604 children were injured in the West Bank, including East Jerusalem. Of whom 3,918 have been injured by forces, 92 by settlers and eleven by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((40 for #4))
 
+* This brings to 315 the number of Palestinian fatalities in the West Bank, including East Jerusalem, since 7 October 2023 and as of 5 January 2024\. Among the fatalities were 81 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 306 were killed by Israeli forces, eight by Israeli settlers and another one by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((44 for #2))
+
 
 ### Displacement (West Bank)
 
@@ -591,6 +639,8 @@ In double nested brackets you'll see the distance number and which string matche
 ### Violence and casualties (West Bank)
 
 * Since 7 October 2023 and as of 3 January 2024, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) is the highest since OCHA started recording casualties in 2005. ((79 for #3))
+
+* This brings to 314 the number of Palestinian fatalities in the West Bank, including East Jerusalem, since 7 October 2023 and as of 4 January 2024\. Among the fatalities were 80 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 305 were killed by Israeli forces, eight by Israeli settlers and another one by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005. ((44 for #2))
 
 
 ### Displacement (West Bank)
@@ -640,6 +690,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October and as of 30 December, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel so far in 2023 (36) marks the highest number of Israelis killed in the West Bank since OCHA started recording casualties in 2005\. ((93 for #2))
 
+* Among the 506 Palestinians killed, some seventy-one per cent of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. Half of the fatalities were reported in operations that did not involve armed clashes. So far, since the beginning of the year, 75 per cent of the Palestinians killed across the West Bank occurred during Israeli forces operations, which in some cases led to exchanges of fire. The number of Palestinians killed in Israeli forces operations is more than four times higher than those reported in 2022\. ((100 for #3))
+
 
 ### Displacement (West Bank)
 
@@ -650,9 +702,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 307 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 298 were killed by Israeli forces, eight by Israeli settlers and another one either by forces or settlers, which is in the process of being verified. This toll represents over 60 per cent of all Palestinians killed in the West Bank in 2023\. With a total of 506 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 307 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 298 were killed by Israeli forces, eight by Israeli settlers and another one either by forces or settlers, which is in the process of being verified. This toll represents over 60 per cent of all Palestinians killed in the West Bank in 2023\. With a total of 506 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((91 for #2))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel so far in 2023 (36) marks the highest number of Israelis killed in the West Bank since OCHA started recording casualties in 2005. ((78 for #3))
+
+* Seventy-one per cent of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. Half of the fatalities were reported in operations that did not involve armed clashes. So far, since the beginning of the year, 75 per cent of the Palestinians killed across the West Bank occurred during Israeli forces operations, which in some cases led to exchanges of fire. The number of Palestinians killed in Israeli forces operations is more than four times higher than those reported in 2022. ((99 for #4))
 
 
 ### Displacement (West Bank)
@@ -664,7 +718,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 304 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 295 were killed by Israeli forces, eight by Israeli settlers and another one either by forces or settlers, which is in the process of being verified. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank in 2023\. With a total of 504 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #2))
+* Since 7 October, 304 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 295 were killed by Israeli forces, eight by Israeli settlers and another one either by forces or settlers, which is in the process of being verified. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank in 2023\. With a total of 504 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((91 for #2))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #3))
 
@@ -678,7 +732,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 300 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 292 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank this year. With a total of 502 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #3))
+* Since 7 October, 300 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 292 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank this year. With a total of 502 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((91 for #3))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #4))
 
@@ -692,7 +746,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 295 Palestinians, including 77 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 285 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank this year. With a total of 495 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #2))
+* Since 7 October, 295 Palestinians, including 77 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 285 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank this year. With a total of 495 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #3))
 
@@ -706,7 +760,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 293 Palestinians, including 76 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 283 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank this year. With a total of 493 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((68 for #1))
+* Since 7 October, 293 Palestinians, including 76 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 283 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents nearly 60 per cent of all Palestinians killed in the West Bank this year. With a total of 493 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((92 for #1))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #2))
 
@@ -720,7 +774,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 293 Palestinians, including 76 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 283 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 493 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((68 for #2))
+* Since 7 October, 293 Palestinians, including 76 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 283 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 493 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #3))
 
@@ -734,7 +788,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 291 Palestinians, including 75 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 281 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 491 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #1))
+* Since 7 October, 291 Palestinians, including 75 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 281 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 491 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((91 for #1))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #2))
 
@@ -748,7 +802,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 291 Palestinians, including 75 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 281 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 491 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #1))
+* Since 7 October, 291 Palestinians, including 75 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 281 were killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 491 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((91 for #1))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #2))
 
@@ -762,7 +816,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 291 Palestinians, including 75 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 281 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 491 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 291 Palestinians, including 75 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 281 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 491 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((91 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -776,7 +830,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 278 Palestinians, including 70 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 268 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 477 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #1))
+* Since 7 October, 278 Palestinians, including 70 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 268 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 477 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #1))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((75 for #2))
 
@@ -790,12 +844,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 278 Palestinians, including 70 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 268 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 477 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 278 Palestinians, including 70 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 268 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 477 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((75 for #3))
 
 
 ### Displacement (West Bank)
+
+* Another 68 Palestinians, including 34 children, have been displaced following the demolition of 16 homes on punitive grounds since 7 October. The same number of homes were punitively demolished in the first nine months of the year. The Human Rights Committee, in its review of the fourth periodic report of Israel, in 2014, concluded that punitive demolitions are a form of collective punishment and as such are illegal under international law. ((99 for #4))
 
 
 ---
@@ -804,12 +860,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 276 Palestinians, including 70 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 266 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 475 Palestinian fatalities, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #1))
+* Since 7 October, 276 Palestinians, including 70 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 266 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. With a total of 475 Palestinian fatalities, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #1))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((75 for #2))
 
 
 ### Displacement (West Bank)
+
+* Another 68 Palestinians, including 34 children, have been displaced following the demolition of 16 homes on punitive grounds since 7 October. The same number of homes were punitively demolished in the first nine months of the year. The Human Rights Committee, in its review of the fourth periodic report of Israel, in 2014, concluded that punitive demolitions are a form of collective punishment and as such are illegal under international law. ((99 for #3))
 
 
 ---
@@ -818,12 +876,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 271 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 261 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 271 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 261 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((91 for #2))
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #3))
 
 
 ### Displacement (West Bank)
+
+* Another 68 Palestinians, including 34 children, have been displaced following the demolition of 16 homes on punitive grounds since 7 October. The same number of homes were punitively demolished in the first nine months of the year. The Human Rights Committee, in its review of the fourth periodic report of Israel, in 2014, concluded that punitive demolitions are a form of collective punishment and as such are illegal under international law. ((99 for #4))
 
 
 ---
@@ -832,12 +892,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 271 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 261 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #2))
+* Since 7 October, 271 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 261 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. This toll represents more than half of all Palestinians killed in the West Bank this year. 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((91 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((75 for #3))
 
 
 ### Displacement (West Bank)
+
+* Another 68 Palestinians, including 34 children, have been displaced following the demolition of 16 homes on punitive grounds since 7 October. The same number of homes were punitively demolished in the first nine months of the year. The Human Rights Committee, in its review of the fourth periodic report of Israel, in 2014, concluded that punitive demolitions are a form of collective punishment and as such are illegal under international law. ((99 for #3))
 
 
 ---
@@ -846,7 +908,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 265 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 255 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 265 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 255 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in West Jerusalem in an attack by Palestinians (one of whom was killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -860,7 +922,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank) 
 
-* Since 7 October, 265 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 255 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #2))
+* Since 7 October, 265 Palestinians, including 69 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 255 have been killed by Israeli forces, eight by Israeli settlers and another two either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in West Jerusalem in an attack by Palestinians (one of whom was killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -881,7 +943,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 263 Palestinians, including 68 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 253 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((68 for #2))
+* Since 7 October, 263 Palestinians, including 68 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 253 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in West Jerusalem in an attack by Palestinians (one of the Israelis was mistakenly killed by Israeli forces). ((75 for #3))
 
@@ -895,7 +957,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, 256 Palestinians, including 67 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 246 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 256 Palestinians, including 67 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 246 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in an attack by Palestinians (one of whom was killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -909,7 +971,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Since 7 October, 253 Palestinians, including 66 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 243 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((68 for #2))
+* Since 7 October, 253 Palestinians, including 66 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 243 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The two-month toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in an attack by Palestinians (one of whom was killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -923,7 +985,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Since 7 October, 249 Palestinians, including 65 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 239 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #2))
+* Since 7 October, 249 Palestinians, including 65 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 239 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in a Palestinian attack (one of whom was killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -937,9 +999,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Since 7 October, 246 Palestinians, including 65 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 236 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((69 for #2))
+* Since 7 October, 246 Palestinians, including 65 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 236 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in a Palestinian attack (one of whom was killed by Israeli forces who misidentified him). ((75 for #3))
+
+* On 4 December, three Palestinian men were killed by Israeli forces in two operations that the latter carried out in Qalqiliya and Qalandiya Refugee Camp (Jerusalem) where exchanges of fire with Palestinians were reported. Another 32 Palestinians, including four children, were injured by Israeli forces during these operations. ((96 for #1))
 
 
 ### Displacement (West Bank)
@@ -951,7 +1015,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Since 7 October, 244 Palestinians, including 65 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank have been killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 234 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((69 for #3))
+* Since 7 October, 244 Palestinians, including 65 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank have been killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 234 have been killed by Israeli forces, eight by Israeli settlers and another two have been killed either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((92 for #3))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in an attack perpetrated by Palestinians (one of whom was killed by Israeli forces who misidentified him). ((75 for #4))
 
@@ -965,7 +1029,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Since 7 October, 243 Palestinians, including 65 children, were killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 231 were killed by Israeli forces, eight by Israeli settlers and two either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((64 for #2))
+* Since 7 October, 243 Palestinians, including 65 children, were killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 231 were killed by Israeli forces, eight by Israeli settlers and two either by forces or settlers. The eight-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((87 for #2))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in a Palestinian attack (one of whom appears to have been killed by Israeli forces who misidentified him). ((75 for #3))
 
@@ -979,7 +1043,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Since 7 October, 241 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel. Of those killed in the West Bank, 231 were killed by Israeli forces, eight by Israeli settlers and two either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((65 for #3))
+* Since 7 October, 241 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel. Of those killed in the West Bank, 231 were killed by Israeli forces, eight by Israeli settlers and two either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((86 for #3))
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in a Palestinian attack (one of whom appears to be killed by Israeli forces). ((75 for #4))
 
@@ -993,7 +1057,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (in and around the West Bank)
 
-* Between 7 October and 30 November, 241 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed in Israel, one by Israeli forces and another by an Israeli civilian (see above). Of those killed in the West Bank, 231 were killed by Israeli forces, eight by Israeli settlers and two either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((64 for #4))
+* Between 7 October and 30 November, 241 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed in Israel, one by Israeli forces and another by an Israeli civilian (see above). Of those killed in the West Bank, 231 were killed by Israeli forces, eight by Israeli settlers and two either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((100 for #4))
 
 
 ### Displacement (West Bank)
@@ -1005,7 +1069,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Between 7 October and 29 November, 238 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Of those, 229 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((64 for #2))
+* Between 7 October and 29 November, 238 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Of those, 229 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((100 for #2))
 
 
 ### Displacement (West Bank)
@@ -1019,7 +1083,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Between 18:00 on 27 November 18:00 on 28 November, three fatalities were reported in the West Bank, including two children. In one of these incidents, a 14-year-old Palestinian child was shot with live ammunition and later succumbed to wounds sustained in the chest during an Israeli military operation in Tubas city. Three other Palestinians were injured during the operation. The incident took place after Israeli forces raided the city, surrounded a house, and demanded a Palestinian to turn himself in. An exchange of fire between Israeli forces and Palestinians ensued while the forces were retreating from Tubas, during which the child was injured, and later pronounced dead at the hospital. ((100 for #1))
 
-* Between 7 October and 28 November, 232 Palestinians, including 61 children, were killed in the West Bank, including East Jerusalem. Of those killed, 225 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. So far, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((64 for #2))
+* Between 7 October and 28 November, 232 Palestinians, including 61 children, were killed in the West Bank, including East Jerusalem. Of those killed, 225 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. So far, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((100 for #2))
 
 * Since 7 October, Israeli forces have injured 3,101 Palestinians, including at least 500 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with nine per cent in the first nine months of 2023. ((100 for #4))
 
@@ -1033,7 +1097,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Between 7 October and 27 November, 231 Palestinians, including 59 children were killed in the West Bank, including East Jerusalem. Of those killed, 222 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. So far, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((65 for #2))
+* Between 7 October and 27 November, 231 Palestinians, including 59 children were killed in the West Bank, including East Jerusalem. Of those killed, 222 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. So far, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((99 for #2))
 
 * Since 7 October, Israeli forces have injured 3,093 Palestinians, including at least 496 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared to a monthly average of nine per cent of live ammunition injuries in the West Bank in the first nine months of 2023. ((99 for #5))
 
@@ -1171,6 +1235,8 @@ In double nested brackets you'll see the distance number and which string matche
 
 
 ### Displacement (West Bank)
+
+* On 15 November, in East Jerusalem, Israeli forces demolished on punitive grounds the family home of a Palestinian who killed seven Israelis in an attack in January 2023, and was subsequently killed by Israeli forces. This house was sealed immediately after the attack and the family was displaced at that time. A total of 48 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions. ((84 for #1))
 
 
 ---
@@ -1508,7 +1574,7 @@ _**Access restrictions**_ ((0 for #6))
 
 _**Attacks on health care**_ ((0 for #9))
 
-In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for the third consecutive day in multiple locations. Between 7 and 10 October, as of 16:00, 19 Palestinians, including three children, were killed by Israeli forces in various areas across the West Bank. A total of 332 Palestinians, including 39 children, were injured by Israeli forces in the West Bank, including East Jerusalem. Most of the injuries (307) were reported in various demonstrations in solidarity with residents of the Gaza Strip, during which confrontations were reported between Palestinians who threw stones and, in some instances, opened fire and Israeli forces who shot live ammunition. Overall, 169 Palestinians were treated for teargas inhalation, 104 were shot with live ammunition, 32 were injured by rubber bullets, seven were hit by shrapnel or teargas canisters, and 20 were physically assaulted. ((85 for #2))
+In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for the third consecutive day in multiple locations. Between 7 and 10 October, as of 16:00, 19 Palestinians, including three children, were killed by Israeli forces in various areas across the West Bank. A total of 332 Palestinians, including 39 children, were injured by Israeli forces in the West Bank, including East Jerusalem. Most of the injuries (307) were reported in various demonstrations in solidarity with residents of the Gaza Strip, during which confrontations were reported between Palestinians who threw stones and, in some instances, opened fire and Israeli forces who shot live ammunition. Overall, 169 Palestinians were treated for teargas inhalation, 104 were shot with live ammunition, 32 were injured by rubber bullets, seven were hit by shrapnel or teargas canisters, and 20 were physically assaulted. ((93 for #2))
 
 Over the past two days, the situation in Palestinian communities near settlements across the West Bank has been reported as very tense. In Einabus (Nablus) dozens of armed settlers reportedly from Yitzhar settlement attacked the village accompanied with Israeli forces. Settlers threw stones causing damage to three homes, set fire to another one and to a Palestinian vehicle, and opened fire at residents who threw stones. During the event, a total of eight Palestinians, including one child were injured, including four Palestinians injured with live ammunition fired by either Israeli forces or settlers. Attacks by settlers with live ammunition against Palestinian vehicles travelling on roads near Al Mu'arrajat Center and East (both in Ramallah) and Jaba’ between Nablus and Jenin, were also reported, causing damage to at least three vehicles.  ((99 for #4))
 
