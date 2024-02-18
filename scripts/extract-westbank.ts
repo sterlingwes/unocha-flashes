@@ -1,6 +1,4 @@
 import fs from "fs";
-import lev from "fastest-levenshtein";
-import { parseMarkdown } from "./utils/parse";
 import { extractMatches } from "./utils/extract";
 
 const matchStrings = [
@@ -27,8 +25,49 @@ const addDivider = (section: string[]) =>
 const dateFromFile = (reportFile: string) =>
   reportFile.replace("flash-", "").split("T")[0];
 
+const csvFileName = "parsed/westbank-casualties.csv";
+const csvHeader = [
+  "report_date",
+  "killed_cum",
+  "killed_children_cum",
+  "injured_cum",
+  "injured_children_cum",
+];
+const ifValue = (value: string) => (value ? +value : undefined);
+const existingExtractionCsv = fs.readFileSync(csvFileName).toString();
+const extractedValues: Record<
+  string,
+  {
+    killedCum: number;
+    killedChildrenCum: number;
+    injuredCum: number;
+    injuredChildrenCum: number;
+  }
+> = existingExtractionCsv
+  .split(/\r?\n/)
+  .slice(1)
+  .reduce((lookup, row) => {
+    const [reportDate, killed, killedChildren, injured, injuredChildren] =
+      row.split(",");
+    return {
+      ...lookup,
+      [reportDate]: {
+        killedCum: ifValue(killed),
+        killedChildrenCum: ifValue(killedChildren),
+        injuredCum: ifValue(injured),
+        injuredChildrenCum: ifValue(injuredChildren),
+      },
+    };
+  }, {});
+
+const killedMatcher =
+  /(?<all>[0-9,]+) Palestinians have been killed, including (?<child>[0-9,]+) children/;
+const injuredMatcher =
+  /(?<all>[0-9,]+) Palestinians, including (?<child>[0-9,]+) children, have been injured/;
+
 aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
-  parsedReport.push(`## ${dateFromFile(reportFile)}\n`);
+  const reportDate = dateFromFile(reportFile);
+  parsedReport.push(`## ${reportDate}\n`);
   closestText.forEach((group, i) => {
     parsedReport.push((i !== 0 ? "\n" : "") + group.heading + "\n");
     group.matches.forEach((match) => {
@@ -37,6 +76,36 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
           match.matchStringIndex + 1
         }))\n`
       );
+      const killedValuesMatch = match.text.match(killedMatcher);
+      if (
+        killedValuesMatch &&
+        killedValuesMatch.groups?.all &&
+        killedValuesMatch.groups?.child
+      ) {
+        extractedValues[reportDate] = {
+          ...extractedValues[reportDate],
+          killedCum: +killedValuesMatch.groups.all.replace(/[^0-9]/, ""),
+          killedChildrenCum: +killedValuesMatch.groups.child.replace(
+            /[^0-9]/,
+            ""
+          ),
+        };
+      }
+      const injuredValuesMatch = match.text.match(injuredMatcher);
+      if (
+        injuredValuesMatch &&
+        injuredValuesMatch.groups?.all &&
+        injuredValuesMatch.groups?.child
+      ) {
+        extractedValues[reportDate] = {
+          ...extractedValues[reportDate],
+          injuredCum: +injuredValuesMatch.groups.all.replace(/[^0-9]/, ""),
+          injuredChildrenCum: +injuredValuesMatch.groups.child.replace(
+            /[^0-9]/,
+            ""
+          ),
+        };
+      }
     });
   });
   addDivider(parsedReport);
@@ -75,3 +144,16 @@ fs.writeFileSync(
   rawReportFileName,
   rawReportHeadSection.concat(rawReport).join("\n")
 );
+
+const csv = [csvHeader.join(",")].concat(
+  Object.entries(extractedValues).map(([reportDate, values]) => {
+    return [
+      reportDate,
+      values.killedCum ?? "",
+      values.killedChildrenCum ?? "",
+      values.injuredCum ?? "",
+      values.injuredChildrenCum ?? "",
+    ].join(",");
+  })
+);
+fs.writeFileSync(csvFileName, csv.join("\r\n"));
