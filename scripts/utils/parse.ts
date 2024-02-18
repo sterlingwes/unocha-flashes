@@ -11,22 +11,34 @@ export const parseMarkdown = (filePath: string) => {
     textBlocks: [number, number][];
   }> = [];
   const getLastBlock = () => blocks[blocks.length - 1];
+  const uniqueLineMaps = new Set<string>();
 
   // record lines of interest using markdown token line numbers
-  mdTokens.forEach((token) => {
+  mdTokens.forEach((token, i) => {
+    if (!token.map || typeof token.map[0] !== "number") {
+      return;
+    }
+
+    const lineNumberBookends = token.map.slice() as [number, number];
+    if (uniqueLineMaps.has(lineNumberBookends.join("-"))) {
+      return; // skip if we're already tracked to avoid duplication
+    }
+
+    uniqueLineMaps.add(lineNumberBookends.join("-"));
+
     if (token.constructor.name !== "Token") {
       console.log(`item at index ${i} NOT a Token`);
     }
 
     if (token.type === "heading_open") {
-      blocks.push({ heading: token.map.slice(), textBlocks: [] });
+      blocks.push({ heading: lineNumberBookends, textBlocks: [] });
       return;
     }
 
     if (token.type === "paragraph_open" || token.type === "list_item_open") {
       const last = getLastBlock();
       if (last) {
-        last.textBlocks.push(token.map.slice());
+        last.textBlocks.push(lineNumberBookends);
       }
     }
   });

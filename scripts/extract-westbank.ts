@@ -1,44 +1,18 @@
 import fs from "fs";
 import lev from "fastest-levenshtein";
 import { parseMarkdown } from "./utils/parse";
+import { extractMatches } from "./utils/extract";
 
-const matchString =
-  "* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel.";
+const matchStrings = [
+  "Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
+  "Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem",
+];
 
 const files = fs.readdirSync("reports");
 
-const parseReport = (reportFile: string) => {
-  const parsed = parseMarkdown("reports/" + reportFile);
-  const allTextGroups = parsed.blocks
-    .map((block) => {
-      return {
-        heading: parsed.textLines[block.heading[0]],
-        text: block.textBlocks.map((text) => parsed.textLines[text[0]]),
-      };
-    })
-    .filter((part) => part.heading.toLowerCase().includes("bank"));
-
-  const closestText = allTextGroups.map((group) => {
-    return {
-      heading: group.heading,
-      match: lev.closest(matchString, group.text),
-    };
-  });
-
-  return { reportFile, allTextGroups, closestText };
-};
-
-const aggregated: Array<{
-  reportFile: string;
-  allTextGroups: Array<{ heading: string; text: string[] }>;
-  closestText: Array<{ heading: string; match: string }>;
-}> = [];
-
-files.forEach((file) => {
-  aggregated.push(parseReport(file));
+const aggregatedMatches = extractMatches(files, {
+  matchStrings,
 });
-
-aggregated.sort((a, b) => a.reportFile.localeCompare(b.reportFile));
 
 let parsedReport: string[] = [];
 let rawReport: string[] = [];
@@ -50,11 +24,17 @@ const dateFromFile = (reportFile: string) =>
 
 parsedReport.push("# Closest Extracts\n");
 
-aggregated.forEach(({ reportFile, allTextGroups, closestText }) => {
+aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
   parsedReport.push(`## ${dateFromFile(reportFile)}\n`);
   closestText.forEach((group, i) => {
     parsedReport.push((i !== 0 ? "\n" : "") + group.heading + "\n");
-    parsedReport.push(group.match);
+    group.matches.forEach((match) => {
+      parsedReport.push(
+        `${match.text} ((${match.distance} for #${
+          match.matchStringIndex + 1
+        }))\n`
+      );
+    });
   });
   addDivider(parsedReport);
 
@@ -62,14 +42,14 @@ aggregated.forEach(({ reportFile, allTextGroups, closestText }) => {
   allTextGroups.forEach((group, i) => {
     rawReport.push((i !== 0 ? "\n" : "") + group.heading + "\n");
     group.text.forEach((t) => {
-      rawReport.push(t);
+      rawReport.push(t + "\n");
     });
   });
   addDivider(rawReport);
 });
 
-parsedReport.push("# Raw Extracts");
-addDivider(parsedReport);
-
-const consolidatedReport = [...parsedReport, ...rawReport].join("\n");
-fs.writeFileSync("parsed/westbank.md", consolidatedReport);
+fs.writeFileSync("parsed/westbank-casualties.md", parsedReport.join("\n"));
+fs.writeFileSync(
+  "parsed/westbank-raw.md",
+  ["# Raw Extracts\n"].concat(rawReport).join("\n")
+);
