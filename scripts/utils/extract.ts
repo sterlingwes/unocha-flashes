@@ -2,6 +2,7 @@ import lev from "fastest-levenshtein";
 import { parseMarkdown } from "./parse";
 
 type MatchOptions = {
+  headingMatch: string;
   matchStrings: string[];
   levFilterThreshold?: number;
 };
@@ -55,7 +56,9 @@ const parseReportMatches = (reportFile: string, options: MatchOptions) => {
         ),
       };
     })
-    .filter((part) => part.heading.toLowerCase().includes("bank"));
+    .filter((part) =>
+      part.heading.toLowerCase().includes(options.headingMatch.toLowerCase())
+    );
 
   const maxDistance = options.levFilterThreshold ?? 100;
   const closestText = allTextGroups.map((group) => {

@@ -10,8 +10,13 @@ const matchStrings = [
 
 const files = fs.readdirSync("reports");
 
+const headingMatch = "bank"; // match "west bank"
+const levFilterThreshold = 100;
+
 const aggregatedMatches = extractMatches(files, {
+  headingMatch,
   matchStrings,
+  levFilterThreshold,
 });
 
 let parsedReport: string[] = [];
@@ -21,8 +26,6 @@ const addDivider = (section: string[]) =>
 
 const dateFromFile = (reportFile: string) =>
   reportFile.replace("flash-", "").split("T")[0];
-
-parsedReport.push("# Closest Extracts\n");
 
 aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
   parsedReport.push(`## ${dateFromFile(reportFile)}\n`);
@@ -48,8 +51,26 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
   addDivider(rawReport);
 });
 
-fs.writeFileSync("parsed/westbank-casualties.md", parsedReport.join("\n"));
+const rawReportFileName = "parsed/westbank-raw.md";
+
+const parsedReportHeadSection = [
+  "# Closest Extracts\n",
+  `This file includes all extracts from ${rawReportFileName} that match one of the following template strings within a Levenshtein distance of <= ${levFilterThreshold}:\n`,
+  ...matchStrings.map((matchString) => `* ${matchString}\n`),
+  "---\n",
+];
+
+const rawReportHeadSection = [
+  "# Raw Extracts\n",
+  `This file includes all sections from flash reports with a header that includes these match term(s): "${headingMatch}". This is the base text document used for extracting other more specific matches found in the non-raw parsed markdown outputs.\n`,
+  "---\n",
+];
+
 fs.writeFileSync(
-  "parsed/westbank-raw.md",
-  ["# Raw Extracts\n"].concat(rawReport).join("\n")
+  "parsed/westbank-casualties.md",
+  parsedReportHeadSection.concat(parsedReport).join("\n")
+);
+fs.writeFileSync(
+  rawReportFileName,
+  rawReportHeadSection.concat(rawReport).join("\n")
 );

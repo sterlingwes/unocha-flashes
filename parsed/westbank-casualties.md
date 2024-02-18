@@ -1,5 +1,13 @@
 # Closest Extracts
 
+This file includes all extracts from parsed/westbank-raw.md that match one of the following template strings within a Levenshtein distance of <= 100:
+
+* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel
+
+* Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem
+
+---
+
 ## 2024-02-16
 
 ### West Bank Updates

@@ -1,5 +1,9 @@
 # Raw Extracts
 
+This file includes all sections from flash reports with a header that includes these match term(s): "bank". This is the base text document used for extracting other more specific matches found in the non-raw parsed markdown outputs.
+
+---
+
 ## 2024-02-16
 
 ### West Bank Updates
