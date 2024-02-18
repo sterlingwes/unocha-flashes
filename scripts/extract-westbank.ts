@@ -8,7 +8,7 @@ const matchString =
 const files = fs.readdirSync("reports");
 
 const parseReport = (reportFile: string) => {
-  const parsed = parseMarkdown("reports/" + files[0]);
+  const parsed = parseMarkdown("reports/" + reportFile);
   const allTextGroups = parsed.blocks
     .map((block) => {
       return {
