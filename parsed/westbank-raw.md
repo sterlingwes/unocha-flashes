@@ -16,7 +16,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023, 814 Palestinians, including 332 children, have been displaced, following the destruction of 127 homes during operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
 
-* Since 7 October 2023, 814 Palestinians, including 332 children, have been displaced, following the destruction of 127 homes during operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+### Funding
 
 
 ---
@@ -35,7 +35,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023, 814 Palestinians, including 332 children, have been displaced, following the destruction of 127 homes during operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
 
-* Since 7 October 2023, 814 Palestinians, including 332 children, have been displaced, following the destruction of 127 homes during operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+### Funding
 
 
 ---
@@ -52,7 +52,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023, 513 people, including 251 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
 
-* Since 7 October 2023, 513 people, including 251 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+### Funding
 
 
 ---
@@ -71,7 +71,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * On 10 February, a Palestinian family was forced to demolish their house in the At Tur neighbourhood of East Jerusalem due to the lack of Israeli-issued building permit. Consequently, five people, including three children, were displaced. Since 7 October 2023, 513 people, including 251 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
 
-* On 10 February, a Palestinian family was forced to demolish their house in the At Tur neighbourhood of East Jerusalem due to the lack of Israeli-issued building permit. Consequently, five people, including three children, were displaced. Since 7 October 2023, 513 people, including 251 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+### Funding
 
 
 ---
@@ -86,7 +86,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * On 7 February, during an Israeli military operation in Nur Shams refugee camp, two residential buildings sustained severe damage and were rendered uninhabitable, resulting in the displacement of five families comprising 30 people, including eight children. Initial field information indicates that about 30 additional houses sustained minor to moderate damage during the operation.
 
-* On 7 February, during an Israeli military operation in Nur Shams refugee camp, two residential buildings sustained severe damage and were rendered uninhabitable, resulting in the displacement of five families comprising 30 people, including eight children. Initial field information indicates that about 30 additional houses sustained minor to moderate damage during the operation.
+### Funding
 
 
 ---
@@ -107,7 +107,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 9 February 2024, 775 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
 
-* Since 7 October 2023 and as of 9 February 2024, 775 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+### Funding
 
 
 ---
@@ -132,7 +132,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 8 February 2024, 775 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
 
-* Since 7 October 2023 and as of 8 February 2024, 775 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+### Funding
 
 
 ---
@@ -149,7 +149,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 7 February 2024, 4,426 Palestinians, including 670\* children, have been injured in the West Bank, including East Jerusalem. Of these, 4,288 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 55 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians.
 
-* Since 7 October 2023 and as of 7 February 2024, 4,426 Palestinians, including 670\* children, have been injured in the West Bank, including East Jerusalem. Of these, 4,288 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 55 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians.
+### Settler Violence 
 
 
 ### Displacement (West Bank)
@@ -160,7 +160,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 7 February 2024, 775 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 85 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 7 February 2024, 775 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 85 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -175,7 +175,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 6 February 2024, 780 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 6 February 2024, 780 Palestinians, including 322 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -192,7 +192,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 5 February 2024, 4,415 Palestinians, including 670 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,277 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians.
 
-* Since 7 October 2023 and as of 5 February 2024, 4,415 Palestinians, including 670 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,277 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -203,7 +203,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 5 February 2024, 780 Palestinians, including 325 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 5 February 2024, 780 Palestinians, including 325 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -218,7 +218,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 4 February 2024, 4,408 Palestinians, including 669 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,270 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 4 February 2024, 4,408 Palestinians, including 669 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,270 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -231,7 +231,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 4 February 2024, 779 Palestinians, including 324 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 4 February 2024, 779 Palestinians, including 324 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -246,7 +246,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 2 February 2024, 4,391 Palestinians, including 661 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,254 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 2 February 2024, 4,391 Palestinians, including 661 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,254 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence 
 
 
 ### Displacement (West Bank) 
@@ -259,7 +259,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 2 February 2024, 756 Palestinians, including 313 children, have been displaced, following the destruction of 119 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 83 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 2 February 2024, 756 Palestinians, including 313 children, have been displaced, following the destruction of 119 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 83 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding 
 
 
 ---
@@ -274,7 +274,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 1 February 2024, 4,391 Palestinians, including 661 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,254 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 1 February 2024, 4,391 Palestinians, including 661 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,254 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -287,7 +287,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * On 30 January, two Palestinian-owned homes were severely damaged during an Israeli military operation in Tulkarm refugee camp in Tulkarm, which led to the displacement of 12 people, including two children. Since 7 October 2023 and as of 1 February 2024, 756 Palestinians, including 313 children, have been displaced, following the destruction of 119 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 83 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* On 30 January, two Palestinian-owned homes were severely damaged during an Israeli military operation in Tulkarm refugee camp in Tulkarm, which led to the displacement of 12 people, including two children. Since 7 October 2023 and as of 1 February 2024, 756 Palestinians, including 313 children, have been displaced, following the destruction of 119 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 83 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -302,7 +302,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 31 January 2024, 4,387 Palestinians, including 660 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,250 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 31 January 2024, 4,387 Palestinians, including 660 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,250 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence 
 
 
 ### Displacement (West Bank) 
@@ -315,7 +315,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 31 January 2024, 744 Palestinians, including 311 children, have been displaced, following the destruction of 117 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 31 January 2024, 744 Palestinians, including 311 children, have been displaced, following the destruction of 117 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding 
 
 
 ---
@@ -330,7 +330,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 30 January 2024, 4,386 Palestinians, including 660 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,250 have been injured by Israeli forces, 115 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 30 January 2024, 4,386 Palestinians, including 660 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,250 have been injured by Israeli forces, 115 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -343,7 +343,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * As a result of an Israeli raid on 29 January in Tulkarm and its refugee camps of Nur Shams and Tulkarm, significant damage to infrastructure and residential houses was reported. Since 7 October 2023 and as of 30 January 2024, 744 Palestinians, including 311 children, have been displaced, following the destruction of 117 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* As a result of an Israeli raid on 29 January in Tulkarm and its refugee camps of Nur Shams and Tulkarm, significant damage to infrastructure and residential houses was reported. Since 7 October 2023 and as of 30 January 2024, 744 Palestinians, including 311 children, have been displaced, following the destruction of 117 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -370,7 +370,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 29 January 2024, 4,382 Palestinians, including 660 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,246 have been injured by Israeli forces, 115 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 29 January 2024, 4,382 Palestinians, including 660 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,246 have been injured by Israeli forces, 115 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -383,7 +383,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 29 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 29 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -400,7 +400,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 28 January 2024, 4,366 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,230 have been injured by Israeli forces, 115 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 28 January 2024, 4,366 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,230 have been injured by Israeli forces, 115 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -413,7 +413,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 28 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 28 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -428,7 +428,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 26 January 2024, 4,358 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,223 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 26 January 2024, 4,358 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,223 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -441,7 +441,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 26 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 26 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -458,7 +458,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 25 January 2024, 4,354 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,219 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 25 January 2024, 4,354 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,219 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -471,7 +471,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 25 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 25 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -486,7 +486,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 24 January 2024, 4,353 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,218 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 24 January 2024, 4,353 Palestinians, including 657 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,218 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -499,7 +499,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 24 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 24 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -518,7 +518,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 23 January 2024, 4,348 Palestinians, including 656 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,213 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 23 January 2024, 4,348 Palestinians, including 656 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,213 have been injured by Israeli forces, 114 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -533,7 +533,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 23 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 23 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -548,7 +548,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 21 January 2024, 4,334 Palestinians, including 654 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,200 have been injured by Israeli forces, 113 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 21 January 2024, 4,334 Palestinians, including 654 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,200 have been injured by Israeli forces, 113 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -561,7 +561,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 22 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 22 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -576,7 +576,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 21 January 2024, 4,313 Palestinians, including 647 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,179 have been injured by Israeli forces, 113 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 21 January 2024, 4,313 Palestinians, including 647 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,179 have been injured by Israeli forces, 113 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -589,7 +589,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * The Israeli military operations, which took place in the refugee camps of Nur Shams and Tulkarm (both in Tulkarm) on 17 and 18 January, resulted in damage to homes and infrastructure, in addition to the fatalities and injuries already recorded. At least 21 homes were rendered uninhabitable due to explosions and bulldozing, displacing 137 people, including 46 children. Since 7 October 2023 and as of 21 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* The Israeli military operations, which took place in the refugee camps of Nur Shams and Tulkarm (both in Tulkarm) on 17 and 18 January, resulted in damage to homes and infrastructure, in addition to the fatalities and injuries already recorded. At least 21 homes were rendered uninhabitable due to explosions and bulldozing, displacing 137 people, including 46 children. Since 7 October 2023 and as of 21 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -606,7 +606,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 19 January 2024, 4,310 Palestinians, including 647 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,178 have been injured by Israeli forces, 111 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 19 January 2024, 4,310 Palestinians, including 647 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,178 have been injured by Israeli forces, 111 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -619,7 +619,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 17 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 17 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -636,7 +636,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 18 January 2024, 4,252 Palestinians, including 645 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,121 have been injured by Israeli forces, 110 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 18 January 2024, 4,252 Palestinians, including 645 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,121 have been injured by Israeli forces, 110 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -649,7 +649,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 17 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Since 7 October 2023 and as of 17 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -668,7 +668,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 17 January 2024, 4,234 Palestinians, including 643 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,104 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 17 January 2024, 4,234 Palestinians, including 643 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,104 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -681,7 +681,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 17 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* From 7 October 2023 and as of 17 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -696,7 +696,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 16 January 2024, 4,215 Palestinians, including 642 children, were injured in the West Bank, including East Jerusalem. Of them, 4,085 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* From 7 October 2023 and as of 16 January 2024, 4,215 Palestinians, including 642 children, were injured in the West Bank, including East Jerusalem. Of them, 4,085 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -709,7 +709,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 16 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* From 7 October 2023 and as of 16 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -732,7 +732,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 15 January 2024, 4,212 Palestinians, including 637 children, were injured in the West Bank, including East Jerusalem. Of them, 4,082 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023
 
-* From 7 October 2023 and as of 15 January 2024, 4,212 Palestinians, including 637 children, were injured in the West Bank, including East Jerusalem. Of them, 4,082 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 53 per cent were reported in the context of search-and-arrest and other operations, 35 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -745,7 +745,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 15 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* From 7 October 2023 and as of 15 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -766,7 +766,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 14 January 2024, 4,197 Palestinians, including 635 children, were injured in the West Bank, including East Jerusalem. Of them, 4,067 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* From 7 October 2023 and as of 14 January 2024, 4,197 Palestinians, including 635 children, were injured in the West Bank, including East Jerusalem. Of them, 4,067 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -779,7 +779,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 and as of 14 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* From 7 October 2023 and as of 14 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -796,7 +796,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 12 January 2024, 4,176 Palestinians, including 631 children, were injured in the West Bank, including East Jerusalem. Of them, 4,046 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 12 January 2024, 4,176 Palestinians, including 631 children, were injured in the West Bank, including East Jerusalem. Of them, 4,046 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -809,7 +809,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * From 7 October 2023 to 12 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). Over the past two days, Israeli forces raided Nur Shams and Jenin camps and heavily bulldozed road infrastructure and caused damage to other structures, including houses.
 
-* From 7 October 2023 to 12 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during other operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). Over the past two days, Israeli forces raided Nur Shams and Jenin camps and heavily bulldozed road infrastructure and caused damage to other structures, including houses.
+### Funding
 
 
 ---
@@ -826,7 +826,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 11 January 2024, 4,157 Palestinians, including 630 children, were injured in the West Bank, including East Jerusalem. Of them, 4,041 have been injured by Israeli forces, 95 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 11 January 2024, 4,157 Palestinians, including 630 children, were injured in the West Bank, including East Jerusalem. Of them, 4,041 have been injured by Israeli forces, 95 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -839,7 +839,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * On 9 January, Israeli forces detonated a house in Askar Refugee Camp in Nablus, rendering it uninhabitable, displacing 12 people, including four children, during a military operation to arrest a Palestinian. From 7 October 2023 to 11 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* On 9 January, Israeli forces detonated a house in Askar Refugee Camp in Nablus, rendering it uninhabitable, displacing 12 people, including four children, during a military operation to arrest a Palestinian. From 7 October 2023 to 11 January 2024, 602 Palestinians, including 263 children, have been displaced, following the destruction of 94 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, and in Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -856,7 +856,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 10 January 2024, 4,148 Palestinians, including 627 children, were injured in the West Bank, including East Jerusalem. Of them, 4,034 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 10 January 2024, 4,148 Palestinians, including 627 children, were injured in the West Bank, including East Jerusalem. Of them, 4,034 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank) 
@@ -869,7 +869,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 587 Palestinians, including 257 children, have been displaced since 7 October 2023 following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin and Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 587 Palestinians, including 257 children, have been displaced since 7 October 2023 following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin and Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -886,7 +886,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 9 January 2024, a total of 4,097 Palestinians, including 622 children, were injured in the West Bank, including East Jerusalem. Of them, 3,983 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 9 January 2024, a total of 4,097 Palestinians, including 622 children, were injured in the West Bank, including East Jerusalem. Of them, 3,983 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -899,7 +899,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 587 Palestinians, including 257 children, have been displaced since 7 October following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin and Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 587 Palestinians, including 257 children, have been displaced since 7 October following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin and Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -916,7 +916,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 7 January 2024, a total of 4,068 Palestinians, including 614 children, were injured in the West Bank, including East Jerusalem. Of them, 3,952 have been injured by Israeli forces, 95 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 7 January 2024, a total of 4,068 Palestinians, including 614 children, were injured in the West Bank, including East Jerusalem. Of them, 3,952 have been injured by Israeli forces, 95 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -929,7 +929,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 587 Palestinians, including 257 children, have been displaced since 7 October following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin and Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 587 Palestinians, including 257 children, have been displaced since 7 October following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin and Nur Shams and Tulkarm, both in Tulkarm. This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -952,7 +952,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 7 January 2024, 4,042 Palestinians, including 606 children were injured in the West Bank, including East Jerusalem. Of them, 3,929 have been injured by forces, 92 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 7 January 2024, 4,042 Palestinians, including 606 children were injured in the West Bank, including East Jerusalem. Of them, 3,929 have been injured by forces, 92 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -965,7 +965,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 587 Palestinians, including 257\* children, have been displaced since 7 October following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank; about 95 per cent of the displacement was reported in the refugee camps of Jenin (52 per cent) and Nur Shams and Tulkarm, both in Tulkarm, (43 per cent). This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 587 Palestinians, including 257\* children, have been displaced since 7 October following the destruction of 92 homes during other operations carried out by Israeli forces across the West Bank; about 95 per cent of the displacement was reported in the refugee camps of Jenin (52 per cent) and Nur Shams and Tulkarm, both in Tulkarm, (43 per cent). This represents 65 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -982,7 +982,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 5 January 2024, 4,021 Palestinians, including 604 children were injured in the West Bank, including East Jerusalem. Of whom 3,918 have been injured by forces, 92 by settlers and eleven by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 5 January 2024, 4,021 Palestinians, including 604 children were injured in the West Bank, including East Jerusalem. Of whom 3,918 have been injured by forces, 92 by settlers and eleven by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -995,7 +995,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -1012,7 +1012,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1025,7 +1025,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -1040,7 +1040,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 3 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October 2023 and as of 3 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1055,7 +1055,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -1074,7 +1074,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October 2023 and as of 2 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October 2023 and as of 2 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1087,7 +1087,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
 
-* Another 537 Palestinians, including 238 children, have been displaced since 7 October following the destruction of 82 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 59 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people).
+### Funding
 
 
 ---
@@ -1104,7 +1104,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October and as of 30 December, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October and as of 30 December, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1117,7 +1117,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 57 per cent of all displacement reported due to the destruction of homes during Israeli military operations since the beginning of the year (854 people)
 
-* Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 57 per cent of all displacement reported due to the destruction of homes during Israeli military operations since the beginning of the year (854 people)
+### Funding
 
 
 ---
@@ -1136,7 +1136,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1149,7 +1149,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 57 per cent of all displacement reported due to the destruction of homes during Israeli military operations since the beginning of the year (854 people).
 
-* Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm). This represents 57 per cent of all displacement reported due to the destruction of homes during Israeli military operations since the beginning of the year (854 people).
+### Funding
 
 
 ---
@@ -1168,7 +1168,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,812 Palestinians, including at least 580 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,812 Palestinians, including at least 580 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1181,7 +1181,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1202,7 +1202,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,805 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,805 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1217,7 +1217,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1236,7 +1236,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,803 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,803 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1251,7 +1251,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 483 Palestinians, including 222 children, have been displaced since 7 October following the destruction of 73 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1268,7 +1268,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1283,7 +1283,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1302,7 +1302,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023
 
-* Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1315,7 +1315,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1332,7 +1332,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,665 Palestinians, including at least 562\* children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,665 Palestinians, including at least 562\* children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1347,7 +1347,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1364,7 +1364,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,659 Palestinians, including at least 562 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,659 Palestinians, including at least 562 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1377,7 +1377,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1396,7 +1396,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,634 Palestinians, including at least 561 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,634 Palestinians, including at least 561 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1409,7 +1409,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 451 Palestinians, including 207 children, have been displaced since 7 October following the destruction of 69 residential structures during other operations carried out by Israeli forces across the West Bank; 55 per cent of the displacement was reported in Jenin Refugee Camp, and 39 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1426,7 +1426,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1439,7 +1439,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1458,7 +1458,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1473,7 +1473,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1490,7 +1490,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,502 Palestinians, including at least 549 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,502 Palestinians, including at least 549 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1503,7 +1503,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1522,7 +1522,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,488 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,488 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1537,7 +1537,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1556,7 +1556,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,481 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,481 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1569,7 +1569,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1588,7 +1588,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,472 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,472 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1601,7 +1601,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1620,7 +1620,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,431 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,431 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1633,7 +1633,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during other operations carried out by Israeli forces across the West Bank; 61 per cent of the displacement was reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1652,7 +1652,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during Israeli forces operations across the West Bank; 61 per cent of the displacement were reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 269 Palestinians, including 121 children, have been displaced since 7 October following the destruction of 42 residential structures during Israeli forces operations across the West Bank; 61 per cent of the displacement were reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1671,7 +1671,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,387 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,387 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1684,7 +1684,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 265 Palestinians, including 119 children, have been displaced since 7 October following the destruction of 51 residential structures during Israeli forces operations across the West Bank; 61 per cent of the displacement were reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 265 Palestinians, including 119 children, have been displaced since 7 October following the destruction of 51 residential structures during Israeli forces operations across the West Bank; 61 per cent of the displacement were reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1703,7 +1703,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,368 Palestinians, including at least 533 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,368 Palestinians, including at least 533 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1716,7 +1716,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Another 265 Palestinians, including 119 children, have been displaced since 7 October following the destruction of 51 residential structures during Israeli forces operations across the West Bank; 61 per cent of the displacement were reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
 
-* Another 265 Palestinians, including 119 children, have been displaced since 7 October following the destruction of 51 residential structures during Israeli forces operations across the West Bank; 61 per cent of the displacement were reported in Jenin Refugee Camp, and 29 per cent in Nur Shams and Tulkarm Refugee Camps (both in Tulkarm).
+### Funding
 
 
 ---
@@ -1735,7 +1735,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,341 Palestinians, including at least 530 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\.
 
-* Since 7 October, Israeli forces have injured 3,341 Palestinians, including at least 530 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1744,7 +1744,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 283 Palestinians, including 149 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 283 Palestinians, including 149 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1763,7 +1763,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, Israeli forces have injured 3,325 Palestinians, including at least 528 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023.
 
-* Since 7 October, Israeli forces have injured 3,325 Palestinians, including at least 528 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023.
+### Settler Violence
 
 
 ### Displacement (West Bank)
@@ -1774,7 +1774,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 283 Palestinians, including 149 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 283 Palestinians, including 149 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1795,7 +1795,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * On 3 December, two Palestinian children (12- and 14-year-old) were shot and injured with live ammunition reportedly coming from Nili settlement, which is about 300 meters away from where the children were having a picnic, on the mountains of Deir Qaddis village (Ramallah). On 4 December, armed Israeli settlers, reportedly from Rotem settlement, threw stones at Palestinian homes in Al Farisiya-Nab'a al Gazal in the Jordan Valley (Tubas) and physically assaulted and injured three Israeli activists who were present in solidarity with the community.
 
-* On 3 December, two Palestinian children (12- and 14-year-old) were shot and injured with live ammunition reportedly coming from Nili settlement, which is about 300 meters away from where the children were having a picnic, on the mountains of Deir Qaddis village (Ramallah). On 4 December, armed Israeli settlers, reportedly from Rotem settlement, threw stones at Palestinian homes in Al Farisiya-Nab'a al Gazal in the Jordan Valley (Tubas) and physically assaulted and injured three Israeli activists who were present in solidarity with the community.
+### Settler Violence 
 
 
 ### Displacement (West Bank)
@@ -1804,7 +1804,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 283 Palestinians, including 149 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 283 Palestinians, including 149 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1829,7 +1829,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 308 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (233 incidents), or both casualties and damage to property (41 incidents). The weekly average of such incidents during this period stands at 39, compared with 21 incidents between 1 January and 6 October 2023\. However, the number of incidents since 7 October has gradually declined from 80 incidents in the first week (7-14 October) to 18 incidents in the last (27 November - 3 December). One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 308 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (233 incidents), or both casualties and damage to property (41 incidents). The weekly average of such incidents during this period stands at 39, compared with 21 incidents between 1 January and 6 October 2023\. However, the number of incidents since 7 October has gradually declined from 80 incidents in the first week (7-14 October) to 18 incidents in the last (27 November - 3 December). One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -1838,7 +1838,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 235 Palestinians, including 125 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 235 Palestinians, including 125 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1861,7 +1861,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 305 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (231 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 305 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (231 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -1870,7 +1870,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 220 Palestinians, including 114 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 220 Palestinians, including 114 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of Israeli issued building-permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1895,7 +1895,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 302 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (229 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 302 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (229 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -1904,7 +1904,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 220 Palestinians, including 114 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 220 Palestinians, including 114 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1929,7 +1929,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 299 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (226 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 299 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (226 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -1938,7 +1938,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 220 Palestinians, including 114 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
 
-* Additionally, 220 Palestinians, including 114 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 63 Palestinians, including 31 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1959,7 +1959,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 295 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (223 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 295 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (223 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -1972,7 +1972,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 54 Palestinians, including 25 children, have been displaced following punitive demolitions.
 
-* Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 54 Palestinians, including 25 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -1991,7 +1991,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of over five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of over five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2000,7 +2000,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 54 Palestinians, including 25 children, have been displaced following punitive demolitions.
 
-* Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 54 Palestinians, including 25 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2023,7 +2023,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2032,7 +2032,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 54 Palestinians, including 25 children, have been displaced following punitive demolitions.
 
-* Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 54 Palestinians, including 25 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2053,7 +2053,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 284 settler attacks against Palestinians, resulting in Palestinian casualties (34 incidents), damage to Palestinian-owned property (212 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 284 settler attacks against Palestinians, resulting in Palestinian casualties (34 incidents), damage to Palestinian-owned property (212 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2062,7 +2062,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 52 Palestinians, including 25 children, have been displaced following punitive demolitions.
 
-* Additionally, 181 Palestinians, including 93 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 52 Palestinians, including 25 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2081,7 +2081,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2092,7 +2092,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 52 Palestinians, including 25 children, have been displaced following punitive demolitions.
 
-* Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 52 Palestinians, including 25 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2111,7 +2111,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2122,7 +2122,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2143,7 +2143,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2152,7 +2152,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2173,7 +2173,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 277 settler attacks against Palestinians, resulting in Palestinian casualties (38 incidents)\*, damage to Palestinian-owned property (207 incidents), or both casualties and damage to property (38 incidents)\*. This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 277 settler attacks against Palestinians, resulting in Palestinian casualties (38 incidents)\*, damage to Palestinian-owned property (207 incidents), or both casualties and damage to property (38 incidents)\*. This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2182,7 +2182,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 162 Palestinians, including 82 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2203,7 +2203,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 271 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (202 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 271 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (202 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2212,7 +2212,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * On 21 November, Israeli forces demolished two structures in two separate locations in East Jerusalem, Al Isawiya and Silwan, due to the lack of Israeli-issued building permits. As a result, six people, including four children, were displaced. Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* On 21 November, Israeli forces demolished two structures in two separate locations in East Jerusalem, Al Isawiya and Silwan, due to the lack of Israeli-issued building permits. As a result, six people, including four children, were displaced. Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2233,7 +2233,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 256 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (189 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 256 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (189 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2242,7 +2242,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2263,7 +2263,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 254 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (187 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 254 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (187 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2272,7 +2272,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2291,7 +2291,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 253 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (186 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 253 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (186 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2300,7 +2300,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2319,7 +2319,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 251 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (185 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 251 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (185 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2328,7 +2328,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
 
-* Additionally, 143 Palestinians, including 72 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits; and 48 Palestinians, including 24 children, have been displaced following punitive demolitions.
+### Funding
 
 
 ---
@@ -2349,7 +2349,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 248 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (182 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 248 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (182 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2360,7 +2360,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, since 7 October, at least 143 Palestinian households comprising 1,014 people, including 388 children, have been displaced amid settler violence and access restrictions. The displaced households are from 15 herding/Bedouin communities. These numbers were updated on 16 November following the receipt of new information.
 
-* Additionally, since 7 October, at least 143 Palestinian households comprising 1,014 people, including 388 children, have been displaced amid settler violence and access restrictions. The displaced households are from 15 herding/Bedouin communities. These numbers were updated on 16 November following the receipt of new information.
+### Funding
 
 
 ---
@@ -2381,7 +2381,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 246 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (180 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 246 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (180 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2390,7 +2390,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 48 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
 
-* Additionally, 48 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
+### Funding
 
 
 ---
@@ -2411,7 +2411,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 244 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (177 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 244 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (177 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2420,7 +2420,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
 
-* Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
+### Funding
 
 
 ---
@@ -2441,7 +2441,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2450,7 +2450,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
 
-* Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
+### Funding
 
 
 ---
@@ -2471,7 +2471,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2480,7 +2480,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
 
-* Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
+### Funding
 
 
 ---
@@ -2499,7 +2499,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 235 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (170 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 235 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (170 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2508,7 +2508,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
 
-* Additionally, 45 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
+### Funding
 
 
 ---
@@ -2529,7 +2529,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 233 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (168 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 233 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (168 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2542,7 +2542,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * In total, 45 Palestinians, including 24 children have been displaced since 7 October, following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
 
-* In total, 45 Palestinians, including 24 children have been displaced since 7 October, following punitive demolitions, and another 135 Palestinians, including 66 children, following demolitions in Area C and East Jerusalem, due to lack of permits.
+### Funding
 
 
 ---
@@ -2563,7 +2563,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 230 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (167 incidents), or both casualties and damage to property (35 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 230 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (167 incidents), or both casualties and damage to property (35 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2572,7 +2572,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 135 Palestinians, including 66 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 15 children, following punitive demolitions.
 
-* An additional 135 Palestinians, including 66 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 15 children, following punitive demolitions.
+### Funding
 
 
 ---
@@ -2589,7 +2589,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 222 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (160 incidents), or both casualties and damage to property (34 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 222 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (160 incidents), or both casualties and damage to property (34 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2598,7 +2598,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 135 Palestinians, including 66 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 15 children, following punitive demolitions.
 
-* An additional 135 Palestinians, including 66 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 15 children, following punitive demolitions.
+### Funding
 
 
 ---
@@ -2619,7 +2619,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 218 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (157 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 218 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (157 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2628,7 +2628,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 13 children, following punitive demolitions.
 
-* An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 13 children, following punitive demolitions.
+### Funding
 
 
 ---
@@ -2649,7 +2649,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 208 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (147 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 208 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (147 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank) 
 
 
 ### Displacement (West Bank) 
@@ -2658,7 +2658,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 13 children, following punitive demolitions.
 
-* An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 27, including 13 children, following punitive demolitions.
+### Funding 
 
 
 ---
@@ -2679,7 +2679,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 202 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (141 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
 
-* Since 7 October, OCHA has recorded 202 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (141 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers.
+### Displacement (West Bank) 
 
 
 ### Displacement (West Bank) 
@@ -2688,7 +2688,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 23, including 13 children, following punitive demolitions.
 
-* An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 23, including 13 children, following punitive demolitions.
+## HUMANITARIAN NEEDS AND RESPONSES 
 
 
 ---
@@ -2709,7 +2709,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Since 7 October, OCHA has recorded 198 settler attacks against Palestinians, resulting in Palestinian casualties (27 incidents), damage to Palestinian-owned property (138 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying, or actively supporting, the attackers.
 
-* Since 7 October, OCHA has recorded 198 settler attacks against Palestinians, resulting in Palestinian casualties (27 incidents), damage to Palestinian-owned property (138 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying, or actively supporting, the attackers.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2718,7 +2718,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 23, including 13 children, following punitive demolitions.
 
-* An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 23, including 13 children, following punitive demolitions.
+### Funding
 
 
 ---
@@ -2743,7 +2743,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * Between 1 and 2 November, Israeli forces arrested at least 135 Palestinians, including two women, across the West Bank, including East Jerusalem, bringing the total number of those arrested since 7 October to at least 1,900, according to Palestinian sources. UN’s Human Rights Office (OHCHR) has received consistent and credible reports of widespread cruel, inhuman, and degrading treatment of detainees. Two Palestinian detainees have died in Israeli custody since 7 October.
 
-* Between 1 and 2 November, Israeli forces arrested at least 135 Palestinians, including two women, across the West Bank, including East Jerusalem, bringing the total number of those arrested since 7 October to at least 1,900, according to Palestinian sources. UN’s Human Rights Office (OHCHR) has received consistent and credible reports of widespread cruel, inhuman, and degrading treatment of detainees. Two Palestinian detainees have died in Israeli custody since 7 October.
+### Displacement (West Bank)
 
 
 ### Displacement (West Bank)
@@ -2752,7 +2752,7 @@ This file includes all sections from flash reports with a header that includes t
 
 * An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 23, including 13 children, following punitive demolitions.
 
-* An additional 120 Palestinians, including 55 children, have been displaced since 7 October following demolitions in Area C and East Jerusalem, due to lack of permits, and another 23, including 13 children, following punitive demolitions.
+### Funding
 
 
 ---

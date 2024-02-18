@@ -45,15 +45,35 @@ const getParagraphMinMatchDistance = (
   });
 };
 
+const linesForSpans = (spans: [number, number][]) => {
+  const lines = new Set<number>();
+  spans.forEach((span) => {
+    const [from, to] = span;
+    let current = from;
+    while (current <= to) {
+      lines.add(current);
+      current += 1;
+    }
+  });
+  return Array.from(lines);
+};
+
+const mapLinesFromSpans = (spans: [number, number][], allLines: string[]) => {
+  return linesForSpans(spans).reduce((lines, lineNumber) => {
+    if (!(allLines[lineNumber] ?? "").trim()) {
+      return lines;
+    }
+    return lines.concat(allLines[lineNumber]);
+  }, [] as string[]);
+};
+
 const parseReportMatches = (reportFile: string, options: MatchOptions) => {
   const parsed = parseMarkdown("reports/" + reportFile);
   const allTextGroups = parsed.blocks
     .map((block) => {
       return {
         heading: parsed.textLines[block.heading[0]],
-        text: block.textBlocks.map(
-          (blockLineBookends) => parsed.textLines[blockLineBookends[0]]
-        ),
+        text: mapLinesFromSpans(block.textBlocks, parsed.textLines),
       };
     })
     .filter((part) =>
