@@ -62,8 +62,10 @@ const extractedValues: Record<
 
 const killedMatcher =
   /(?<all>[0-9,]+) Palestinians have been killed, including (?<child>[0-9,]+) children/;
-const injuredMatcher =
-  /(?<all>[0-9,]+) Palestinians, including (?<child>[0-9,]+) children, have been injured/;
+const injuredMatchers = [
+  /(?<all>[0-9,]+) Palestinians, including (?<child>[0-9,]+) children, have been injured/,
+  /From 7 October 2023 and as of [0-9]+ [A-Za-z]+ 202[34], (?<all>[0-9,]+) Palestinians, including (?<child>[0-9,]+) children, were injured/,
+];
 
 aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
   const reportDate = dateFromFile(reportFile);
@@ -91,21 +93,24 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
           ),
         };
       }
-      const injuredValuesMatch = match.text.match(injuredMatcher);
-      if (
-        injuredValuesMatch &&
-        injuredValuesMatch.groups?.all &&
-        injuredValuesMatch.groups?.child
-      ) {
-        extractedValues[reportDate] = {
-          ...extractedValues[reportDate],
-          injuredCum: +injuredValuesMatch.groups.all.replace(/[^0-9]/, ""),
-          injuredChildrenCum: +injuredValuesMatch.groups.child.replace(
-            /[^0-9]/,
-            ""
-          ),
-        };
-      }
+      injuredMatchers.find((injuredMatcher) => {
+        const injuredValuesMatch = match.text.match(injuredMatcher);
+        if (
+          injuredValuesMatch &&
+          injuredValuesMatch.groups?.all &&
+          injuredValuesMatch.groups?.child
+        ) {
+          extractedValues[reportDate] = {
+            ...extractedValues[reportDate],
+            injuredCum: +injuredValuesMatch.groups.all.replace(/[^0-9]/, ""),
+            injuredChildrenCum: +injuredValuesMatch.groups.child.replace(
+              /[^0-9]/,
+              ""
+            ),
+          };
+          return true;
+        }
+      });
     });
   });
   addDivider(parsedReport);
