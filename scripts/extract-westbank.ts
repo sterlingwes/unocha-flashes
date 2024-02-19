@@ -8,6 +8,7 @@ const matchStrings = [
   "Among the fatalities are 84 children",
   "Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations",
   "Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers",
+  "Since 7 October 2023, OCHA has recorded 552 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents)",
 ];
 
 const files = fs.readdirSync("reports");
@@ -36,6 +37,7 @@ const csvHeader = [
   "killed_children_cum",
   "injured_cum",
   "injured_children_cum",
+  "settler_attacks",
 ];
 const ifValue = (value: string) => (value ? +value : undefined);
 const existingExtractionCsv = fs.readFileSync(csvFileName).toString();
@@ -46,13 +48,20 @@ const extractedValues: Record<
     killedChildrenCum: number;
     injuredCum: number;
     injuredChildrenCum: number;
+    settlerAttacks: number;
   }
 > = existingExtractionCsv
   .split(/\r?\n/)
   .slice(1)
   .reduce((lookup, row) => {
-    const [reportDate, killed, killedChildren, injured, injuredChildren] =
-      row.split(",");
+    const [
+      reportDate,
+      killed,
+      killedChildren,
+      injured,
+      injuredChildren,
+      settlerAttacks,
+    ] = row.split(",");
     return {
       ...lookup,
       [reportDate]: {
@@ -60,6 +69,7 @@ const extractedValues: Record<
         killedChildrenCum: ifValue(killedChildren),
         injuredCum: ifValue(injured),
         injuredChildrenCum: ifValue(injuredChildren),
+        settlerAttacks: ifValue(settlerAttacks),
       },
     };
   }, {});
@@ -82,6 +92,10 @@ const injuredMatchers = [
   /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?(Palestinians|others) (have been|were)?\s?(injured )?(by )?either/,
   /Israeli forces( and settlers)? have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)?[A-Za-z0-9.,\s-]*(Another|An additional|with an additional)?,?\s?(?<allsettler>[0-9,]+)[\\*]* Palestinians (have been|were) injured by settlers/,
   /Since 7 October, Israeli forces and settlers have injured (?<all>[0-9,]+)[\\*]* Palestinians, including at least (?<child>[0-9,]+)[\\*]* children/,
+];
+const settlerAttackMatchers = [
+  /7 October( 2023)?( and as of [0-9]+ [A-Za-z]+( 202[34])?), OCHA( has)? recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks/,
+  /Since 7 October, OCHA has recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks/,
 ];
 const exclusionMatchers = [/Between [0-9]+ January and/];
 
@@ -128,6 +142,7 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
           return true;
         }
       });
+
       injuredMatchers.find((injuredMatcher) => {
         const injuredValuesMatch = match.text.match(injuredMatcher);
         if (
@@ -167,8 +182,23 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
           return true;
         }
       });
+
+      settlerAttackMatchers.find((settlerMatcher) => {
+        const settlerValuesMatch = match.text.match(settlerMatcher);
+        if (settlerValuesMatch && settlerValuesMatch.groups?.all) {
+          extractedValues[reportDate] = {
+            ...extractedValues[reportDate],
+            settlerAttacks: +settlerValuesMatch.groups.all.replace(
+              /[^0-9]/,
+              ""
+            ),
+          };
+          return true;
+        }
+      });
     });
   });
+
   addDivider(parsedReport);
 
   rawReport.push(`## ${dateFromFile(reportFile)}\n`);
@@ -215,6 +245,7 @@ const csv = [csvHeader.join(",")].concat(
         values.killedChildrenCum ?? "",
         values.injuredCum ?? "",
         values.injuredChildrenCum ?? "",
+        values.settlerAttacks ?? "",
       ].join(",");
     })
     .sort((a, b) => b.localeCompare(a))
