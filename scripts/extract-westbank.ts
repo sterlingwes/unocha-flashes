@@ -5,6 +5,9 @@ const matchStrings = [
   "Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
   "Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem",
   "This raises to 331 Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 10 January 2024",
+  "Among the fatalities are 84 children",
+  "Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations",
+  "Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers",
 ];
 
 const files = fs.readdirSync("reports");
@@ -63,11 +66,16 @@ const extractedValues: Record<
 
 const killedMatchers = [
   /(?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children/,
+  /(?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children, have been killed/,
   /raises to (?<all>[0-9,]+)[\\*]* (the number of )?Palestinians killed, including (?<child>[0-9,]+)[\\*]* children/,
+  /(brings|raises) to (?<all>[0-9,]+)[\\*]* (the number of )?Palestinians? (killed|fatalities)[A-Za-z0-9\s,\\.]+ Among the fatalities (are|were) (?<child>[0-9,]+)[\\*]* children/,
+  /A total of (?<all>[0-9,]+)[\\*]* Palestinians (has|have) been killed [A-Za-z0-9\s,\\.]+ Among the fatalities were (?<child>[0-9,]+)[\\*]* children./,
 ];
 const injuredMatchers = [
   /(?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,( have been)?( were)? injured/,
-  /From 7 October 2023 and as of [0-9]+ [A-Za-z]+ 202[34], (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children, were injured/,
+  /(From|Since) 7 October 2023 and as of [0-9]+ [A-Za-z]+ 202[34], (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,? were injured/,
+  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children;[A-Za-z0-9.,\s-]* Another (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?Palestinians have been injured by either/,
+  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children;[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?(Palestinians|others) (have been|were)?\s?(injured )?(by )?either/,
 ];
 
 aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
@@ -83,6 +91,12 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
       );
       killedMatchers.find((killedMatcher) => {
         const killedValuesMatch = match.text.match(killedMatcher);
+        // if (
+        //   reportDate === "2024-01-08" &&
+        //   match.text.includes("A total of 329")
+        // ) {
+        //   console.log({ killedMatcher, killedValuesMatch, text: match.text });
+        // }
         if (
           killedValuesMatch &&
           killedValuesMatch.groups?.all &&
@@ -110,6 +124,25 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
             ...extractedValues[reportDate],
             injuredCum: +injuredValuesMatch.groups.all.replace(/[^0-9]/, ""),
             injuredChildrenCum: +injuredValuesMatch.groups.child.replace(
+              /[^0-9]/,
+              ""
+            ),
+          };
+          return true;
+        }
+
+        if (
+          injuredValuesMatch?.groups?.allidf &&
+          injuredValuesMatch?.groups?.allsettler &&
+          injuredValuesMatch?.groups?.alleither
+        ) {
+          extractedValues[reportDate] = {
+            ...extractedValues[reportDate],
+            injuredCum:
+              +injuredValuesMatch.groups.allidf.replace(/[^0-9]/, "") +
+              +injuredValuesMatch.groups.allsettler.replace(/[^0-9]/, "") +
+              +injuredValuesMatch.groups.alleither.replace(/[^0-9]/, ""),
+            injuredChildrenCum: +injuredValuesMatch.groups.childidf.replace(
               /[^0-9]/,
               ""
             ),
@@ -157,14 +190,16 @@ fs.writeFileSync(
 );
 
 const csv = [csvHeader.join(",")].concat(
-  Object.entries(extractedValues).map(([reportDate, values]) => {
-    return [
-      reportDate,
-      values.killedCum ?? "",
-      values.killedChildrenCum ?? "",
-      values.injuredCum ?? "",
-      values.injuredChildrenCum ?? "",
-    ].join(",");
-  })
+  Object.entries(extractedValues)
+    .map(([reportDate, values]) => {
+      return [
+        reportDate,
+        values.killedCum ?? "",
+        values.killedChildrenCum ?? "",
+        values.injuredCum ?? "",
+        values.injuredChildrenCum ?? "",
+      ].join(",");
+    })
+    .sort((a, b) => b.localeCompare(a))
 );
 fs.writeFileSync(csvFileName, csv.join("\r\n"));
