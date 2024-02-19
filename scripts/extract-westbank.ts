@@ -76,7 +76,7 @@ const injuredMatchers = [
   /(From|Since) 7 October 2023 and as of [0-9]+ [A-Za-z]+ 202[34], (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,? were injured/,
   /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children;[A-Za-z0-9.,\s-]* Another (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?Palestinians have been injured by either/,
   /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?(Palestinians|others) (have been|were)?\s?(injured )?(by )?either/,
-  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers/,
+  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional),? (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers/,
 ];
 const exclusionMatchers = [/Between [0-9]+ January and/];
 

@@ -35,3 +35,5 @@ Generally to fill in missing values you'd:
 - ensure the regex will match against the resulting string once it exists in the non-raw markdown file and add or amend accordingly until the values show up
 
 If you find a segment is matching when it shouldn't, you can add an exclusion regex matcher.
+
+If there's a hard value to match (like written amount, ie: "Seventy") just add the values directly to the CSV and they won't be overwritten.
