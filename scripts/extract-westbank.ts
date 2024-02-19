@@ -66,7 +66,7 @@ const extractedValues: Record<
 
 const killedMatchers = [
   /(?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children/,
-  /(?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children, have been killed/,
+  /(?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,? (have been|were) killed/,
   /raises to (?<all>[0-9,]+)[\\*]* (the number of )?Palestinians killed, including (?<child>[0-9,]+)[\\*]* children/,
   /(brings|raises) to (?<all>[0-9,]+)[\\*]* (the number of )?Palestinians? (killed|fatalities)[A-Za-z0-9\s,\\.]+ Among the fatalities (are|were) (?<child>[0-9,]+)[\\*]* children/,
   /A total of (?<all>[0-9,]+)[\\*]* Palestinians (has|have) been killed [A-Za-z0-9\s,\\.]+ Among the fatalities were (?<child>[0-9,]+)[\\*]* children./,
@@ -75,8 +75,10 @@ const injuredMatchers = [
   /(?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,( have been)?( were)? injured/,
   /(From|Since) 7 October 2023 and as of [0-9]+ [A-Za-z]+ 202[34], (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,? were injured/,
   /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children;[A-Za-z0-9.,\s-]* Another (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?Palestinians have been injured by either/,
-  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children;[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?(Palestinians|others) (have been|were)?\s?(injured )?(by )?either/,
+  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?(Palestinians|others) (have been|were)?\s?(injured )?(by )?either/,
+  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers/,
 ];
+const exclusionMatchers = [/Between [0-9]+ January and/];
 
 aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
   const reportDate = dateFromFile(reportFile);
@@ -89,6 +91,14 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
           match.matchStringIndex + 1
         }))\n`
       );
+
+      const exclude = exclusionMatchers.find((matcher) =>
+        matcher.test(match.text)
+      );
+      if (exclude) {
+        return;
+      }
+
       killedMatchers.find((killedMatcher) => {
         const killedValuesMatch = match.text.match(killedMatcher);
         // if (
@@ -133,15 +143,17 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
 
         if (
           injuredValuesMatch?.groups?.allidf &&
-          injuredValuesMatch?.groups?.allsettler &&
-          injuredValuesMatch?.groups?.alleither
+          injuredValuesMatch?.groups?.allsettler
         ) {
           extractedValues[reportDate] = {
             ...extractedValues[reportDate],
             injuredCum:
               +injuredValuesMatch.groups.allidf.replace(/[^0-9]/, "") +
               +injuredValuesMatch.groups.allsettler.replace(/[^0-9]/, "") +
-              +injuredValuesMatch.groups.alleither.replace(/[^0-9]/, ""),
+              +(injuredValuesMatch.groups.alleither ?? "").replace(
+                /[^0-9]/,
+                ""
+              ),
             injuredChildrenCum: +injuredValuesMatch.groups.childidf.replace(
               /[^0-9]/,
               ""
