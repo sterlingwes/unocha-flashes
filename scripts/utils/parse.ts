@@ -31,7 +31,14 @@ export const parseMarkdown = (filePath: string) => {
     }
 
     if (token.type === "heading_open") {
-      blocks.push({ heading: lineNumberBookends, textBlocks: [] });
+      const last = getLastBlock();
+      if (last && last.heading && !last.textBlocks.length) {
+        return;
+      }
+      blocks.push({
+        heading: lineNumberBookends,
+        textBlocks: [],
+      });
       return;
     }
 

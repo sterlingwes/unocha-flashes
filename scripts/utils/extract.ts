@@ -2,8 +2,8 @@ import lev from "fastest-levenshtein";
 import { parseMarkdown } from "./parse";
 
 type MatchOptions = {
-  headingMatch: string;
   matchStrings: string[];
+  headingMatchStrings: string[];
   levFilterThreshold?: number;
 };
 
@@ -76,8 +76,11 @@ const parseReportMatches = (reportFile: string, options: MatchOptions) => {
         text: mapLinesFromSpans(block.textBlocks, parsed.textLines),
       };
     })
-    .filter((part) =>
-      part.heading.toLowerCase().includes(options.headingMatch.toLowerCase())
+    .filter(
+      (part) =>
+        !!options.headingMatchStrings.find((match) =>
+          part.heading.toLowerCase().includes(match.toLowerCase())
+        )
     );
 
   const maxDistance = options.levFilterThreshold ?? 100;

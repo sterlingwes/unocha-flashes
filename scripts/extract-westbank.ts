@@ -12,11 +12,11 @@ const matchStrings = [
 
 const files = fs.readdirSync("reports");
 
-const headingMatch = "bank"; // match "west bank"
+const headingMatchStrings = ["bank", "settler"]; // match "west bank"
 const levFilterThreshold = 100;
 
 const aggregatedMatches = extractMatches(files, {
-  headingMatch,
+  headingMatchStrings,
   matchStrings,
   levFilterThreshold,
 });
@@ -70,13 +70,18 @@ const killedMatchers = [
   /raises to (?<all>[0-9,]+)[\\*]* (the number of )?Palestinians killed, including (?<child>[0-9,]+)[\\*]* children/,
   /(brings|raises) to (?<all>[0-9,]+)[\\*]* (the number of )?Palestinians? (killed|fatalities)[A-Za-z0-9\s,\\.]+ Among the fatalities (are|were) (?<child>[0-9,]+)[\\*]* children/,
   /A total of (?<all>[0-9,]+)[\\*]* Palestinians (has|have) been killed [A-Za-z0-9\s,\\.]+ Among the fatalities were (?<child>[0-9,]+)[\\*]* children./,
+  /brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to (?<all>[0-9,]+)[\\*]*, including (?<child>[0-9,]+)[\\*]* children/,
+  /Since 7 October, Israeli forces and settlers have killed (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children/,
+  /Israeli forces or settlers in the West Bank have killed (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children/,
+  /the total number of Palestinians killed by Israeli forces or settlers since the start of the escalation to (?<all>[0-9,]+)[\\*]*, including (?<child>[0-9,]+)[\\*]* children/,
 ];
 const injuredMatchers = [
   /(?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,( have been)?( were)? injured/,
   /(From|Since) 7 October 2023 and as of [0-9]+ [A-Za-z]+ 202[34], (?<all>[0-9,]+)[\\*]* Palestinians, including (?<child>[0-9,]+)[\\*]* children,? were injured/,
   /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children;[A-Za-z0-9.,\s-]* Another (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?Palestinians have been injured by either/,
   /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional) (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers and (?<alleither>[0-9,]+)[\\*]* (other )?(Palestinians|others) (have been|were)?\s?(injured )?(by )?either/,
-  /Israeli forces have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)[A-Za-z0-9.,\s-]* (Another|An additional),? (?<allsettler>[0-9,]+)[\\*]* Palestinians have been injured by settlers/,
+  /Israeli forces( and settlers)? have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)?[A-Za-z0-9.,\s-]*(Another|An additional|with an additional)?,?\s?(?<allsettler>[0-9,]+)[\\*]* Palestinians (have been|were) injured by settlers/,
+  /Since 7 October, Israeli forces and settlers have injured (?<all>[0-9,]+)[\\*]* Palestinians, including at least (?<child>[0-9,]+)[\\*]* children/,
 ];
 const exclusionMatchers = [/Between [0-9]+ January and/];
 
@@ -188,7 +193,7 @@ const parsedReportHeadSection = [
 
 const rawReportHeadSection = [
   "# Raw Extracts\n",
-  `This file includes all sections from flash reports with a header that includes these match term(s): "${headingMatch}". This is the base text document used for extracting other more specific matches found in the non-raw parsed markdown outputs.\n`,
+  `This file includes all sections from flash reports with a header that includes these match term(s): "${headingMatchStrings}". This is the base text document used for extracting other more specific matches found in the non-raw parsed markdown outputs.\n`,
   "---\n",
 ];
 
