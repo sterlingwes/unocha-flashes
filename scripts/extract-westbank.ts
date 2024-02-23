@@ -9,6 +9,7 @@ const matchStrings = [
   "Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations",
   "Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers",
   "Since 7 October 2023, OCHA has recorded 552 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents)",
+  "Since 7 October 2023, a total of 397 Palestinians have been killed, including 101 children, and 4,530 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
 ];
 
 const files = fs.readdirSync("reports");
@@ -93,6 +94,9 @@ const injuredMatchers = [
   /Israeli forces( and settlers)? have injured (?<allidf>[0-9,]+)[\\*]* Palestinians, including at least (?<childidf>[0-9,]+)[\\*]* children(;|,)?[A-Za-z0-9.,\s-]*(Another|An additional|with an additional)?,?\s?(?<allsettler>[0-9,]+)[\\*]* Palestinians (have been|were) injured by settlers/,
   /Since 7 October, Israeli forces and settlers have injured (?<all>[0-9,]+)[\\*]* Palestinians, including at least (?<child>[0-9,]+)[\\*]* children/,
 ];
+const bulkMatchers = [
+  /Since 7 October 2023, a total of (?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children, and (?<allinj>[0-9,]+)[\\*]* Palestinians have been injured, including (?<childinj>[0-9,]+)[\\*]* children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel/,
+];
 const settlerAttackMatchers = [
   /7 October( 2023)?( and as of [0-9]+ [A-Za-z]+( 202[34])?), OCHA( has)? recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks/,
   /Since 7 October, OCHA has recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks/,
@@ -117,6 +121,32 @@ aggregatedMatches.forEach(({ reportFile, allTextGroups, closestText }) => {
       if (exclude) {
         return;
       }
+
+      bulkMatchers.find((bulkMatcher) => {
+        const bulkValuesMatch = match.text.match(bulkMatcher);
+        if (
+          bulkValuesMatch &&
+          bulkValuesMatch.groups?.all &&
+          bulkValuesMatch.groups?.child &&
+          bulkValuesMatch.groups?.allinj &&
+          bulkValuesMatch.groups?.childinj
+        ) {
+          extractedValues[reportDate] = {
+            ...extractedValues[reportDate],
+            killedCum: +bulkValuesMatch.groups.all.replace(/[^0-9]/, ""),
+            killedChildrenCum: +bulkValuesMatch.groups.child.replace(
+              /[^0-9]/,
+              ""
+            ),
+            injuredCum: +bulkValuesMatch.groups.allinj.replace(/[^0-9]/, ""),
+            injuredChildrenCum: +bulkValuesMatch.groups.childinj.replace(
+              /[^0-9]/,
+              ""
+            ),
+          };
+          return true;
+        }
+      });
 
       killedMatchers.find((killedMatcher) => {
         const killedValuesMatch = match.text.match(killedMatcher);
