@@ -37,3 +37,11 @@ Generally to fill in missing values you'd:
 If you find a segment is matching when it shouldn't, you can add an exclusion regex matcher.
 
 If there's a hard value to match (like written amount, ie: "Seventy") just add the values directly to the CSV and they won't be overwritten.
+
+## Updating Values
+
+To attempt to pull the latest report (assumes the path formatting hasn't changed): run `bun pull --new`. `bun pull` without the `new` flag will just try to fetch any unfetched links in the links.json file, which is denoted by the truthiness of the third item in each link array.
+
+Commit the updated links.json if the fetch was successful to have a new basis next time.
+
+If two days of pulls are unsuccessful there either: (a) may not be a report for the given day, as they have skipped days in the past; or (b) the expected path formatting may have changed. Check [the OCHA crisis page](https://www.ochaopt.org/crisis) to verify.

@@ -3,7 +3,22 @@ import puppeteer from "puppeteer";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import reportLinks from "./links.json";
 
-// @ts-expect-error forcing type
+if (process.argv.includes("--new")) {
+  const [[linkTitle, linkPath]] = reportLinks;
+  const pathParts = (linkPath || "").toString().split("-");
+  const linkPathIdPart = +(pathParts.pop() ?? 0);
+  const newPath = `${pathParts.join("-")}-${linkPathIdPart + 1}`;
+  if (linkPathIdPart) {
+    reportLinks.unshift([
+      linkTitle
+        .toString()
+        .replace(`#${linkPathIdPart}`, `#${linkPathIdPart + 1}`),
+      newPath,
+    ]);
+  }
+}
+
+// @ts-expect-error fixing type - more specific than from inferred
 const unfetchedLinks: [string, string, boolean][] = reportLinks.filter(
   ([, , fetched]) => !fetched
 );
@@ -14,7 +29,10 @@ const getReport = async (slug: string) => {
   const page = await browser.newPage();
 
   // Navigate the page to a URL
-  await page.goto(`https://www.ochaopt.org/${slug}`);
+  const response = await page.goto(`https://www.ochaopt.org/${slug}`);
+  if (response?.status() === 404) {
+    throw new Error(`No report yet at ${slug}`);
+  }
 
   // Set screen size
   await page.setViewport({ width: 1080, height: 1024 });
