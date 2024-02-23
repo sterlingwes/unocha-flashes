@@ -36,11 +36,26 @@ const getReport = async (slug: string) => {
 
   const markdown = NodeHtmlMarkdown.translate(/* html */ contentHtml);
   fs.writeFileSync(`reports/flash-${isoTime}.md`, markdown);
+  return isoTime;
 };
 
 console.log(`fetching from ${unfetchedLinks.length} unfetched links`);
-unfetchedLinks.reduce(async (chain, [linkText, href]) => {
+
+const fetchedLinks: Record<string, string> = {}; // href => reportDate
+
+unfetchedLinks.reduce(async (chain, [label, href]) => {
   await chain;
-  console.log(`fetching ${linkText} at ${href}`);
-  await getReport(href);
+  console.log(`fetching ${label} at ${href}`);
+  const reportDate = await getReport(href);
+  fetchedLinks[href] = reportDate;
 }, Promise.resolve());
+
+// write fetched status to report
+const newLinks = reportLinks.map((link) => {
+  const reportDate = fetchedLinks[link[1] as string];
+  if (reportDate) {
+    return [link[0], link[1], reportDate];
+  }
+  return link;
+});
+fs.writeFileSync("scripts/links.json", JSON.stringify(newLinks, null, 2));
