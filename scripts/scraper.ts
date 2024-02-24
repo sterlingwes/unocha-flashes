@@ -61,7 +61,7 @@ console.log(`fetching from ${unfetchedLinks.length} unfetched links`);
 
 const fetchedLinks: Record<string, string> = {}; // href => reportDate
 
-unfetchedLinks.reduce(async (chain, [label, href]) => {
+await unfetchedLinks.reduce(async (chain, [label, href]) => {
   await chain;
   console.log(`fetching ${label} at ${href}`);
   const reportDate = await getReport(href);

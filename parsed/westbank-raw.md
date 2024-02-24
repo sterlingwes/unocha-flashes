@@ -4,6 +4,29 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-02-23
+
+### West Bank Updates
+
+* On 22 February, an Israeli drone struck a vehicle travelling in Jenin refugee camp, killing two Palestinians, a man and a 17-year-old child, and injuring 13 other Palestinians, including one in a critical condition. According to the Israeli military, the man was involved in attacks against Israelis and was on his way to carry out another attack.
+
+* Since 7 October 2023, 399 Palestinians have been killed, including 102 children, and 4,545 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* On 21 February, OCHA issued a [report](https://www.ochaopt.org/content/over-4000-palestinians-displaced-west-bank-2023) highlighting trends in displacement in the West Bank, including East Jerusalem, in 2023\. About 4,000 Palestinians were displaced from their homes in 2023, of whom 29 per cent (1,153) were displaced when 214 homes were demolished in Area C and East Jerusalem for lacking building permits issued by the Israeli authorities, the highest such figure documented by OCHA since 2009\. Israeli settler violence and shrinking access to grazing land were also a main cause of displacement; at least 1,539 Palestinians (39 per cent of total displacement) were displaced in this context in 2023, the majority in the aftermath of 7 October, with at least 14 Palestinian communities now completely depopulated. Nearly twenty-five per cent of the overall displacement (911) took place as a result of operations carried out by the Israeli army, particularly in refugee camps in the northern West Bank. Some 200 Palestinians (5 per cent) were additionally displaced from Masafer Yatta and H2 areas of Hebron, citing heightened access and movement restrictions and search-and-arrest operations by the Israeli army after 7 October. Finally, 173 people were displaced as a result of the punitive demolition of homes belonging to the families of Palestinians allegedly responsible for attacks against Israelis, accounting for 4 per cent of overall displacement.
+
+* On 21 February, a Palestinian family in Ath Thuri in East Jerusalem was forced to demolish the two upper floors of their three-storey residential building, due to the lack of Israeli-issued permits. The first floor was built before 1967 and did not receive a demolition order. As a result, five families comprising 23 children, including 12 children, were displaced. Since 7 October 2023, 576 people, including 276 children, have been displaced in Area C, and East Jerusalem, after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* Since 7 October 2023, Israeli forces punitively demolished or sealed off 24 Palestinian-owned homes, displacing 117 Palestinians, including 51 children.
+
+* Since 7 October 2023, 830 Palestinians, including 337 children, have been displaced, following the destruction of 131 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+
+* On 23 February, an Israeli settler from an outpost associated with Nili settlement, near Qibya village (west of Ramallah), shot and injured a Palestinian man, with live ammunition reportedly after the settler brought his livestock to graze on cultivated Palestinian land. Also on 23 February, settlers from Bracha settlement raided the village of Burin in Nablus and set fire to a Palestinian vehicle. Since 7 October 2023, OCHA has recorded 583 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (52 incidents), damage to Palestinian-owned property (467 incidents), or both casualties and damage to property (64 incidents).
+
+### Funding
+
+
+---
+
 ## 2024-02-22
 
 ### West Bank Updates
