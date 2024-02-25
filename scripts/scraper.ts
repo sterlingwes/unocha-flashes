@@ -31,7 +31,9 @@ const getReport = async (slug: string) => {
   // Navigate the page to a URL
   const response = await page.goto(`https://www.ochaopt.org/${slug}`);
   if (response?.status() === 404) {
-    throw new Error(`No report yet at ${slug}`);
+    throw new Error(
+      `No report yet at ${slug}, check https://www.ochaopt.org/crisis`
+    );
   }
 
   // Set screen size
