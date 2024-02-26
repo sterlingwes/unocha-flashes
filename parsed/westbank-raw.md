@@ -4,6 +4,29 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-02-26
+
+### West Bank Updates
+
+* On 26 February, a Palestinian man died of wounds sustained on 22 February as a result of an Israeli drone-fired missile that struck a vehicle travelling in Jenin refugee camp, during which two additional Palestinians, including a child, were killed. The man was in his barbershop at the time of the attack.
+
+* Since 7 October 2023 and as of 26 February, 400 Palestinians have been killed, including 102 children, and as of 23 February, 4,575 Palestinians have been injured, including 707 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* On 20 February, a Palestinian family comprising six people, including three children, was forced to leave Ein Samiya Bedouin community in Ramallah governorate due to attacks by Israeli setters that included stealing of sheep and opening fire at herders. This is one of three families who have remained in the community after 27 other families were forcibly displaced in May 2023\. Earlier on 13 February, threats and physical attacks on herders by settlers from a new settlement outpost near Asfar settlement in Hebron forced a herding family near Kisan village to leave their community along with 100 sheep. Since 7 October 2023, at least 200 Palestinian households comprising 1,222 people, including 595 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 19 herding/Bedouin communities. The displacement toll represents almost 80 per cent of all displacement from different Israeli practices across the West Bank, including East Jerusalem, since 7 October.
+
+* Since 7 October 2023, 576 people, including 276 children, have been displaced in Area C and East Jerusalem, after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* Latest field assessments show that, since 7 October 2023, 848 Palestinians, including 397 children, have been displaced, following the destruction of 132 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+
+* Since 7 October 2023, OCHA has recorded 586 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (53 incidents), damage to Palestinian-owned property (468 incidents), or both casualties and damage to property (65 incidents).
+
+* On 22 February, following a fatal Palestinian shooting attack on Road 1 near Az Za’ayyem checkpoint, the Israeli authorities banned the movement of Palestinian-plated vehicles on Road 1 during peak hours between 6:00 and 9:00 for 15 days, affecting the movement of thousands of Palestinians.
+
+## Humanitarian Needs and Response Updates | 20–26 February
+
+
+---
+
 ## 2024-02-23
 
 ### West Bank Updates
