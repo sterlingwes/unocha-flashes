@@ -2,14 +2,14 @@ import fs from "fs";
 import { extractMatches } from "./utils/extract";
 
 const matchStrings = [
-  "Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
-  "Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem",
-  "This raises to 331 Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 10 January 2024",
+  "Since 7 October 2023, 000 Palestinians have been killed, including 000 children, and 0,000 Palestinians, including 000 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
+  "Since 7 October 2023 and as of 00 January 2024, 000 Palestinians have been killed, including 00 children, across the West Bank, including East Jerusalem",
+  "This raises to 000 Palestinians killed, including 00 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 00 January 2024",
   "Among the fatalities are 84 children",
-  "Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations",
-  "Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers",
-  "Since 7 October 2023, OCHA has recorded 552 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents)",
-  "Since 7 October 2023, a total of 397 Palestinians have been killed, including 101 children, and 4,530 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
+  "Since 7 October 2023 and as of 0 January 2024, Israeli forces have injured 0,000 Palestinians, including at least 000 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations",
+  "Another 00 Palestinians have been injured by settlers and 00 other Palestinians have been injured by either Israeli forces or settlers",
+  "Since 7 October 2023, OCHA has recorded 000 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents)",
+  "Since 7 October 2023, a total of 000 Palestinians have been killed, including 000 children, and 0,000 Palestinians have been injured, including 000 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel",
 ];
 
 const files = fs.readdirSync("reports");

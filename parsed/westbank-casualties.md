@@ -2,21 +2,21 @@
 
 This file includes all extracts from parsed/westbank-raw.md that match one of the following template strings within a Levenshtein distance of <= 100:
 
-* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel
+* Since 7 October 2023, 000 Palestinians have been killed, including 000 children, and 0,000 Palestinians, including 000 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel
 
-* Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem
+* Since 7 October 2023 and as of 00 January 2024, 000 Palestinians have been killed, including 00 children, across the West Bank, including East Jerusalem
 
-* This raises to 331 Palestinians killed, including 84 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 10 January 2024
+* This raises to 000 Palestinians killed, including 00 children, in the West Bank, including East Jerusalem, since 7 October 2023 and as of 00 January 2024
 
 * Among the fatalities are 84 children
 
-* Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations
+* Since 7 October 2023 and as of 0 January 2024, Israeli forces have injured 0,000 Palestinians, including at least 000 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations
 
-* Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers
+* Another 00 Palestinians have been injured by settlers and 00 other Palestinians have been injured by either Israeli forces or settlers
 
-* Since 7 October 2023, OCHA has recorded 552 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents)
+* Since 7 October 2023, OCHA has recorded 000 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents)
 
-* Since 7 October 2023, a total of 397 Palestinians have been killed, including 101 children, and 4,530 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel
+* Since 7 October 2023, a total of 000 Palestinians have been killed, including 000 children, and 0,000 Palestinians have been injured, including 000 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel
 
 In double nested brackets you'll see the distance number and which string matched (though more than one string may have matched). For example: ((34 for #2)) would be a distance of 34 vs. the second template string in the list above.
 
@@ -26,9 +26,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023 and as of 27 February, 403 Palestinians have been killed, including 102 children, and 4,590 Palestinians have been injured, including 708 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 90 Palestinians have been killed, including 25 in refugee camps. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((25 for #2))
+* Since 7 October 2023 and as of 27 February, 403 Palestinians have been killed, including 102 children, and 4,590 Palestinians have been injured, including 708 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 90 Palestinians have been killed, including 25 in refugee camps. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((28 for #2))
 
-* Between 25 and 26 February, some 50 Palestinians were arrested across the West Bank, including East Jerusalem. Over 5,700 Palestinians have been arrested since 7 October. ((91 for #7))
+* Between 25 and 26 February, some 50 Palestinians were arrested across the West Bank, including East Jerusalem. Over 5,700 Palestinians have been arrested since 7 October. ((89 for #7))
 
 * On 27 February, Israeli forces shot and killed three Palestinians, and another Palestinian was injured, in two separate military operations in Tubas city and the nearby El Far'a Refugee Camp (both in Tubas). The raid in the camp involved an exchange of fire between Palestinians and Israeli forces and the throwing of pipe bombs and stones by Palestinians. Two of the fatalities, including a bystander, were killed in this incident. Initial information indicates that Israeli forces bulldozed multiple sections of streets in the camp, causing damage to infrastructure, including water networks, resulting in continuous water cut-offs. The third fatality occurred when a unit of undercover Israeli forces entered Tubas city and shot him. Reportedly, there was no exchange of fire. ((99 for #1))
 
@@ -45,7 +45,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023 and as of 26 February, 400 Palestinians have been killed, including 102 children, and as of 23 February, 4,575 Palestinians have been injured, including 707 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((45 for #2))
+* Since 7 October 2023 and as of 26 February, 400 Palestinians have been killed, including 102 children, and as of 23 February, 4,575 Palestinians have been injured, including 707 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((47 for #2))
 
 * On 26 February, a Palestinian man died of wounds sustained on 22 February as a result of an Israeli drone-fired missile that struck a vehicle travelling in Jenin refugee camp, during which two additional Palestinians, including a child, were killed. The man was in his barbershop at the time of the attack. ((100 for #1))
 
@@ -55,7 +55,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ## Humanitarian Needs and Response Updates | 20–26 February ((48 for #8))
 
-* Since 7 October 2023, OCHA has recorded 586 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (53 incidents), damage to Palestinian-owned property (468 incidents), or both casualties and damage to property (65 incidents). ((6 for #6))
+* Since 7 October 2023, OCHA has recorded 586 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (53 incidents), damage to Palestinian-owned property (468 incidents), or both casualties and damage to property (65 incidents). ((7 for #6))
 
 
 ---
@@ -64,7 +64,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023, 399 Palestinians have been killed, including 102 children, and 4,545 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((15 for #2))
+* Since 7 October 2023, 399 Palestinians have been killed, including 102 children, and 4,545 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((22 for #2))
 
 * On 21 February, OCHA issued a [report](https://www.ochaopt.org/content/over-4000-palestinians-displaced-west-bank-2023) highlighting trends in displacement in the West Bank, including East Jerusalem, in 2023\. About 4,000 Palestinians were displaced from their homes in 2023, of whom 29 per cent (1,153) were displaced when 214 homes were demolished in Area C and East Jerusalem for lacking building permits issued by the Israeli authorities, the highest such figure documented by OCHA since 2009\. Israeli settler violence and shrinking access to grazing land were also a main cause of displacement; at least 1,539 Palestinians (39 per cent of total displacement) were displaced in this context in 2023, the majority in the aftermath of 7 October, with at least 14 Palestinian communities now completely depopulated. Nearly twenty-five per cent of the overall displacement (911) took place as a result of operations carried out by the Israeli army, particularly in refugee camps in the northern West Bank. Some 200 Palestinians (5 per cent) were additionally displaced from Masafer Yatta and H2 areas of Hebron, citing heightened access and movement restrictions and search-and-arrest operations by the Israeli army after 7 October. Finally, 173 people were displaced as a result of the punitive demolition of homes belonging to the families of Palestinians allegedly responsible for attacks against Israelis, accounting for 4 per cent of overall displacement. ((32 for #3))
 
@@ -74,7 +74,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #8))
 
-* On 23 February, an Israeli settler from an outpost associated with Nili settlement, near Qibya village (west of Ramallah), shot and injured a Palestinian man, with live ammunition reportedly after the settler brought his livestock to graze on cultivated Palestinian land. Also on 23 February, settlers from Bracha settlement raided the village of Burin in Nablus and set fire to a Palestinian vehicle. Since 7 October 2023, OCHA has recorded 583 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (52 incidents), damage to Palestinian-owned property (467 incidents), or both casualties and damage to property (64 incidents). ((7 for #7))
+* On 23 February, an Israeli settler from an outpost associated with Nili settlement, near Qibya village (west of Ramallah), shot and injured a Palestinian man, with live ammunition reportedly after the settler brought his livestock to graze on cultivated Palestinian land. Also on 23 February, settlers from Bracha settlement raided the village of Burin in Nablus and set fire to a Palestinian vehicle. Since 7 October 2023, OCHA has recorded 583 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (52 incidents), damage to Palestinian-owned property (467 incidents), or both casualties and damage to property (64 incidents). ((8 for #7))
 
 
 ---
@@ -83,7 +83,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023, a total of 397 Palestinians have been killed, including 101 children, and 4,530 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((0 for #3))
+* Since 7 October 2023, a total of 397 Palestinians have been killed, including 101 children, and 4,530 Palestinians have been injured, including 702 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((10 for #3))
 
 * Initial information indicates that on the morning of 22 February, three Palestinian men from Bethlehem perpetrated a shooting attack near Az Za’ayyem checkpoint that controls access to East Jerusalem from the east. As a result, one Israeli settler and two of the three Palestinian men were killed and six Israelis were injured, one of whom is in critical condition. According to Israeli military sources, three Palestinians stopped their vehicle at a junction close to Ma’ale Adumim settlement during a traffic jam and opened fire at Israeli vehicles. Following the incident, Israeli forces closed all checkpoints leading to Jerusalem. ((58 for #2))
 
@@ -93,7 +93,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #9))
 
-* In two separate incidents on 20 February, in Asira al Qibliya village in Nablus, Israeli settlers reportedly from Yitzhar settlement threw a sound grenade at an electricity pole, causing electricity outages in the village for half-an-hour, and opened fire at a Palestinian vehicle when the driver tried to avoid a flying checkpoint they had erected along with the guards of the settlement. Settlers from Yitzhar settlement also raided the village on 21 February and threw stones and incendiary materials in the yard of two houses. As a result, a man was hurt in the leg while the yard of one of the houses and two vehicles parked outside the houses sustained damage. Since 7 October 2023 and as of 21 February, OCHA has recorded 577 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (463 incidents), or both casualties and damage to property (63 incidents). ((28 for #8))
+* In two separate incidents on 20 February, in Asira al Qibliya village in Nablus, Israeli settlers reportedly from Yitzhar settlement threw a sound grenade at an electricity pole, causing electricity outages in the village for half-an-hour, and opened fire at a Palestinian vehicle when the driver tried to avoid a flying checkpoint they had erected along with the guards of the settlement. Settlers from Yitzhar settlement also raided the village on 21 February and threw stones and incendiary materials in the yard of two houses. As a result, a man was hurt in the leg while the yard of one of the houses and two vehicles parked outside the houses sustained damage. Since 7 October 2023 and as of 21 February, OCHA has recorded 577 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (463 incidents), or both casualties and damage to property (63 incidents). ((29 for #8))
 
 
 ---
@@ -102,7 +102,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023 and as of 20 February, 394 Palestinians have been killed, including 100 children, and 4,528 Palestinians, including 702 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 12 Israelis, including four members of Israeli forces, were killed and 80 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((59 for #2))
+* Since 7 October 2023 and as of 20 February, 394 Palestinians have been killed, including 100 children, and 4,528 Palestinians, including 702 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 12 Israelis, including four members of Israeli forces, were killed and 80 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((64 for #2))
 
 * On 20 February, an Israeli forces undercover unit shot and killed a Palestinian man after besieging a house in Jenin Refugee Camp; another Palestinian was injured. The unit was followed by Israeli forces and bulldozers. Clashes erupted between Palestinian armed groups and Israeli forces, with reports on an exchange of fire when the unit was discovered by Palestinians. Initial information indicates that multiple sections of roads in the camp were bulldozed, causing severe damage to infrastructure, and at least two houses sustained severe damage when they were hit by Israeli drones. The operation ended in the early morning hours of the next day. ((99 for #1))
 
@@ -112,7 +112,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #6))
 
-* Since 7 October 2023 and as of 20 February, OCHA has recorded 573 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (459 incidents), or both casualties and damage to property (63 incidents). ((27 for #3))
+* Since 7 October 2023 and as of 20 February, OCHA has recorded 573 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (459 incidents), or both casualties and damage to property (63 incidents). ((28 for #3))
 
 
 ---
@@ -121,7 +121,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023 and as of 19 February, 393 Palestinians have been killed, including 100 children, and 4,522 Palestinians, including 702 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 12 Israelis, including four members of Israeli forces, were killed and 80 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((59 for #1))
+* Since 7 October 2023 and as of 19 February, 393 Palestinians have been killed, including 100 children, and 4,522 Palestinians, including 702 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 12 Israelis, including four members of Israeli forces, were killed and 80 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((65 for #1))
 
 * On 19 February, large numbers of Israeli settlers, accompanied by Israeli forces, raided the village of Burqa in Nablus, after a Molotov cocktail was reportedly thrown at a settler vehicle driving in the area, injuring the passenger. Settlers set fire to two vehicles and damaged three others. Israeli forces reportedly conducted a search-and-arrest operation for fifteen hours, resulting in damage to at least ten houses. One Palestinian was injured after being physically assaulted by Israeli forces. Israeli forces have withdrawn but access to and from the village is still restricted. ((79 for #2))
 
@@ -129,7 +129,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #7))
 
-* Since 7 October 2023 and as of 19 February, OCHA has recorded 561 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (450 incidents), or both casualties and damage to property (61 incidents). ((26 for #4))
+* Since 7 October 2023 and as of 19 February, OCHA has recorded 561 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (450 incidents), or both casualties and damage to property (61 incidents). ((27 for #4))
 
 
 ---
@@ -138,7 +138,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023 and as of 18 February, 393 Palestinians have been killed, including 100 children, and 4,511 Palestinians, including 699 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 12 Israelis, including four members of Israeli forces, were killed and 80 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((61 for #3))
+* Since 7 October 2023 and as of 18 February, 393 Palestinians have been killed, including 100 children, and 4,511 Palestinians, including 699 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 12 Israelis, including four members of Israeli forces, were killed and 80 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((65 for #3))
 
 * On 16 February, two Israeli men were shot and killed in southern Israel, and four others including a child were injured, by a Palestinian man from Shu’fat refugee camp in East Jerusalem. The Palestinian man was then shot and killed by an armed Israeli civilian. Following the incident, Israeli forces closed the checkpoint leading to Shu'fat Refugee camp and raided the camp. ((88 for #1))
 
@@ -148,7 +148,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #7))
 
-* Since 7 October 2023 and as of 16 February, OCHA has recorded 558 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (447 incidents), or both casualties and damage to property (61 incidents). ((25 for #4))
+* Since 7 October 2023 and as of 16 February, OCHA has recorded 558 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (447 incidents), or both casualties and damage to property (61 incidents). ((27 for #4))
 
 
 ---
@@ -157,13 +157,13 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 75 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((54 for #1))
+* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,503 Palestinians, including 698 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 75 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((56 for #1))
 
 * Since 7 October 2023, 814 Palestinians, including 332 children, have been displaced, following the destruction of 127 homes during operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. ((83 for #4))
 
 ### Funding ((34 for #5))
 
-* Since 7 October 2023, OCHA has recorded 552 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents). ((0 for #2))
+* Since 7 October 2023, OCHA has recorded 552 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (51 incidents), damage to Palestinian-owned property (440 incidents), or both casualties and damage to property (61 incidents). ((3 for #2))
 
 
 ---
@@ -172,11 +172,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,499 Palestinians, including 697 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 75 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((55 for #2))
+* Since 7 October 2023, 389 Palestinians have been killed, including 100 children, and 4,499 Palestinians, including 697 children, have been injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 75 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((57 for #2))
 
 * On 14 February, Israeli forces shot and killed a 16-year-old Palestinian boy and injured 18 others (including 10 children), all by live ammunition, during an Israeli army raid in the village of Beit Ummar in Hebron at the time of dismissal of students from schools. During the raid, clashes took place between Palestinian stone throwers and Israeli soldiers. ((89 for #1))
 
-* On 13 February, Israeli settlers, accompanied by Israeli forces, raided the village of Yasuf, in Salfit governorate, as well as threw stones and shot live ammunition at houses. As a result, one Palestinian was injured, and two houses sustained damage. In addition, settlers forced out some families picnicking near a water spring in the village. Since 7 October 2023, OCHA has recorded 537 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (427 incidents), or both casualties and damage to property (60 incidents). ((7 for #3))
+* On 13 February, Israeli settlers, accompanied by Israeli forces, raided the village of Yasuf, in Salfit governorate, as well as threw stones and shot live ammunition at houses. As a result, one Palestinian was injured, and two houses sustained damage. In addition, settlers forced out some families picnicking near a water spring in the village. Since 7 October 2023, OCHA has recorded 537 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (427 incidents), or both casualties and damage to property (60 incidents). ((8 for #3))
 
 * On 14 February, the Israeli authorities demolished a residential structure comprising three housing units in Silwan, in East Jerusalem, due to the lack of building permits. As a result, three households comprising 11 people, including five children, were displaced. The residence belonged to the family of a community leader who has been outspoken against the demolition of Palestinian homes in East Jerusalem, particularly in Silwan. Since 7 October 2023, 524 people, including 256 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain. ((99 for #4))
 
@@ -191,13 +191,13 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023, 388 Palestinians have been killed, including 99 children, and 4,475 Palestinians, including 686 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 75 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((48 for #1))
+* Since 7 October 2023, 388 Palestinians have been killed, including 99 children, and 4,475 Palestinians, including 686 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 75 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((50 for #1))
 
 * On 13 February, a Palestinian residence was rendered uninhabitable after being targeted by two off-shoulder missiles during an operation by Israeli forces in Sir village in Jenin, displacing a family of six. Moreover, initial information indicates that the destruction of homes and roads, during the Israeli military operation in Jenin Refugee Camp on 13 February, has hindered the access of residents to Jenin city. Since 7 October 2023, 814 Palestinians, including 332 children, have been displaced, following the destruction of 127 homes during operations carried out by Israeli forces across the West Bank. About 94 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. ((83 for #3))
 
 ### Funding ((34 for #5))
 
-* On 12 February, Israeli settlers, accompanied by Israeli forces, raided Jinba community in the Masafer Yatta area in southern Hebron, searched Palestinian houses, and destroyed belongings inside some 18 houses. Israeli settlers also stole electric tools, water pumps and generators, as well as destroyed the main door of the community’s health clinic and speakers of the local mosque. Furthermore, settlers raided two animal pens, which caused panic among sheep and the death of two lambs while trying to run away. Since 7 October 2023, OCHA has recorded 532 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (423 incidents), or both casualties and damage to property (59 incidents). ((7 for #2))
+* On 12 February, Israeli settlers, accompanied by Israeli forces, raided Jinba community in the Masafer Yatta area in southern Hebron, searched Palestinian houses, and destroyed belongings inside some 18 houses. Israeli settlers also stole electric tools, water pumps and generators, as well as destroyed the main door of the community’s health clinic and speakers of the local mosque. Furthermore, settlers raided two animal pens, which caused panic among sheep and the death of two lambs while trying to run away. Since 7 October 2023, OCHA has recorded 532 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (50 incidents), damage to Palestinian-owned property (423 incidents), or both casualties and damage to property (59 incidents). ((9 for #2))
 
 
 ---
@@ -206,11 +206,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023, 388 Palestinians have been killed, including 99 children, and 4,475 Palestinians, including 686 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 73 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((48 for #3))
+* Since 7 October 2023, 388 Palestinians have been killed, including 99 children, and 4,475 Palestinians, including 686 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 73 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((50 for #3))
 
-* On 11 February, Israeli forces shot and killed a Palestinian man at the entrance of Battir village in Bethlehem. The Israeli military reported that the man attempted to perpetrate a stabbing attack against soldiers, while local accounts indicated that he was shot after he had been stopped by Israeli forces. According to Palestinian medical sources, the man was shot more than 20 times, and an ambulance was prevented from reaching him; after a few hours his body was then handed over. ((90 for #1))
+* On 11 February, Israeli forces shot and killed a Palestinian man at the entrance of Battir village in Bethlehem. The Israeli military reported that the man attempted to perpetrate a stabbing attack against soldiers, while local accounts indicated that he was shot after he had been stopped by Israeli forces. According to Palestinian medical sources, the man was shot more than 20 times, and an ambulance was prevented from reaching him; after a few hours his body was then handed over. ((91 for #1))
 
-* Since 7 October 2023, OCHA has recorded 527 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (50 incidents), damage to Palestinian-owned property (418 incidents), or both casualties and damage to property (59 incidents). According to initial information, on 12 February, Israeli settlers raided Huwwara and Asira al Qibliya, both in Nablus governorate, and threw incendiary materials at Palestinian residences and parked vehicles. Clashes between Palestinians and settlers, who were accompanied by Israeli forces, were reported. Two Palestinians sustained live ammunition injuries, and residential houses and vehicles sustained moderate to severe damage. ((15 for #4))
+* Since 7 October 2023, OCHA has recorded 527 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (50 incidents), damage to Palestinian-owned property (418 incidents), or both casualties and damage to property (59 incidents). According to initial information, on 12 February, Israeli settlers raided Huwwara and Asira al Qibliya, both in Nablus governorate, and threw incendiary materials at Palestinian residences and parked vehicles. Clashes between Palestinians and settlers, who were accompanied by Israeli forces, were reported. Two Palestinians sustained live ammunition injuries, and residential houses and vehicles sustained moderate to severe damage. ((16 for #4))
 
 * On 10 February, a Palestinian family was forced to demolish their house in the At Tur neighbourhood of East Jerusalem due to the lack of Israeli-issued building permit. Consequently, five people, including three children, were displaced. Since 7 October 2023, 513 people, including 251 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain. ((50 for #5))
 
@@ -236,7 +236,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates
 
-* Since 7 October 2023 and as of 9 February 2024, 384 Palestinians have been killed, including 97 children, and 4,443 Palestinians, including 672 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, ten Israelis, including four members of security forces, were killed, and 73 injured, in conflict-related incidents in the West Bank, including East Jerusalem, or in Israel. ((58 for #2))
+* Since 7 October 2023 and as of 9 February 2024, 384 Palestinians have been killed, including 97 children, and 4,443 Palestinians, including 672 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, ten Israelis, including four members of security forces, were killed, and 73 injured, in conflict-related incidents in the West Bank, including East Jerusalem, or in Israel. ((61 for #2))
 
 * On 9 February, Israeli forces shot and killed a 17-year-old Palestinian boy in a raid in Beita village in Nablus, where confrontations took place between them and Palestinians. Four more Palestinians were injured. Since 1 January 2024 and as of 9 February 2024, 71 Palestinians have been killed across the West Bank, including 16 children, the majority by Israeli forces. ((26 for #1))
 
@@ -246,7 +246,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #7))
 
-* Since 7 October 2023 and as of 9 February 2024, OCHA has recorded 516 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (49 incidents), damage to Palestinian-owned property (409 incidents), or both casualties and damage to property (58 incidents). October, followed by November, represented the peak of such incidents, after which the frequency of settler violence incidents returned to their pre-October levels. Overall, in 2023, OCHA documented 1,264 settler attacks against Palestinians in the West Bank, including East Jerusalem, more than in any given year since it started recording incidents involving settlers in 2006. ((42 for #3))
+* Since 7 October 2023 and as of 9 February 2024, OCHA has recorded 516 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (49 incidents), damage to Palestinian-owned property (409 incidents), or both casualties and damage to property (58 incidents). October, followed by November, represented the peak of such incidents, after which the frequency of settler violence incidents returned to their pre-October levels. Overall, in 2023, OCHA documented 1,264 settler attacks against Palestinians in the West Bank, including East Jerusalem, more than in any given year since it started recording incidents involving settlers in 2006. ((43 for #3))
 
 
 ---
@@ -255,7 +255,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### West Bank Updates 
 
-* Since 7 October 2023 and as of 8 February 2024, 383 Palestinians have been killed, including 96 children, and 4,433 Palestinians, including 671 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 73 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((58 for #3))
+* Since 7 October 2023 and as of 8 February 2024, 383 Palestinians have been killed, including 96 children, and 4,433 Palestinians, including 671 children, injured in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 10 Israelis, including four members of security forces, were killed and 73 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((61 for #3))
 
 * On 8 February, Israeli forces shot and killed a Palestinian man at an Israeli checkpoint near Deir Sharaf village in Nablus, reportedly in an exchange of fire. Another Palestinian man was injured in the incident while in his car and the checkpoint was closed in both directions for two hours. Also on 8 February, a Palestinian man died of wounds sustained during an Israeli search-and-arrest-operation in Kafr ‘Ein village in Ramallah on 22 January 2024\. Between 1 January and 8 February 2024, 70 Palestinians, including 15 children, were killed, the majority by Israeli forces. ((85 for #1))
 
@@ -267,7 +267,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Funding ((34 for #9))
 
-* Since 7 October 2023 and as of 8 February 2024, OCHA has recorded 514 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (49 incidents), damage to Palestinian-owned property (407 incidents), or both casualties and damage to property (58 incidents). October, followed by November, represented the peak of such incidents, after which the frequency of settler violence incidents returned to their pre-October levels. Overall, in 2023, OCHA documented 1,264 settler attacks against Palestinians in the West Bank, including East Jerusalem, the highest such number in any given year since OCHA started recording incidents involving settlers in 2006\. ((42 for #5))
+* Since 7 October 2023 and as of 8 February 2024, OCHA has recorded 514 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (49 incidents), damage to Palestinian-owned property (407 incidents), or both casualties and damage to property (58 incidents). October, followed by November, represented the peak of such incidents, after which the frequency of settler violence incidents returned to their pre-October levels. Overall, in 2023, OCHA documented 1,264 settler attacks against Palestinians in the West Bank, including East Jerusalem, the highest such number in any given year since OCHA started recording incidents involving settlers in 2006\. ((43 for #5))
 
 
 ---
@@ -289,7 +289,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence 
 
-* Since 7 October 2023 and as of 7 February 2024, OCHA has recorded 512 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (49 incidents), damage to Palestinian-owned property (405 incidents), or both casualties and damage to property (58 incidents). October, followed by November, represented the peak of such incidents, after which the frequency of settler violence incidents returned to their pre-October levels. Overall, in 2023, OCHA documented 1,264 settler attacks against Palestinians in the West Bank, including East Jerusalem, the highest such number in any given year since OCHA started recording incidents involving settlers in 2006\. ((41 for #1))
+* Since 7 October 2023 and as of 7 February 2024, OCHA has recorded 512 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (49 incidents), damage to Palestinian-owned property (405 incidents), or both casualties and damage to property (58 incidents). October, followed by November, represented the peak of such incidents, after which the frequency of settler violence incidents returned to their pre-October levels. Overall, in 2023, OCHA documented 1,264 settler attacks against Palestinians in the West Bank, including East Jerusalem, the highest such number in any given year since OCHA started recording incidents involving settlers in 2006\. ((43 for #1))
 
 
 ### Displacement (West Bank)
@@ -353,7 +353,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 5 February 2024, Israeli forces punitively demolished 22 Palestinian-owned homes, displacing 105 Palestinians, including 45 children. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((89 for #2))
 
-* Since 7 October 2023 and as of 5 February 2024, 503 Palestinians, including 248 children, have been displaced following the demolition of their homes in Area C and East Jerusalem, due to lack of Israeli-issued building permits, which are almost impossible to obtain. Overall in 2023, 892 structures were demolished, sealed off and/or confiscated, due to the lack of Israeli-issued building permits in Area C and East Jerusalem, resulting in the displacement of 1,152 Palestinians, including 575 children. One-fourth of the demolished structures and 52 per cent of the people displaced were in East Jerusalem. ((94 for #1))
+* Since 7 October 2023 and as of 5 February 2024, 503 Palestinians, including 248 children, have been displaced following the demolition of their homes in Area C and East Jerusalem, due to lack of Israeli-issued building permits, which are almost impossible to obtain. Overall in 2023, 892 structures were demolished, sealed off and/or confiscated, due to the lack of Israeli-issued building permits in Area C and East Jerusalem, resulting in the displacement of 1,152 Palestinians, including 575 children. One-fourth of the demolished structures and 52 per cent of the people displaced were in East Jerusalem. ((95 for #1))
 
 * Since 7 October 2023 and as of 5 February 2024, 780 Palestinians, including 325 children, have been displaced, following the destruction of 123 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 86 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #3))
 
@@ -368,7 +368,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 4 February 2024, 372 Palestinians have been killed, including 94 children, in conflict-related incidents across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 372 fatalities, 360 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The other two Palestinians, including a woman holding Israeli citizenship, were killed in an attack by Palestinians on 7 January 2024, reportedly because they had been mistaken for Israeli settlers. So far as of 4 February 2024, 63 Palestinians, including at least 13 children, have been killed, the majority by Israeli forces. ((86 for #1))
 
-* Since 7 October 2023 and as of 4 February 2024, ten Israelis have been killed in conflict-related incidents in the West Bank, including East Jerusalem, and in Israel. These include five Israelis, including four members of Israeli forces, killed in the West Bank, including East Jerusalem; four Israelis killed by Palestinians from the West Bank in Israel, and one Israeli killed by Israeli forces who misidentified him during a Palestinian-perpetrated attack in West Jerusalem. ((60 for #2))
+* Since 7 October 2023 and as of 4 February 2024, ten Israelis have been killed in conflict-related incidents in the West Bank, including East Jerusalem, and in Israel. These include five Israelis, including four members of Israeli forces, killed in the West Bank, including East Jerusalem; four Israelis killed by Palestinians from the West Bank in Israel, and one Israeli killed by Israeli forces who misidentified him during a Palestinian-perpetrated attack in West Jerusalem. ((61 for #2))
 
 * Since 7 October 2023 and as of 4 February 2024, 4,408 Palestinians, including 669 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,270 have been injured by Israeli forces, 117 people by settlers and 21 people by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during attacks perpetrated by settlers against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((63 for #3))
 
@@ -386,7 +386,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank)
 
-* Since 7 October 2023 and as of 4 February 2024, Israeli forces punitively demolished 22 Palestinian-owned homes, displacing 105 Palestinians, including 45 children. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((88 for #3))
+* Since 7 October 2023 and as of 4 February 2024, Israeli forces punitively demolished 22 Palestinian-owned homes, displacing 105 Palestinians, including 45 children. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((89 for #3))
 
 * Since 7 October 2023 and as of 4 February 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and [access restrictions](https://www.ochaopt.org/content/west-bank-access-and-movement-december-2023). The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
@@ -405,7 +405,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 2 February 2024, 372 Palestinians have been killed, including 94 children, in conflict-related incidents across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 372 fatalities, 360 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The other two Palestinians, including a woman holding Israeli citizenship, were killed in an attack by Palestinians on 7 January 2024, reportedly in the belief they were settlers. So far as of 2 February 2024, 63 Palestinians, including at least 13 children, have been killed, the majority by Israeli forces. The Palestinian death toll in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((86 for #1))
 
-* Since 7 October 2023 and as of 2 February 2024, ten Israelis have been killed in conflict-related incidents in the West Bank, including East Jerusalem, and in Israel. These include five Israelis, including four members of Israeli forces, killed in the West Bank, including East Jerusalem; four Israelis killed by Palestinians from the West Bank in Israel, and one Israeli killed by Israeli forces who misidentified him during a Palestinian-perpetrated attack in West Jerusalem. The number of Israelis killed in the West Bank and Israel in 2023 (36) in attacks perpetrated by Palestinians from the West Bank was the highest since OCHA started recording casualties in 2005\. ((60 for #2))
+* Since 7 October 2023 and as of 2 February 2024, ten Israelis have been killed in conflict-related incidents in the West Bank, including East Jerusalem, and in Israel. These include five Israelis, including four members of Israeli forces, killed in the West Bank, including East Jerusalem; four Israelis killed by Palestinians from the West Bank in Israel, and one Israeli killed by Israeli forces who misidentified him during a Palestinian-perpetrated attack in West Jerusalem. The number of Israelis killed in the West Bank and Israel in 2023 (36) in attacks perpetrated by Palestinians from the West Bank was the highest since OCHA started recording casualties in 2005\. ((61 for #2))
 
 * Since 7 October 2023 and as of 2 February 2024, 4,391 Palestinians, including 661 children, have been injured in the West Bank, including East Jerusalem. Of them, 4,254 have been injured by Israeli forces, 116 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 54 per cent were reported in the context of search-and-arrest and other operations, 34 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((63 for #3))
 
@@ -419,9 +419,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank) 
 
-* Since 7 October 2023 and as of 2 February 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
+* Since 7 October 2023 and as of 2 February 2024, Israeli forces punitively demolished 22 Palestinian-owned homes, displacing 105 Palestinians, including 45 children. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((89 for #3))
 
-* Since 7 October 2023 and as of 2 February 2024, Israeli forces punitively demolished 22 Palestinian-owned homes, displacing 105 Palestinians, including 45 children. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((88 for #3))
+* Since 7 October 2023 and as of 2 February 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
 * Since 7 October 2023 and as of 2 February 2024, 503 Palestinians, including 248 children, have been displaced following the demolition of their homes in Area C and East Jerusalem due to lack of Israeli-issued building permits, which are almost impossible to obtain. Overall, in 2023, 892 structures were demolished, sealed off and/or confiscated due to the lack of Israeli-issued building permits in Area C and East Jerusalem, resulting in the displacement of 1,148 Palestinians, including 575 children. Some 39 per cent of people displaced occurred between October and December 2023\. ((100 for #2))
 
@@ -469,7 +469,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank) 
 
-* Since 7 October 2023 and as of 31 January 2024, 370 Palestinians have been killed, including 94 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 370 fatalities, 360 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. Another Palestinian man was killed by Palestinians on 7 January 2024, reportedly in the belief that he was a settler The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 31 January), 61 Palestinians, including at least 13 children, have been killed, the bulk of whom by Israeli forces. ((74 for #1))
+* Since 7 October 2023 and as of 31 January 2024, 370 Palestinians have been killed, including 94 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 370 fatalities, 360 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. Another Palestinian man was killed by Palestinians on 7 January 2024, reportedly in the belief that he was a settler The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 31 January), 61 Palestinians, including at least 13 children, have been killed, the bulk of whom by Israeli forces. ((73 for #1))
 
 * Since 7 October 2023 and as of 31 January 2024, six Israelis, including four members of Israeli forces, have been killed in Palestinian-perpetrated attacks in the West Bank, including East Jerusalem.1 The number of Israelis killed in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005\. ((77 for #2))
 
@@ -491,7 +491,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 31 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* On 30 January, a Palestinian family was forced to demolish its residence in the Jabal al Mukabbir neighbourhood of East Jerusalem due to lack of permit; four people, including two children, were displaced. Since 7 October 2023 and as of 31 January 2024, 499 Palestinians, including 248 children, have been displaced following the demolition of their homes in Area C and East Jerusalem due to lack of Israeli-issued building permits, which are almost impossible to obtain. Over 100 Palestinian homes have been demolished on these grounds between 7 October 2023 and as of 31 January 2024\. In one incident on 30 January, in Qalandiya (Jerusalem), the Israeli authorities demolished a horseback riding club on an eight dunum area comprising ten structures, all of which were demolished due to lack of permit. ((91 for #2))
+* On 30 January, a Palestinian family was forced to demolish its residence in the Jabal al Mukabbir neighbourhood of East Jerusalem due to lack of permit; four people, including two children, were displaced. Since 7 October 2023 and as of 31 January 2024, 499 Palestinians, including 248 children, have been displaced following the demolition of their homes in Area C and East Jerusalem due to lack of Israeli-issued building permits, which are almost impossible to obtain. Over 100 Palestinian homes have been demolished on these grounds between 7 October 2023 and as of 31 January 2024\. In one incident on 30 January, in Qalandiya (Jerusalem), the Israeli authorities demolished a horseback riding club on an eight dunum area comprising ten structures, all of which were demolished due to lack of permit. ((89 for #2))
 
 * A total of 22 homes have been punitively demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions since 7 October 2023 and as of 31 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced in that context. ((98 for #3))
 
@@ -506,7 +506,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October 2023 and as of 30 January 2024, 370 Palestinians have been killed, including 94 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 370 fatalities, 360 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 30 January), 61 Palestinians, including at least 13 children, have been killed by Israeli forces, settlers or either Israeli forces or settlers. Another Palestinian man was killed by Palestinians on 7 January 2024, reportedly in the belief that he was a settler. ((74 for #1))
+* Since 7 October 2023 and as of 30 January 2024, 370 Palestinians have been killed, including 94 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 370 fatalities, 360 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 30 January), 61 Palestinians, including at least 13 children, have been killed by Israeli forces, settlers or either Israeli forces or settlers. Another Palestinian man was killed by Palestinians on 7 January 2024, reportedly in the belief that he was a settler. ((73 for #1))
 
 * Since 7 October 2023 and as of 30 January 2024, six Israelis, including four members of Israeli forces, have been killed in Palestinian-perpetrated attacks in the West Bank, including East Jerusalem. This includes a Palestinian woman with Israeli citizenship, residing in the West Bank, who died on 24 January from wounds she received in an attack by Palestinians on 7 January. In addition, four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him) on 30 November 2023\. Another Israeli woman was killed in another attack perpetrated by Palestinians in Israel on 15 January 2024\. The number of Israelis killed in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005. ((92 for #2))
 
@@ -517,7 +517,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -528,9 +528,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 29 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* Since 7 October 2023 and as of 30 January 2024, 495 Palestinians, including 246 children, have been displaced following the demolition of their homes due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. About 100 Palestinian homes have been demolished on the same grounds between 7 October 2023 and 30 January 2024. ((89 for #2))
+* Since 7 October 2023 and as of 30 January 2024, 495 Palestinians, including 246 children, have been displaced following the demolition of their homes due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. About 100 Palestinian homes have been demolished on the same grounds between 7 October 2023 and 30 January 2024. ((87 for #2))
 
-* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 30 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 30 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((91 for #3))
 
 * As a result of an Israeli raid on 29 January in Tulkarm and its refugee camps of Nur Shams and Tulkarm, significant damage to infrastructure and residential houses was reported. Since 7 October 2023 and as of 30 January 2024, 744 Palestinians, including 311 children, have been displaced, following the destruction of 117 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -564,20 +564,20 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
-* Since 7 October 2023 and as of 29 January 2024, OCHA has recorded 472 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (48 incidents), damage to Palestinian-owned property (368 incidents), or both casualties and damage to property (56 incidents). ((43 for #1))
+* Since 7 October 2023 and as of 29 January 2024, OCHA has recorded 472 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (48 incidents), damage to Palestinian-owned property (368 incidents), or both casualties and damage to property (56 incidents). ((44 for #1))
 
 
 ### Displacement (West Bank)
 
 * Since 7 October 2023 and as of 29 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* Since 7 October 2023 and as of 29 January 2024, 495 Palestinians, including 246 children, have been displaced following the demolition of their homes due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. About 100 Palestinian homes have been demolished on the same grounds between 7 October 2023 and 29 January 2024. ((89 for #2))
+* Since 7 October 2023 and as of 29 January 2024, 495 Palestinians, including 246 children, have been displaced following the demolition of their homes due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. About 100 Palestinian homes have been demolished on the same grounds between 7 October 2023 and 29 January 2024. ((87 for #2))
 
-* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 29 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 29 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 * Since 7 October 2023 and as of 29 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -603,7 +603,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -614,7 +614,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 28 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 28 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 28 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 * Since 7 October 2023 and as of 28 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -627,7 +627,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October 2023 and as of 26 January 2024, 361 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 361 fatalities, 351 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 26 January), 52 Palestinians, including at least 11 children, have been killed. ((73 for #1))
+* Since 7 October 2023 and as of 26 January 2024, 361 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 361 fatalities, 351 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 26 January), 52 Palestinians, including at least 11 children, have been killed. ((74 for #1))
 
 * Since 7 October 2023 and as of 26 January 2024, five Israelis, including four members of Israeli forces, have been killed in Palestinian-perpetrated attacks in the West Bank, including East Jerusalem. In addition, four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him) on 30 November 2023\. Another Israeli woman was killed in another attack perpetrated by Palestinians in Israel on 15 January 2024\. The number of Israelis killed in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005. ((92 for #2))
 
@@ -638,18 +638,18 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
-* Since 7 October 2023 and as of 26 January 2024, OCHA has recorded 460 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (359 incidents), or both casualties and damage to property (56 incidents). ((44 for #1))
+* Since 7 October 2023 and as of 26 January 2024, OCHA has recorded 460 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (359 incidents), or both casualties and damage to property (56 incidents). ((43 for #1))
 
 
 ### Displacement (West Bank)
 
 * Since 7 October 2023 and as of 26 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 26 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 26 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 * Since 7 October 2023 and as of 26 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -662,7 +662,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October 2023 and as of 25 January 2024, 361 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 361 fatalities, 351 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 25 January), 52 Palestinians, including at least 11 children, have been killed. ((73 for #2))
+* Since 7 October 2023 and as of 25 January 2024, 361 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 361 fatalities, 351 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 25 January), 52 Palestinians, including at least 11 children, have been killed. ((74 for #2))
 
 * Since 7 October 2023 and as of 25 January 2024, five Israelis, including four members of Israeli forces, have been killed in Palestinian-perpetrated attacks in the West Bank, including East Jerusalem. In addition, four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him) on 30 November 2023\. Another Israeli woman was killed in another attack perpetrated by Palestinians in Israel on 15 January 2024\. The number of Israelis killed in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005\. ((92 for #3))
 
@@ -675,9 +675,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* Since 7 October 2023 and as of 25 January 2024, OCHA has recorded 457 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (356 incidents), or both casualties and damage to property (56 incidents). This reflects a daily average of four incidents. ((43 for #1))
+* Since 7 October 2023 and as of 25 January 2024, OCHA has recorded 457 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (356 incidents), or both casualties and damage to property (56 incidents). This reflects a daily average of four incidents. ((44 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -686,7 +686,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 25 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacement occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 25 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
+* A total of 22 homes have been demolished and 105 Palestinians, including 45 children, displaced due to punitive demolitions from 7 October 2023 and as of 25 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
 
 * Since 7 October 2023 and as of 25 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -699,7 +699,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 360 fatalities, 350 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 24 January), 51 Palestinians, including at least 11 children, have been killed. ((74 for #1))
+* Since 7 October 2023 and as of 24 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 360 fatalities, 350 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 24 January), 51 Palestinians, including at least 11 children, have been killed. ((73 for #1))
 
 * Since 7 October 2023 and as of 24 January 2024, five Israelis, including four members of Israeli forces, have been killed in Palestinian-perpetrated attacks in the West Bank, including East Jerusalem. In addition, four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him) on 30 November 2023\. Another Israeli woman was killed in another attack perpetrated by Palestinians in Israel on 15 January 2024\. The number of Israelis killed in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005. ((92 for #2))
 
@@ -710,9 +710,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* Since 7 October 2023 and as of 24 January 2024, OCHA has recorded 456 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (355 incidents), or both casualties and damage to property (56 incidents). This reflects a daily average of four incidents. ((43 for #1))
+* Since 7 October 2023 and as of 24 January 2024, OCHA has recorded 456 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (355 incidents), or both casualties and damage to property (56 incidents). This reflects a daily average of four incidents. ((44 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -721,7 +721,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 24 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* On 23 January, the Israeli authorities demolished on punitive grounds a house in ‘Urif village in Nablus, displacing five people, including one child. The house belonged to a Palestinian currently in prison convicted of being involved in shooting and killing four Israeli settlers on Road 60 near Eli settlement in Nablus on 20 June 2023\. A total of 22 homes have been demolished and 105 Palestinians, including 45 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 24 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((96 for #3))
+* On 23 January, the Israeli authorities demolished on punitive grounds a house in ‘Urif village in Nablus, displacing five people, including one child. The house belonged to a Palestinian currently in prison convicted of being involved in shooting and killing four Israeli settlers on Road 60 near Eli settlement in Nablus on 20 June 2023\. A total of 22 homes have been demolished and 105 Palestinians, including 45 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 24 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((95 for #3))
 
 * Since 7 October 2023 and as of 24 January 2024, 743 Palestinians, including 311 children, have been displaced, following the destruction of 116 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 82 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -734,7 +734,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October 2023 and as of 23 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 360 fatalities, 350 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 23 January), 51 Palestinians, including at least 11 children, have been killed. ((74 for #3))
+* Since 7 October 2023 and as of 23 January 2024, 360 Palestinians have been killed, including 92 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of these 360 fatalities, 350 were killed by Israeli forces, eight by Israeli settlers and two by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. So far in 2024 (as of 23 January), 51 Palestinians, including at least 11 children, have been killed. ((73 for #3))
 
 * Since 7 October 2023 and as of 23 January 2024, five Israelis, including four members of Israeli forces, have been killed in Palestinian-perpetrated attacks in the West Bank, including East Jerusalem. In addition, four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him) on 30 November 2023\. Another Israeli woman was killed in another attack perpetrated by Palestinians in Israel on 15 January 2024\. The number of Israelis killed in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005\. ((92 for #4))
 
@@ -749,9 +749,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* Since 7 October 2023 and as of 23 January 2024, OCHA has recorded 452 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (351 incidents), or both casualties and damage to property (56 incidents). This reflects a daily average of four incidents. ((42 for #1))
+* Since 7 October 2023 and as of 23 January 2024, OCHA has recorded 452 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (351 incidents), or both casualties and damage to property (56 incidents). This reflects a daily average of four incidents. ((44 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -760,7 +760,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 23 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* A total of 21 homes have been demolished and 100 Palestinians, including 44 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 23 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((94 for #4))
+* A total of 21 homes have been demolished and 100 Palestinians, including 44 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 23 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #4))
 
 * On 23 January, the Israeli authorities demolished a Palestinian house in As Seefer community south of Yatta village in Hebron, due to the lack of an Israeli-issued building permit, displacing a family of nine people, including five children. Two more houses were demolished by their owners on the same grounds on 22 and 21 January, in the East Jerusalem neighbourhoods of Ras al ‘Amud and Al ‘Isawiya, respectively. The former has not yet been inhabited and the latter led to displacement of five people. ((93 for #2))
 
@@ -788,7 +788,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 22 January 2024, OCHA has recorded 444 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (344 incidents), or both casualties and damage to property (55 incidents). This reflects a daily average of four incidents. ((43 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -797,7 +797,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 22 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* On 21 January, the Israeli authorities demolished on punitive grounds two residential structures comprising three apartments, and caused damage to a fourth apartment, displacing five people, including two children, in Hebron city. The houses belonged to the families of two of the three Palestinians who were shot and killed while they were carrying out a shooting attack against Israeli forces stationed at the Beit Jala checkpoint near Bethlehem. A total of 21 homes have been demolished and 100 Palestinians, including 44 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 22 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((95 for #3))
+* On 21 January, the Israeli authorities demolished on punitive grounds two residential structures comprising three apartments, and caused damage to a fourth apartment, displacing five people, including two children, in Hebron city. The houses belonged to the families of two of the three Palestinians who were shot and killed while they were carrying out a shooting attack against Israeli forces stationed at the Beit Jala checkpoint near Bethlehem. A total of 21 homes have been demolished and 100 Palestinians, including 44 children, have been displaced due to punitive demolitions from 7 October 2023 and as of 22 January 2024\. The numbers exceed those reported in the first nine months of 2023, during which 16 homes were punitively demolished and 78 people displaced. ((94 for #3))
 
 * Since 7 October 2023 and as of 22 January 2024, 739 Palestinians, including 309 children, have been displaced, following the destruction of 115 homes during other operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. This represents 81 per cent of all displacement reported due to the destruction of homes during Israeli military operations since January 2023 (908 people). ((83 for #4))
 
@@ -823,7 +823,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 21 January 2024, OCHA has recorded 441 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (45 incidents), damage to Palestinian-owned property (341 incidents), or both casualties and damage to property (55 incidents). This reflects a daily average of four incidents. ((43 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
@@ -860,7 +860,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 18 January 2024, OCHA recorded 439 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (43 incidents), damage to Palestinian-owned property (341 incidents), or both casualties and damage to property (55 incidents). This reflects a daily average of four incidents since 7 October 2023 until 19 January 2024\. ((46 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
@@ -869,7 +869,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 19 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 19 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 19 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 * On 18 January, the Israeli authorities demolished 11 structures, five of which were homes, in Duma village in Nablus, due to lack of Israeli-issued permits. Eighteen people, including 12 children, were displaced. In addition, the access of some 500 families in the village to their agricultural land was affected, due to the bulldozing of two agricultural roads. Since 7 October 2023 and as of 19 January 2024, 479 Palestinians, including 239 children, have been displaced, following the demolition of their homes, due to lack of Israeli-issued building permits in Area C and East Jerusalem, which are almost impossible to obtain. ((40 for #2))
 
@@ -895,7 +895,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 18 January 2024, OCHA recorded 433 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (42 incidents), damage to Palestinian-owned property (338 incidents), or both casualties and damage to property (53 incidents). This reflects a daily average of four incidents since 7 October 2023 until 17 January 2024\. ((47 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
@@ -904,7 +904,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 18 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
-* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 18 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 18 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 ### Funding ((34 for #5))
 
@@ -932,14 +932,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 17 January 2024, OCHA recorded 431 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (41 incidents), damage to Palestinian-owned property (337 incidents), or both casualties and damage to property (53 incidents). This reflects a daily average of four incidents since 7 October 2023 until 17 January 2024\. ((46 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
 
 ### Displacement (West Bank) 
 
-* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 17 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 17 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 * From 7 October 2023 and as of 17 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
@@ -963,16 +963,16 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* Since 7 October 2023 and as of 16 January 2024, OCHA recorded 430 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (41 incidents), damage to Palestinian-owned property (336 incidents), or both casualties and damage to property (53 incidents). This reflects a daily average of four incidents since 7 October 2023 until 16 January 2024\. ((46 for #1))
+* Since 7 October 2023 and as of 16 January 2024, OCHA recorded 430 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (41 incidents), damage to Palestinian-owned property (336 incidents), or both casualties and damage to property (53 incidents). This reflects a daily average of four incidents since 7 October 2023 until 16 January 2024\. ((45 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
 
 ### Displacement (West Bank) 
 
-* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 16 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 16 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 * From 7 October 2023 and as of 16 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
@@ -1004,14 +1004,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 * ince 7 October 2023 and as of 15 January 2024, OCHA recorded 421 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (41 incidents), damage to Palestinian-owned property (329 incidents), or both casualties and damage to property (51 incidents). This reflects a daily average of four incidents since 7 October 2023 until 15 January 2024\. ((46 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
 
 ### Displacement (West Bank) 
 
-* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 15 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((92 for #3))
+* A total of 19 homes have been demolished and 95 Palestinians, including 42 children, displaced due to punitive demolitions from 7 October 2023 and as of 15 January 2024\. The numbers exceed those reported in the first nine months of the same year, during which 16 homes were punitively demolished and 78 people displaced. ((93 for #3))
 
 * From 7 October 2023 and as of 15 January 2024, at least 198 Palestinian households comprising 1,208 people, including 586 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 15 herding/Bedouin communities. More than half of the displacements occurred on 12, 15, and 28 October, affecting seven communities. The displacement toll since 7 October 2023, represents 78 per cent of all displacement reported due to settler violence and access restrictions since 1 January 2023 (1,539 people, including 756 children). ((99 for #1))
 
@@ -1026,7 +1026,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * From 7 October 2023 and as of 14 January 2024, 339 Palestinians have been killed, including 88 children, across the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank (339), 330 were killed by Israeli forces, eight by Israeli settlers and one by either Israeli forces or settlers. So far in 2024 (as of 14 January), 30 Palestinians, including seven children, have been killed. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((84 for #4))
 
-* From 7 October 2023 and as of 14 January 2024, five Israelis, including four members of Israeli forces, have been killed in Palestinian attacks in the West Bank, including East Jerusalem. Four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed (36) in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank was the highest since OCHA started recording casualties in 2005\. ((79 for #5))
+* From 7 October 2023 and as of 14 January 2024, five Israelis, including four members of Israeli forces, have been killed in Palestinian attacks in the West Bank, including East Jerusalem. Four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed (36) in the West Bank and Israel in 2023 in attacks perpetrated by Palestinians from the West Bank was the highest since OCHA started recording casualties in 2005\. ((80 for #5))
 
 * From 7 October 2023 and as of 14 January 2024, 4,197 Palestinians, including 635 children, were injured in the West Bank, including East Jerusalem. Of them, 4,067 have been injured by Israeli forces, 109 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((63 for #6))
 
@@ -1041,7 +1041,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 14 January 2024, OCHA recorded 413 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (41 incidents), damage to Palestinian-owned property (321 incidents), or both casualties and damage to property (51 incidents). This reflects a daily average of four incidents since 7 October 2023 until 14 January 2024\. ((45 for #1))
 
-* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving Israeli settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
@@ -1074,7 +1074,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 12 January 2024, OCHA recorded 413 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (41 incidents), damage to Palestinian-owned property (321 incidents), or both casualties and damage to property (51 incidents). This reflects a daily average of four incidents since 7 October 2023 until 12 January 2024\. ((45 for #1))
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
@@ -1105,11 +1105,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
-* Since 7 October 2023 and as of 11 January 2024, OCHA recorded 404 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (39 incidents), damage to Palestinian-owned property (316 incidents), or both casualties and damage to property (49 incidents). This reflects a daily average of four incidents since 7 October 2023 until 11 January 2024, compared with seven daily incidents reported between 7 October and 10 November 2023, which was the highest daily average of settler-related incidents affecting Palestinians since 2006\. ((47 for #1))
+* Since 7 October 2023 and as of 11 January 2024, OCHA recorded 404 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (39 incidents), damage to Palestinian-owned property (316 incidents), or both casualties and damage to property (49 incidents). This reflects a daily average of four incidents since 7 October 2023 until 11 January 2024, compared with seven daily incidents reported between 7 October and 10 November 2023, which was the highest daily average of settler-related incidents affecting Palestinians since 2006\. ((46 for #1))
 
 
 ### Displacement (West Bank) 
@@ -1125,7 +1125,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October 2023 and as of 10 January 2024, five Israelis, including four members of the Israeli forces, have been killed in Palestinian attacks in the West Bank, including East Jerusalem. Four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005\. ((79 for #3))
+* Since 7 October 2023 and as of 10 January 2024, five Israelis, including four members of the Israeli forces, have been killed in Palestinian attacks in the West Bank, including East Jerusalem. Four Israelis were killed in an attack carried out by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) was the highest since OCHA started recording casualties in 2005\. ((78 for #3))
 
 * Since 7 October 2023 and as of 10 January 2024, 4,148 Palestinians, including 627 children, were injured in the West Bank, including East Jerusalem. Of them, 4,034 have been injured by Israeli forces, 93 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 52 per cent were reported in the context of search-and-arrest and other operations, 36 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((62 for #4))
 
@@ -1136,7 +1136,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank)  ((31 for #4))
 
@@ -1169,7 +1169,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -1204,7 +1204,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 8 January 2024, OCHA has recorded 386 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (302 incidents), or both casualties and damage to property (48 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank recorded from 1 January 2023 to date. And reflects a daily average of four incidents, compared with seven daily incidents reported between 7 October and 10 November 2023\. This is the highest daily average of settler-related incidents affecting Palestinians since 2006\. ((43 for #1))
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #3))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
@@ -1230,7 +1230,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 7 January 2024, five Israelis, including four members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) is the highest since OCHA started recording casualties in 2005\. ((78 for #6))
 
-* Since 7 October 2023 and as of 7 January 2024, 4,042 Palestinians, including 606 children were injured in the West Bank, including East Jerusalem. Of them, 3,929 have been injured by forces, 92 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((60 for #7))
+* Since 7 October 2023 and as of 7 January 2024, 4,042 Palestinians, including 606 children were injured in the West Bank, including East Jerusalem. Of them, 3,929 have been injured by forces, 92 by settlers and 21 by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((61 for #7))
 
 * This brings to 326 the number of Palestinian fatalities in the West Bank, including East Jerusalem, since 7 October 2023 and as of 7 January 2024\. Among the fatalities were 84 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((94 for #5))
 
@@ -1243,7 +1243,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #2))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #2))
 
 * The weekly average of such incidents since 7 October is 29, compared with 21 incidents per week between 1 January and 6 October 2023\. This reflects a daily average of four incidents, compared with seven daily incidents reported between 7 October and 10 November 2023, and three incidents in the first nine months of 2023\. This is the highest daily average of settler-related incidents affecting Palestinians since 2006\. One-third of those incidents after 7 October included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents after 7 October Israeli forces were either accompanying or reported to be supporting the attackers. ((98 for #3))
 
@@ -1269,7 +1269,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 5 January 2024, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 in attacks by Palestinians from the West Bank (36) is the highest since OCHA started recording casualties in 2005\. ((79 for #3))
 
-* Since 7 October 2023 and as of 5 January 2024, 4,021 Palestinians, including 604 children were injured in the West Bank, including East Jerusalem. Of whom 3,918 have been injured by forces, 92 by settlers and eleven by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((59 for #4))
+* Since 7 October 2023 and as of 5 January 2024, 4,021 Palestinians, including 604 children were injured in the West Bank, including East Jerusalem. Of whom 3,918 have been injured by forces, 92 by settlers and eleven by either Israeli forces or settlers. Of the total injuries, 51 per cent were reported in the context of search-and-arrest and other operations, 37 per cent in demonstrations and 8 per cent during settler related attacks against Palestinians. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((60 for #4))
 
 * This brings to 315 the number of Palestinian fatalities in the West Bank, including East Jerusalem, since 7 October 2023 and as of 5 January 2024\. Among the fatalities were 81 children. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 306 were killed by Israeli forces, eight by Israeli settlers and another one by either Israeli forces or settlers. The number of Palestinians killed in the West Bank, including East Jerusalem, in 2023 (507) marks the highest number of Palestinians killed in the West Bank since OCHA started recording casualties in 2005\. ((83 for #2))
 
@@ -1280,7 +1280,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #2))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #2))
 
 * The weekly average of such incidents since 7 October is 30, compared with 21 incidents per week between 1 January and 6 October 2023\. The number of incidents since 7 October has declined from 127 incidents in the first week (7-13 October) to 18 incidents between 23 and 28 December. One-third of those incidents after 7 October included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents after 7 October Israeli forces were either accompanying or reported to be supporting the attackers. ((98 for #3))
 
@@ -1312,12 +1312,12 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #5))
 
-* Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((1 for #4))
+* Since 7 October 2023 and as of 4 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent in demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians have been injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((5 for #4))
 
 
 ### Settler Violence
 
-* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #3))
+* In 2023, 1,229 incidents involving settlers in the West Bank, including East Jerusalem (with or without Israeli forces), resulted in Palestinian casualties, property damage or both. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #3))
 
 * The weekly average of such incidents since 7 October is 30, compared with 21 incidents per week between 1 January and 6 October 2023\. The number of incidents since 7 October has declined from 127 incidents in the first week (7-13 October) to 18 incidents between 23 and 28 December. One-third of those incidents after 7 October included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents after 7 October Israeli forces were either accompanying or reported to be supporting the attackers. ((98 for #4))
 
@@ -1349,14 +1349,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #4))
 
-* Since 7 October 2023 and as of 3 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((8 for #3))
+* Since 7 October 2023 and as of 3 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((12 for #3))
 
 
 ### Settler Violence
 
 * Since 7 October 2023 and as of 3 January 2024, OCHA has recorded 376 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (293 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank recorded from 1 January 2023 to date. In a [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((43 for #1))
 
-* In 2023, 1,229 incidents involving settlers (with or without Israeli forces) resulted in Palestinian casualties and/or property damage in the West Bank, including East Jerusalem. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((100 for #2))
+* In 2023, 1,229 incidents involving settlers (with or without Israeli forces) resulted in Palestinian casualties and/or property damage in the West Bank, including East Jerusalem. Some 913 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number of settler attacks against Palestinians in any given year since OCHA started recording incidents involving settlers in 2006\. ((79 for #2))
 
 * The weekly average of such incidents since 7 October stands at 30, compared with 21 incidents per week between 1 January and 6 October 2023\. The number of incidents since 7 October has declined from 127 incidents in the first week (7-13 October) to 18 incidents between 23 and 28 December. One-third of the incidents since 7 October included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or reportedly to be supporting the attackers. ((98 for #3))
 
@@ -1382,7 +1382,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October 2023 and as of 2 January 2024, 313 Palestinians, including 80 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 304 were killed by Israeli forces, eight by Israeli settlers and another one by either Israeli forces or settlers, which is being verified. ((94 for #2))
 
-* Since 7 October 2023 and as of 2 January 2024, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 (36) in attacks by Palestinians from the West Bank marks the highest number of Israelis killed in the West Bank since OCHA started recording casualties in 2005. ((78 for #3))
+* Since 7 October 2023 and as of 2 January 2024, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel in 2023 (36) in attacks by Palestinians from the West Bank marks the highest number of Israelis killed in the West Bank since OCHA started recording casualties in 2005. ((79 for #3))
 
 * On 2 January 2024, Israeli forces killed four Palestinians during an operation that they carried out in Azzun (Qalqiliya); the operation lasted for about than six hours and involved exchanges of fire with Palestinians. One Israeli soldier was also injured during the operation. ((100 for #1))
 
@@ -1390,14 +1390,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October 2023 and as of 2 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((8 for #5))
+* Since 7 October 2023 and as of 2 January 2024, Israeli forces have injured 3,949 Palestinians, including at least 593 children; 52 per cent in the context of search-and-arrest and other operations and 40 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians were injured by either Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((12 for #5))
 
 
 ### Settler Violence
 
-* Since 7 October 2023 and as of 2 January 2024, OCHA has recorded 372 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (289 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank recorded from 1 January 2023 to date. In a [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((42 for #1))
+* Since 7 October 2023 and as of 2 January 2024, OCHA has recorded 372 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (289 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank recorded from 1 January 2023 to date. In a [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((43 for #1))
 
-* In 2023, 1,227 incidents involving settlers (with or without Israeli forces) resulted in Palestinian casualties and/or property damage in the West Bank, including East Jerusalem. Some 911 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number in any given year since OCHA started recording incidents involving settlers in 2006. ((100 for #2))
+* In 2023, 1,227 incidents involving settlers (with or without Israeli forces) resulted in Palestinian casualties and/or property damage in the West Bank, including East Jerusalem. Some 911 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number in any given year since OCHA started recording incidents involving settlers in 2006. ((79 for #2))
 
 * The weekly average of such incidents since 7 October stands at 30, compared with 21 incidents per week between 1 January and 6 October 2023\. The number of incidents since 7 October has declined from 127 incidents in the first week (7-13 October) to 18 incidents between 23 and 28 December. One-third of these incidents included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or reportedly seen as supporting the attackers. ((97 for #3))
 
@@ -1421,18 +1421,18 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October and as of 30 December, 307 Palestinians, including 79 children, have been killed in the West Bank, including East Jerusalem. Additionally, two Palestinians from the West Bank were killed while carrying out an attack in Israel on 30 November. Of those killed in the West Bank, 298 were killed by Israeli forces, eight by Israeli settlers and another one either by forces or settlers, which is in the process of being verified. This toll represents over 60 per cent of all Palestinians killed in the West Bank in 2023\. With a total of 506 Palestinians killed in the West Bank, 2023 is the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005\. ((92 for #1))
 
-* Since 7 October and as of 30 December, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel so far in 2023 (36) marks the highest number of Israelis killed in the West Bank since OCHA started recording casualties in 2005\. ((93 for #2))
+* Since 7 October and as of 30 December, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. Another four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). The number of Israelis killed in the West Bank and Israel so far in 2023 (36) marks the highest number of Israelis killed in the West Bank since OCHA started recording casualties in 2005\. ((92 for #2))
 
 * Among the 506 Palestinians killed, some seventy-one per cent of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. Half of the fatalities were reported in operations that did not involve armed clashes. So far, since the beginning of the year, 75 per cent of the Palestinians killed across the West Bank occurred during Israeli forces operations, which in some cases led to exchanges of fire. The number of Palestinians killed in Israeli forces operations is more than four times higher than those reported in 2022\. ((91 for #3))
 
 ### Settler Violence ((28 for #5))
 
-* Since 7 October and as of 30 December, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((17 for #4))
+* Since 7 October and as of 30 December, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((21 for #4))
 
 
 ### Settler Violence
 
-* Since 7 October and as of 30 December, OCHA has recorded 370 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (287 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank in 2023\. In a new [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((38 for #1))
+* Since 7 October and as of 30 December, OCHA has recorded 370 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (287 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank in 2023\. In a new [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((37 for #1))
 
 * Since the beginning of the year, 1,225 incidents involving settlers (with or without Israeli forces) resulted in Palestinian casualties and/or property damage in the West Bank, including East Jerusalem. Some 909 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number since OCHA started recording incidents involving settlers in 2006\. ((75 for #2))
 
@@ -1466,12 +1466,12 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((17 for #5))
+* Since 7 October, Israeli forces have injured 3,822 Palestinians, including at least 582 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((21 for #5))
 
 
 ### Settler Violence
 
-* Since 7 October, OCHA has recorded 370 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (287 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank in 2023\. In a new [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((23 for #1))
+* Since 7 October, OCHA has recorded 370 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (287 incidents), or both casualties and damage to property (47 incidents). The number of such incidents represents almost one third of all settler attacks against Palestinians in the West Bank in 2023\. In a new [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the Government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((22 for #1))
 
 * Since the beginning of the year, 1,225 incidents involving settlers (with or without Israeli forces) resulted in Palestinian casualties and/or property damage in the West Bank, including East Jerusalem. Some 909 of these incidents resulted in damage, 163 resulted in casualties and 153 resulted in both. This is the highest number since OCHA started recording incidents involving settlers in 2006. ((74 for #2))
 
@@ -1503,14 +1503,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October, Israeli forces have injured 3,812 Palestinians, including at least 580 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((17 for #5))
+* Since 7 October, Israeli forces have injured 3,812 Palestinians, including at least 580 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((21 for #5))
 
 * On 28 December, Israeli forces killed a Palestinian man during a search-and-arrest operation that involved exchange of fire in Ramallah. Another Palestinian man died from wounds he sustained from Israeli forces during an operation in Nablus city on 18 December. ((92 for #1))
 
 
 ### Settler Violence
 
-* Since 7 October, OCHA has recorded 370 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (287 incidents), or both casualties and damage to property (47 incidents). In a new [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((23 for #1))
+* Since 7 October, OCHA has recorded 370 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (36 incidents), damage to Palestinian-owned property (287 incidents), or both casualties and damage to property (47 incidents). In a new [report](https://www.ohchr.org/en/documents/country-reports/flash-report-human-rights-situation-west-bank-including-east-jerusalem-7) on the situation of human rights in the occupied West Bank, including East Jerusalem, the UN Human Rights Office called on the government of Israel to “ensure that all incidents of violence by settlers and Israeli security forces against Palestinians, including violence against women, and damage to their property, are promptly, effectively, thoroughly and transparently investigated; that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are provided with effective remedies, including adequate compensation, in accordance with international standards.” ((22 for #1))
 
 * The weekly average of such incidents since 7 October stands at 32, compared with 21 incidents per week between 1 January and 6 October 2023\. The number of incidents since 7 October has declined from 80 incidents in the first week (7-14 October) to 11 incidents between 16 and 22 December. One-third of these incidents included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or reportedly seen as supporting the attackers. ((97 for #2))
 
@@ -1542,7 +1542,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #7))
 
-* Since 7 October, Israeli forces have injured 3,805 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((17 for #6))
+* Since 7 October, Israeli forces have injured 3,805 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 91 Palestinians have been injured by settlers and 12 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((21 for #6))
 
 * Another Palestinian man died from wounds he sustained from Israeli forces during an operation in Tulkarm Refugee Camp on 14 November. ((91 for #2))
 
@@ -1579,7 +1579,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October, Israeli forces have injured 3,803 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((20 for #5))
+* Since 7 October, Israeli forces have injured 3,803 Palestinians, including at least 576 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((21 for #5))
 
 
 ### Settler Violence
@@ -1616,7 +1616,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #5))
 
-* Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((20 for #4))
+* Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((21 for #4))
 
 
 ### Settler Violence
@@ -1625,7 +1625,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank) ((31 for #3))
 
-* Since 7 October, OCHA has recorded 353 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (272 incidents), or both casualties and damage to property (46 incidents). ((22 for #1))
+* Since 7 October, OCHA has recorded 353 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (272 incidents), or both casualties and damage to property (46 incidents). ((23 for #1))
 
 
 ### Displacement (West Bank)
@@ -1653,7 +1653,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023 ((20 for #5))
+* Since 7 October, Israeli forces have injured 3,801 Palestinians, including at least 575 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023 ((21 for #5))
 
 
 ### Settler Violence
@@ -1662,7 +1662,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank) ((31 for #3))
 
-* Since 7 October, OCHA has recorded 353 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (27 incidents), or both casualties and damage to property (46 incidents). ((22 for #1))
+* Since 7 October, OCHA has recorded 353 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (27 incidents), or both casualties and damage to property (46 incidents). ((23 for #1))
 
 
 ### Displacement (West Bank)
@@ -1686,18 +1686,18 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #5))
 
-* Since 7 October, Israeli forces have injured 3,665 Palestinians, including at least 562\* children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((20 for #4))
+* Since 7 October, Israeli forces have injured 3,665 Palestinians, including at least 562\* children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((21 for #4))
 
 
 ### Settler Violence
 
-* On 19 and 20 December, two settler attacks resulting in damage to Palestinian-owned property were reported. In two of the incidents, Israeli settlers bulldozed privately owned Palestinian lands in Ramin (Tulkarm) and Umm Safa (Ramallah), vandalizing at least 70 olive trees and demolishing an agricultural room. ((97 for #1))
+* On 19 and 20 December, two settler attacks resulting in damage to Palestinian-owned property were reported. In two of the incidents, Israeli settlers bulldozed privately owned Palestinian lands in Ramin (Tulkarm) and Umm Safa (Ramallah), vandalizing at least 70 olive trees and demolishing an agricultural room. ((96 for #1))
 
 * The weekly average of incidents since 7 October stands at 33, compared with 21 incidents per week between 1 January and 6 October 2023\. The number of incidents since 7 October has declined from 80 incidents in the first week (7-14 October) to 21 incidents between 9 and 14 December. One-third of these incidents included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or reportedly seen as supporting the attackers. ((97 for #3))
 
 ### Displacement (West Bank) ((31 for #4))
 
-* Since 7 October, OCHA has recorded 353 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (27 incidents), or both casualties and damage to property (46 incidents). ((22 for #2))
+* Since 7 October, OCHA has recorded 353 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (27 incidents), or both casualties and damage to property (46 incidents). ((23 for #2))
 
 
 ### Displacement (West Bank)
@@ -1723,7 +1723,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #5))
 
-* Since 7 October, Israeli forces have injured 3,659 Palestinians, including at least 562 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((20 for #4))
+* Since 7 October, Israeli forces have injured 3,659 Palestinians, including at least 562 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((21 for #4))
 
 
 ### Settler Violence
@@ -1732,7 +1732,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank) ((31 for #4))
 
-* Since 7 October, OCHA has recorded 351 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (270 incidents), or both casualties and damage to property (46 incidents). ((21 for #2))
+* Since 7 October, OCHA has recorded 351 Israeli settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (270 incidents), or both casualties and damage to property (46 incidents). ((22 for #2))
 
 
 ### Displacement (West Bank)
@@ -1758,7 +1758,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October, Israeli forces have injured 3,634 Palestinians, including at least 561 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((20 for #5))
+* Since 7 October, Israeli forces have injured 3,634 Palestinians, including at least 561 children; 51 per cent in the context of search-and-arrest and other operations and 41 per cent of them in the context of demonstrations and. Another 88 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((21 for #5))
 
 
 ### Settler Violence
@@ -1791,7 +1791,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #5))
 
-* Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((20 for #4))
+* Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((21 for #4))
 
 
 ### Settler Violence
@@ -1826,7 +1826,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Settler Violence ((28 for #6))
 
-* Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((20 for #5))
+* Since 7 October, Israeli forces have injured 3,607 Palestinians, including at least 552 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 other Palestinians injured either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((21 for #5))
 
 
 ### Settler Violence
@@ -1861,7 +1861,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #3))
 
-* Since 7 October, Israeli forces have injured 3,502 Palestinians, including at least 549 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((37 for #4))
+* Since 7 October, Israeli forces have injured 3,502 Palestinians, including at least 549 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. Another 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((38 for #4))
 
 ### Settler Violence ((28 for #5))
 
@@ -1894,11 +1894,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, four Israelis, including three members of the Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four Israelis were killed in an attack by Palestinians from the West Bank in West Jerusalem (one of the four was killed by Israeli forces who misidentified him). ((78 for #3))
 
-* On 13 December, no Palestinian fatalities were reported in the West Bank. ((96 for #1))
+* On 13 December, no Palestinian fatalities were reported in the West Bank. ((97 for #1))
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,488 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,488 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -1939,14 +1939,14 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,481 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,481 Palestinians, including at least 541 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 85 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with 9 per cent in the first nine months of 2023\. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
 
 ### Settler Violence
 
-* Between 11 and 12 December, four settler attacks resulting in damage to Palestinian-owned property were reported. In one of the incidents, armed assailants who are known by Palestinians to be settlers but were wearing Israeli military uniforms, physically assaulted a Palestinian family while they were picking olives near their house in Turmus'ayya, Ramallah. In another incident, Palestinian landowners in Awarta village, southeast of Nablus, accessed their lands through a special permission granted by the Israeli authorities, only to find settlers harvesting their trees. Israeli forces then removed the family from their agricultural land. In the two remaining incidents, armed Israeli settlers raided the Palestinian communities of Al Farisiya-Khallet Khader and Ein al Hilwa (both in Tubas), physically assaulted residents and took livestock. ((94 for #1))
+* Between 11 and 12 December, four settler attacks resulting in damage to Palestinian-owned property were reported. In one of the incidents, armed assailants who are known by Palestinians to be settlers but were wearing Israeli military uniforms, physically assaulted a Palestinian family while they were picking olives near their house in Turmus'ayya, Ramallah. In another incident, Palestinian landowners in Awarta village, southeast of Nablus, accessed their lands through a special permission granted by the Israeli authorities, only to find settlers harvesting their trees. Israeli forces then removed the family from their agricultural land. In the two remaining incidents, armed Israeli settlers raided the Palestinian communities of Al Farisiya-Khallet Khader and Ein al Hilwa (both in Tubas), physically assaulted residents and took livestock. ((95 for #1))
 
 * The weekly average of incidents since 7 October stands at 35, compared with 21 incidents between 1 January and 6 October 2023\. The number of incidents since 7 October has gradually declined from 80 incidents in the first week (7-14 October) to 13 incidents between 2 and 7 December. One-third of these incidents included firearms, including shootings and threats of shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or reportedly seen as supporting the attackers. ((97 for #3))
 
@@ -1978,7 +1978,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,472 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,472 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -2013,7 +2013,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,431 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,431 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -2068,7 +2068,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,387 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,387 Palestinians, including at least 535 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -2081,7 +2081,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Displacement (West Bank) ((31 for #4))
 
-* Since 7 October, OCHA has recorded 330 settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (250 incidents), or both casualties and damage to property (45 incidents). ((30 for #2))
+* Since 7 October, OCHA has recorded 330 settler attacks against Palestinians, resulting in Palestinian casualties (35 incidents), damage to Palestinian-owned property (250 incidents), or both casualties and damage to property (45 incidents). ((29 for #2))
 
 
 ### Displacement (West Bank)
@@ -2103,7 +2103,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,368 Palestinians, including at least 533 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,368 Palestinians, including at least 533 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -2136,7 +2136,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,341 Palestinians, including at least 530 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,341 Palestinians, including at least 530 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -2165,7 +2165,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,325 Palestinians, including at least 528 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,325 Palestinians, including at least 528 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((48 for #5))
 
 ### Settler Violence ((28 for #6))
 
@@ -2200,7 +2200,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #4))
 
-* Since 7 October, Israeli forces have injured 3,313 Palestinians, including at least 520 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((47 for #5))
+* Since 7 October, Israeli forces have injured 3,313 Palestinians, including at least 520 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 84 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023\. ((48 for #5))
 
 ### Settler Violence  ((28 for #7))
 
@@ -2233,11 +2233,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchanges of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #5))
 
-* Since 7 October, Israeli forces have injured 3,279 Palestinians, including at least 520 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 82 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((47 for #6))
+* Since 7 October, Israeli forces have injured 3,279 Palestinians, including at least 520 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search-and-arrest and other operations. An additional 82 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with 9 per cent in the first nine months of 2023. ((48 for #6))
 
 * In addition to the settler attack in Qarawat Bani Hassan (see above), three settler attacks took place on 2 December, resulting in damage to Palestinian-owned property. In one of the incidents, settlers accompanied by Israeli forces threw stones at Palestinian homes and vehicles in Madama village (Nablus), damaging at least two vehicles and one home, and setting fire to another vehicle. In Yassuf village (Salfit), Israeli settlers attacked Palestinian families picking their olives, opened fire, threw stones at Palestinian-plated vehicles and vandalized four vehicles. In Qusra village (Nablus) Israeli settlers physically assaulted three farmers and reportedly vandalized 50 olive trees. ((99 for #7))
 
-* Since 7 October, OCHA has recorded 308 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (233 incidents), or both casualties and damage to property (41 incidents). The weekly average of such incidents during this period stands at 39, compared with 21 incidents between 1 January and 6 October 2023\. However, the number of incidents since 7 October has gradually declined from 80 incidents in the first week (7-14 October) to 18 incidents in the last (27 November - 3 December). One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #8))
+* Since 7 October, OCHA has recorded 308 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (233 incidents), or both casualties and damage to property (41 incidents). The weekly average of such incidents during this period stands at 39, compared with 21 incidents between 1 January and 6 October 2023\. However, the number of incidents since 7 October has gradually declined from 80 incidents in the first week (7-14 October) to 18 incidents in the last (27 November - 3 December). One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #8))
 
 ### Displacement (West Bank) ((31 for #9))
 
@@ -2267,7 +2267,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two settler attacks took place on 1 December, resulting in damage to Palestinian-owned property. In one of the incidents, Israeli settlers raided the village of Qarawat Bani Hassan (Salfit) where they open fire and threw stones at Palestinian-plated vehicles and vandalized four vehicles. In another incident, according to Palestinian eyewitnesses, Israeli settlers vandalized 50 olive trees in the outskirts of Qusra (Nablus) village. ((77 for #6))
 
-* Since 7 October, OCHA has recorded 305 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (231 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #7))
+* Since 7 October, OCHA has recorded 305 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (231 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all recorded incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #7))
 
 ### Displacement (West Bank) ((31 for #8))
 
@@ -2289,7 +2289,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, four Israelis, including three members of Israeli forces, have been killed in attacks by Palestinians in the West Bank, including East Jerusalem. An additional four were killed in West Jerusalem in a Palestinian attack (one of whom appears to be killed by Israeli forces). ((93 for #4))
 
-* [The UN Human Rights Office reported](https://twitter.com/ohchr%5Fpalestine/status/1730488157248819420?s=46&t=psgiE%5FIAjcYJjNxel7FuVg) a dramatic increase in the number of Palestinians detained by the Israeli authorities in the West Bank, including East Jerusalem. Since 7 October, over 3,000 Palestinians have been arrested, with more than 160 in the past six days, often without direct evidence of an offense. According to the Office, six Palestinian men have died in Israeli custody during this period, a decades-long high. The surge in arrests, reports of ill-treatment, and failure to adhere to due process raise serious concerns about Israel's compliance with international law. ((96 for #1))
+* [The UN Human Rights Office reported](https://twitter.com/ohchr%5Fpalestine/status/1730488157248819420?s=46&t=psgiE%5FIAjcYJjNxel7FuVg) a dramatic increase in the number of Palestinians detained by the Israeli authorities in the West Bank, including East Jerusalem. Since 7 October, over 3,000 Palestinians have been arrested, with more than 160 in the past six days, often without direct evidence of an offense. According to the Office, six Palestinian men have died in Israeli custody during this period, a decades-long high. The surge in arrests, reports of ill-treatment, and failure to adhere to due process raise serious concerns about Israel's compliance with international law. ((94 for #1))
 
 * No Palestinian or Israeli fatalities were reported on 1 December in the West Bank. ((94 for #2))
 
@@ -2325,9 +2325,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Two-thirds of the Palestinian fatalities in the West Bank since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchange of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #5))
 
-* Since 7 October, Israeli forces have injured 3,187 Palestinians, including at least 509 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search- and- arrest and other operations. An additional 78 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with nine per cent in the first nine months of 2023\. ((47 for #6))
+* Since 7 October, Israeli forces have injured 3,187 Palestinians, including at least 509 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search- and- arrest and other operations. An additional 78 Palestinians have been injured by settlers and 18 others either by Israeli forces or settlers. Some 33 per cent of those injuries have been caused with live ammunition, compared with nine per cent in the first nine months of 2023\. ((48 for #6))
 
-* Since 7 October, OCHA has recorded 299 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (226 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #8))
+* Since 7 October, OCHA has recorded 299 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (226 incidents), or both casualties and damage to property (40 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #8))
 
 ### Displacement (West Bank) ((31 for #9))
 
@@ -2347,13 +2347,13 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Between 7 October and 29 November, 238 Palestinians, including 63 children, were killed in the West Bank, including East Jerusalem. Of those, 229 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. Already, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((85 for #2))
 
-* Between 19:00 on 28 November 18:00 on 29 November, Israeli forces killed four Palestinians, including two children, in an operation in Jenin Refugee Camp, which involved armed clashes with Palestinians, and airstrikes, resulting in extensive infrastructure and residential damage. During the withdrawal of Israeli forces, an eight-year-old and a 15-year-old child were shot and killed by Israeli forces. According to medical sources, during the operation, Israeli forces impeded the work of paramedics, denied access to a hospital, and arrested an injured person while paramedics were transferring him into a hospital. Since 7 October, 51 Palestinians were killed in Jenin Refugee Camp, representing 22 per cent of the overall fatalities reported. ((92 for #1))
+* Between 19:00 on 28 November 18:00 on 29 November, Israeli forces killed four Palestinians, including two children, in an operation in Jenin Refugee Camp, which involved armed clashes with Palestinians, and airstrikes, resulting in extensive infrastructure and residential damage. During the withdrawal of Israeli forces, an eight-year-old and a 15-year-old child were shot and killed by Israeli forces. According to medical sources, during the operation, Israeli forces impeded the work of paramedics, denied access to a hospital, and arrested an injured person while paramedics were transferring him into a hospital. Since 7 October, 51 Palestinians were killed in Jenin Refugee Camp, representing 22 per cent of the overall fatalities reported. ((93 for #1))
 
 * Two-thirds of the fatalities since 7 October have occurred during search-and-arrest and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchange of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #3))
 
-* Since 7 October, Israeli forces have injured 3,128 Palestinians, including at least 508 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search and arrest and other operations. An additional 78 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with nine per cent in the first nine months of 2023. ((54 for #4))
+* Since 7 October, Israeli forces have injured 3,128 Palestinians, including at least 508 children; 45 per cent of them in the context of demonstrations and 46 per cent in the context of search and arrest and other operations. An additional 78 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with nine per cent in the first nine months of 2023. ((55 for #4))
 
-* Since 7 October, OCHA has recorded 295 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (223 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 295 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (223 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2379,11 +2379,11 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Between 7 October and 28 November, 232 Palestinians, including 61 children, were killed in the West Bank, including East Jerusalem. Of those killed, 225 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. So far, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((85 for #2))
 
-* Since 7 October, Israeli forces have injured 3,101 Palestinians, including at least 500 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with nine per cent in the first nine months of 2023. ((54 for #4))
+* Since 7 October, Israeli forces have injured 3,101 Palestinians, including at least 500 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared with nine per cent in the first nine months of 2023. ((55 for #4))
 
 * More than 67 per cent of the fatalities since 7 October have occurred during search-and-arrest operations and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchange of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #3))
 
-* Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of over five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #5))
+* Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of over five incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #5))
 
 ### Displacement (West Bank) ((31 for #6))
 
@@ -2403,13 +2403,13 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Between 7 October and 27 November, 231 Palestinians, including 59 children were killed in the West Bank, including East Jerusalem. Of those killed, 222 were killed by Israeli forces, eight by Israeli settlers and one either by forces or settlers. The seven-week toll represents more than half of all Palestinians killed in the West Bank this year. So far, 2023 has been the deadliest year for Palestinians in the West Bank since OCHA began recording casualties in 2005. ((85 for #2))
 
-* Since 7 October, Israeli forces have injured 3,093 Palestinians, including at least 496 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared to a monthly average of nine per cent of live ammunition injuries in the West Bank in the first nine months of 2023. ((54 for #5))
+* Since 7 October, Israeli forces have injured 3,093 Palestinians, including at least 496 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition, compared to a monthly average of nine per cent of live ammunition injuries in the West Bank in the first nine months of 2023. ((55 for #5))
 
 * No new fatalities were reported in the West Bank since 26 November afternoon. ((94 for #1))
 
 * More than 67 per cent of the fatalities since 7 October have occurred during search-and-arrest operations and other operations carried out by Israeli forces, including some – mainly in Jenin and Tulkarm governorates – involving exchange of fire with Palestinians. More than half of the fatalities were reported in operations that did not involve armed clashes. ((96 for #3))
 
-* Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #7))
+* Since 7 October, OCHA has recorded 287 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (215 incidents), or both casualties and damage to property (39 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. One-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #7))
 
 ### Displacement (West Bank) ((31 for #8))
 
@@ -2427,7 +2427,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ### Violence and casualties (West Bank)
 
-* Since 7 October, Israeli forces have injured 2,904 Palestinians, including at least 369 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition. ((54 for #4))
+* Since 7 October, Israeli forces have injured 2,904 Palestinians, including at least 369 children, over half of them in the context of demonstrations. An additional 73 Palestinians have been injured by settlers and 18 others either by forces or settlers. Some 33 per cent of those injuries have been caused by live ammunition. ((55 for #4))
 
 * On 25 and 26 November, Israeli forces shot and killed seven Palestinians, including four children during Israeli forces operations. The deadliest incident, which lasted for ten hours, took place in Jenin Refugee Camp, and resulted in five Palestinians killed. The operation involved armed clashes with Palestinians, and airstrikes, resulting in extensive infrastructure and residential damage. According to medical sources, during the operation, Israeli forces impeded the work of paramedics, denied access to two hospitals, and arrested two people injured in one of the hospitals. Another Palestinian boy was killed by Israeli forces in Al Bireh (Ramallah) during stone throwing confrontations. Another Palestinian man was killed while inside his vehicle during an operation carried out by undercover Israeli forces in Yatma (Nablus). No Israeli casualties were reported. ((85 for #1))
 
@@ -2435,7 +2435,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * On 25 November, three settler attacks resulted in damage to property and injuries. In one incident, a group of settlers accompanied by Israeli forces broke into Burqa village (Nablus), which was followed by confrontations with Palestinians; Israeli forces opened live fire, injuring one Palestinian. In another two incidents, according to Palestinian eyewitnesses, a group of Israeli settlers vandalized 155 olive trees in the outskirt of Immatin (Qalqiliya) and Qaryut (Nablus). ((97 for #5))
 
-* Since 7 October, OCHA has recorded 284 settler attacks against Palestinians, resulting in Palestinian casualties (34 incidents), damage to Palestinian-owned property (212 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 284 settler attacks against Palestinians, resulting in Palestinian casualties (34 incidents), damage to Palestinian-owned property (212 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2459,7 +2459,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 215 Palestinians, including 55 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #5))
+* No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #5))
 
 ### Displacement (West Bank) ((31 for #6))
 
@@ -2485,7 +2485,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 213 Palestinians, including 55 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #5))
+* No new settler attacks were reported in the past 24 hours. Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #5))
 
 ### Displacement (West Bank) ((31 for #6))
 
@@ -2511,9 +2511,9 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 211 Palestinians, including 54 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* On 21 and 22 November, OCHA recorded four settler attacks resulting in damage and injuries across the West Bank. In one incident, settlers physically assaulted an elderly Palestinian man in Yatta (Hebron) while he was working on his land. In three incidents, Israeli settlers broke into the Palestinian community of Al Mu’arrajat East (Ramallah), toured between the tents harassing and intimidating residents, and threw stones at a vehicle, causing damage. In Khirbet Zanuta and Susiya (both in Hebron), settlers vandalized 70 trees, damaged water pipelines, and set fire to a basic school, causing damage to two classrooms and the school’s kitchen. ((94 for #5))
+* On 21 and 22 November, OCHA recorded four settler attacks resulting in damage and injuries across the West Bank. In one incident, settlers physically assaulted an elderly Palestinian man in Yatta (Hebron) while he was working on his land. In three incidents, Israeli settlers broke into the Palestinian community of Al Mu’arrajat East (Ramallah), toured between the tents harassing and intimidating residents, and threw stones at a vehicle, causing damage. In Khirbet Zanuta and Susiya (both in Hebron), settlers vandalized 70 trees, damaged water pipelines, and set fire to a basic school, causing damage to two classrooms and the school’s kitchen. ((95 for #5))
 
-* Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #6))
+* Since 7 October, OCHA has recorded 281 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (210 incidents), or both casualties and damage to property (38 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2539,7 +2539,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * In the past 24 hours, two settler attacks resulted in damage and injuries. In one incident, a group of settlers accompanied by Israeli forces broke into a cemetery in Al Fundaqumiya village (Jenin), which was followed by confrontations with Palestinians; Israeli forces opened live fire, injuring two Palestinians. In another incident, armed assailants known by Palestinian residents to be settlers, yet wearing Israeli military uniforms, opened fire and physically assaulted a group of Palestinians harvesting their olives in Yanun village (Nablus), injuring one man, and smashing 12 bags of produce. ((96 for #5))
 
-* Since 7 October, OCHA has recorded 277 settler attacks against Palestinians, resulting in Palestinian casualties (38 incidents)\*, damage to Palestinian-owned property (207 incidents), or both casualties and damage to property (38 incidents)\*. This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((34 for #6))
+* Since 7 October, OCHA has recorded 277 settler attacks against Palestinians, resulting in Palestinian casualties (38 incidents)\*, damage to Palestinian-owned property (207 incidents), or both casualties and damage to property (38 incidents)\*. This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((35 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2563,7 +2563,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 201 Palestinians, including 52 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* Since 7 October, OCHA has recorded 271 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (202 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 271 settler attacks against Palestinians, resulting in Palestinian casualties (33 incidents), damage to Palestinian-owned property (202 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2587,7 +2587,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 201 Palestinians, including 52 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* Since 7 October, OCHA has recorded 256 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (189 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #6))
+* Since 7 October, OCHA has recorded 256 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (189 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2609,7 +2609,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 200 Palestinians, including 52 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* Since 7 October, OCHA has recorded 254 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (187 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #6))
+* Since 7 October, OCHA has recorded 254 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (187 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of almost six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2633,7 +2633,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 198 Palestinians, including 52 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* Since 7 October, OCHA has recorded 253 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (186 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #5))
+* Since 7 October, OCHA has recorded 253 settler attacks against Palestinians, resulting in Palestinian casualties (31 incidents), damage to Palestinian-owned property (186 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #5))
 
 ### Displacement (West Bank) ((31 for #6))
 
@@ -2657,7 +2657,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 191 Palestinians, including 51 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* Since 7 October, OCHA has recorded 251 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (185 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #5))
+* Since 7 October, OCHA has recorded 251 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (185 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #5))
 
 ### Displacement (West Bank) ((31 for #6))
 
@@ -2679,7 +2679,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 186 Palestinians, including 51 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Four Israelis have been killed in attacks by Palestinians. ((95 for #2))
 
-* Since 7 October, OCHA has recorded 248 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (182 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 248 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (182 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2688,7 +2688,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * On 15 November, in East Jerusalem, Israeli forces demolished on punitive grounds the family home of a Palestinian who killed seven Israelis in an attack in January 2023, and was subsequently killed by Israeli forces. This house was sealed immediately after the attack and the family was displaced at that time. A total of 48 Palestinians, including 24 children, have been displaced since 7 October following punitive demolitions. ((97 for #1))
 
-* Additionally, since 7 October, at least 143 Palestinian households comprising 1,014 people, including 388 children, have been displaced amid settler violence and access restrictions. The displaced households are from 15 herding/Bedouin communities. These numbers were updated on 16 November following the receipt of new information. ((99 for #3))
+* Additionally, since 7 October, at least 143 Palestinian households comprising 1,014 people, including 388 children, have been displaced amid settler violence and access restrictions. The displaced households are from 15 herding/Bedouin communities. These numbers were updated on 16 November following the receipt of new information. ((100 for #3))
 
 ### Funding ((34 for #4))
 
@@ -2705,7 +2705,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * On 13 and 14 November, assailants believed to be Israeli settlers uprooted an unconfirmed number of Palestinian-owned olive trees in As Sawiya village (Nablus), next to the Rehelim settlement. Access to this area by Palestinians requires permission by the Israeli authorities. ((87 for #5))
 
-* Since 7 October, OCHA has recorded 246 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (180 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #6))
+* Since 7 October, OCHA has recorded 246 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (180 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2731,7 +2731,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * In the past 24 hours, OCHA verified four settler attacks. In two of these incidents, armed assailants who, while known by Palestinian residents to be settlers, were wearing Israeli military uniforms, raided the communities of Umm At Tiran and the already displaced community of At Taybe (both in Hebron), where they vandalized a residential structure, agricultural, water tanks and punctured the tires of vehicles. In two other incidents, in Mantiqat Shi'b al Butum in Masafer Yatta (southern Hebron) and the displaced community of Ein ar Rashash (Ramallah), 18 tents used for residential and agricultural purposes were vandalized, along with two solar panel systems, and an electronic generator, and about 10 bags of livestock fodder. ((43 for #5))
 
-* Since 7 October, OCHA has recorded 244 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (177 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 244 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (177 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2755,7 +2755,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * No settler-related incidents against Palestinians were reported in the past 24 hours. ((88 for #5))
 
-* Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2777,7 +2777,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 172 Palestinians, including 46 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Three Israelis have been killed in attacks by Palestinians. ((96 for #2))
 
-* Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 241 settler attacks against Palestinians, resulting in Palestinian casualties (30 incidents), damage to Palestinian-owned property (174 incidents), or both casualties and damage to property (37 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2799,7 +2799,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 169 Palestinians, including 46 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Three Israelis have been killed in attacks by Palestinians. ((96 for #2))
 
-* Since 7 October, OCHA has recorded 235 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (170 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #5))
+* Since 7 October, OCHA has recorded 235 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (170 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of over six incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #5))
 
 ### Displacement (West Bank) ((31 for #6))
 
@@ -2821,7 +2821,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Since 7 October, 168 Palestinians, including 46 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers in the West Bank, including East Jerusalem. Three Israelis have been killed in attacks by Palestinians. ((96 for #2))
 
-* Since 7 October, OCHA has recorded 233 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (168 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 233 settler attacks against Palestinians, resulting in Palestinian casualties (29 incidents), damage to Palestinian-owned property (168 incidents), or both casualties and damage to property (36 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -2873,7 +2873,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * No Palestinian fatalities were reported between the afternoon of 7 November and noontime on 8 November. Since 7 October, 150 Palestinians, including 44 children, have been killed by Israeli forces; and an additional eight, including one child, have been killed by Israeli settlers. Three Israelis have been killed in attacks by Palestinians. ((91 for #1))
 
-* Since 7 October, OCHA has recorded 222 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (160 incidents), or both casualties and damage to property (34 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((29 for #4))
+* Since 7 October, OCHA has recorded 222 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (160 incidents), or both casualties and damage to property (34 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #4))
 
 ### Displacement (West Bank) ((31 for #5))
 
@@ -2897,7 +2897,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 * Between 5 and 7 November, OCHA verified five settler attacks. In three of these incidents, armed assailants known by Palestinian residents to be settlers, but who were wearing Israeli forces’ uniforms, raided the communities of Ar Rakeez and Umm Fagarah (both in Hebron), and Hizma (Jerusalem) where they vandalized a residential structure and water tanks and punctured the tires of vehicles. In two other incidents, in Burqa (Ramallah) and Kafr ad Dik (Salfit), at least 70 Palestinian-owned trees, in restricted areas near settlements, were vandalized. ((49 for #5))
 
-* Since 7 October, OCHA has recorded 218 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (157 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((30 for #6))
+* Since 7 October, OCHA has recorded 218 settler attacks against Palestinians, resulting in Palestinian casualties (28 incidents), damage to Palestinian-owned property (157 incidents), or both casualties and damage to property (33 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. Over one-third of these incidents included threats with firearms, including shootings. In nearly half of all incidents, Israeli forces were either accompanying or actively supporting the attackers. ((31 for #6))
 
 ### Displacement (West Bank) ((31 for #7))
 
@@ -3011,7 +3011,7 @@ In double nested brackets you'll see the distance number and which string matche
 
 ## West Bank Humanitarian Overview
 
-Since 7 October, Israeli forces have injured 2,219 Palestinians, including at least 236 children. 62 Palestinians were injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of those injuries have been caused by live ammunition.  ((77 for #6))
+Since 7 October, Israeli forces have injured 2,219 Palestinians, including at least 236 children. 62 Palestinians were injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of those injuries have been caused by live ammunition.  ((75 for #6))
 
 In the West Bank, between the afternoon of 1 November and 21:00 on 2 November, Israeli forces killed three Palestinians, including one child; another child died from wounds sustained previously. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 132, including 41 children. Of these, 124 people, including 40 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians.  ((99 for #1))
 
@@ -3037,9 +3037,9 @@ Out of the 186 settler attacks, more than one-third involved threats with firear
 
 ## West Bank Humanitarian Overview
 
-Since 7 October, Israeli forces have injured 2,214 Palestinians, including at least 234 children.60 Palestinians were injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of those injuries have been caused by live ammunition.  ((77 for #6))
+Since 7 October, Israeli forces have injured 2,214 Palestinians, including at least 234 children.60 Palestinians were injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of those injuries have been caused by live ammunition.  ((75 for #6))
 
-In the West Bank, between the afternoon of 31 October and 21:00 on 1 November, Israeli forces killed five Palestinians, including one child and an elderly man. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 128, including 35 children. Of these, 120 people, including 34 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians.  ((99 for #1))
+In the West Bank, between the afternoon of 31 October and 21:00 on 1 November, Israeli forces killed five Palestinians, including one child and an elderly man. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 128, including 35 children. Of these, 120 people, including 34 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians.  ((98 for #1))
 
 The number of Palestinians killed since 7 October represents more than one third of all Palestinian fatalities in the West Bank so far in 2023 (372).  ((95 for #2))
 
@@ -3065,9 +3065,9 @@ Out of the 186 settler attacks, more than one-third involved threats with firear
 
 ## West Bank Humanitarian Overview
 
-In the West Bank, between the afternoon of 30 October and 21:00 on 31 October, Israeli forces killed two Palestinians, including one child and an elderly man. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 123, including 34 children. Of these 115, including 33 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians. ((93 for #1))
+In the West Bank, between the afternoon of 30 October and 21:00 on 31 October, Israeli forces killed two Palestinians, including one child and an elderly man. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 123, including 34 children. Of these 115, including 33 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians. ((94 for #1))
 
-Since 7 October, Israeli forces and settlers have injured 2,157 Palestinians, including at least 201 children, with an additional 52 Palestinians have been injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January and 6 October 2023. ((77 for #4))
+Since 7 October, Israeli forces and settlers have injured 2,157 Palestinians, including at least 201 children, with an additional 52 Palestinians have been injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January and 6 October 2023. ((75 for #4))
 
 
 ### Settler-related Violence
@@ -3083,11 +3083,11 @@ Out of the 171 settler attacks, more than one-third involved threats with firear
 
 ## West Bank Humanitarian Overview
 
-In the West Bank, between the afternoon of 29 October and 21:00 on 30 October, Israeli forces killed six Palestinians and an Israeli settler killed another one. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 121, including 33 children. Of these 113, including 32 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians. ((93 for #1))
+In the West Bank, between the afternoon of 29 October and 21:00 on 30 October, Israeli forces killed six Palestinians and an Israeli settler killed another one. This brings the total number of Palestinians killed by Israeli forces or settlers since 7 October to 121, including 33 children. Of these 113, including 32 children, were killed by Israeli forces; and eight, including one child, by Israeli settlers. One member of Israeli forces was killed by Palestinians. ((94 for #1))
 
 The deadliest incident, which resulted in four of these fatalities, occurred during a search-and-arrest operation in Jenin Refugee Camp on 30 October, which involved armed clashes between Palestinians and Israeli forces. During the incident, Israeli forces launched an airstrike using a drone, which destroyed two homes and displaced two households. Extensive damage to infrastructure and public buildings was also reported. ((100 for #2))
 
-Since 7 October, Israeli forces and settlers have injured 2,156 Palestinians, including at least 201 children, an additional 52 Palestinians have been injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January and 6 October 2023. ((77 for #6))
+Since 7 October, Israeli forces and settlers have injured 2,156 Palestinians, including at least 201 children, an additional 52 Palestinians have been injured by settlers, including nine with live ammunition. About 1,200 Palestinians have been injured by Israeli forces in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January and 6 October 2023. ((75 for #6))
 
 Another Palestinian man died of wounds sustained after armed Israeli settlers opened fire at a vehicle near Ras Karkar in Ramallah on 24 October. ((98 for #4))
 
@@ -3140,7 +3140,7 @@ On 28 October, in As Sawiya village (Nablus), a group of Israeli settlers threw 
 
 October marks the beginning of the olive harvest season. To access olive groves located within or nearby Israeli settlements, or in the closed military area behind the Barrier (the “Seam Zone”), Palestinian farmers must obtain permits or permissions from the Israeli authorities. However, since 7 October, these procedures have been halted, rendering large areas inaccessible or accessible at risk of facing settler attacks. Consequently, some families risk losing their income for the entire year. ((99 for #2))
 
-The already high level of Israeli settler violence recorded during the first nine months of 2023 has sharply increased since the escalation of hostilities. Since 7 October, OCHA has recorded 154 settler attacks against Palestinians, resulting in Palestinian casualties (23 incidents), damage to Palestinian property (105 incidents), or both casualties and damage to property (26 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. ((37 for #4))
+The already high level of Israeli settler violence recorded during the first nine months of 2023 has sharply increased since the escalation of hostilities. Since 7 October, OCHA has recorded 154 settler attacks against Palestinians, resulting in Palestinian casualties (23 incidents), damage to Palestinian property (105 incidents), or both casualties and damage to property (26 incidents). This reflects a daily average of seven incidents, compared with three since the beginning of the year. ((38 for #4))
 
 More than one-third of the incidents involved threats with firearms, including shooting, by settlers. Almost half of all incidents involved Israeli forces accompanying or actively supporting Israeli settlers while carrying out the attacks. Many of the latter incidents were followed by confrontations between Israeli forces and Palestinians, where three Palestinians were killed, and dozens injured. Affected properties included 24 residential structures, 40 agricultural/animal-related structures, 68 vehicles and more than 650 trees and saplings. ((92 for #5))
 
@@ -3179,7 +3179,7 @@ Since 7 October, Israeli forces or settlers in the West Bank have killed 103 Pal
 
 In the West Bank, in the past 24 hours (as of 21:00 on 26 October), Israeli forces shot and killed a 17-year-old Palestinian child and injured eight by live ammunition during confrontations with school students in Al Jalazun Refugee Camp (Ramallah).  ((35 for #1))
 
-Additionally, since 7 October, Israeli forces have injured 1,913 Palestinians, including at least 168 children; an additional 43 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January and 7 October 2023\.  ((78 for #3))
+Additionally, since 7 October, Israeli forces have injured 1,913 Palestinians, including at least 168 children; an additional 43 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January and 7 October 2023\.  ((76 for #3))
 
 
 ### Settler-related violence
@@ -3199,7 +3199,7 @@ This has brought the total number of Palestinians killed by Israeli forces or se
 
 In the West Bank, in the past 24 hours (as of 21:00 on 25 October), Israeli forces shot and killed seven Palestinians and injured eight by live ammunition. The deadliest incident, which resulted in four of these fatalities, including two boys (aged 15 and 17), took place during a search-and-arrest operation in Jenin Refugee Camp. Following the entry of Israeli forces into the camp, clashes with residents began, including exchange of fire. During the incident, Israeli forces launched an air strike, using a drone, which killed at least one of the four. ((100 for #1))
 
-Additionally, since 7 October, Israeli forces have injured 1,850 Palestinians, including at least 160 children; an additional 39 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January to 7 October 2023. ((78 for #4))
+Additionally, since 7 October, Israeli forces have injured 1,850 Palestinians, including at least 160 children; an additional 39 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January to 7 October 2023. ((76 for #4))
 
 
 ### Settler-related violence
@@ -3235,7 +3235,7 @@ Settler violence has also disrupted the ongoing olive harvest season. On 22 Octo
 
 This has brought the total number of Palestinians killed by Israeli forces or settlers since the start of the escalation to 95, including 28 children. During that period, one member of Israeli forces was killed by Palestinians in the West Bank. ((99 for #2))
 
-Additionally, since 7 October, Israeli forces have injured 1,700 Palestinians, including at least 157 children, in the West Bank. Another 38 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 28 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average number of such injuries between 1 January to 7 October 2023. ((78 for #3))
+Additionally, since 7 October, Israeli forces have injured 1,700 Palestinians, including at least 157 children, in the West Bank. Another 38 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 28 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average number of such injuries between 1 January to 7 October 2023. ((76 for #3))
 
 
 ### Settler-related violence
@@ -3255,7 +3255,7 @@ In the West Bank, Israeli forces killed seven Palestinians since 21 October afte
 
 In two search and arrest operations in Qabatiya (Jenin) and Tubas, Israeli forces shot and killed two Palestinians during clashes, one of which involved exchange of fire. Another Palestinian died of wounds sustained by Israeli forces on 13 October during a demonstration in Nablus. ((87 for #3))
 
-Additionally, since 7 October, Israeli forces have injured 1,696 Palestinians, including at least 157 children. Another 38 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 28 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average number of such injuries between 1 January to 7 October 2023. ((78 for #4))
+Additionally, since 7 October, Israeli forces have injured 1,696 Palestinians, including at least 157 children. Another 38 Palestinians have been injured by settlers. Over 1,200 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 28 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average number of such injuries between 1 January to 7 October 2023. ((76 for #4))
 
 
 ### Settler-related violence
@@ -3275,7 +3275,7 @@ In the West Bank, two additional Palestinian fatalities, were recorded since yes
 
 Since the start of the escalation and by 21:00 on 21 October, Israeli forces and settlers in the West Bank had killed 84 Palestinians, including 27 children. One member of Israeli forces was killed by Palestinians. ((41 for #3))
 
-Additionally, since 7 October, Israeli forces have injured 1,653 Palestinians, including at least 150 children. Another 35 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average number of such injuries between 1 January to 7 October 2023. ((77 for #4))
+Additionally, since 7 October, Israeli forces have injured 1,653 Palestinians, including at least 150 children. Another 35 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of the injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average number of such injuries between 1 January to 7 October 2023. ((76 for #4))
 
 
 ### Settler-related violence
@@ -3293,9 +3293,9 @@ Since the start of the escalation, and by 21:00 on 20 October, Israeli forces in
 
 In the West Bank, three additional Palestinian fatalities, all children, were recorded in the past 24 hours (as of 21:00). ((97 for #1))
 
-Israeli forces killed two of these children (15- and 16-year-old) during confrontations between Palestinians and Israeli forces that have been ongoing in the Nur Shams refugee camp (Tulkarm) since yesterday morning and involved exchange of fire. During this 27-hour-long incident, 13 Palestinians, including six children, as well as one member of Israeli forces were killed. Additionally, 62 Palestinians and nine members of Israeli forces were injured. Extensive damage to roads and other infrastructure was reported. Humanitarian partners are set to conduct a needs assessment as soon as the conditions allow so. ((87 for #2))
+Israeli forces killed two of these children (15- and 16-year-old) during confrontations between Palestinians and Israeli forces that have been ongoing in the Nur Shams refugee camp (Tulkarm) since yesterday morning and involved exchange of fire. During this 27-hour-long incident, 13 Palestinians, including six children, as well as one member of Israeli forces were killed. Additionally, 62 Palestinians and nine members of Israeli forces were injured. Extensive damage to roads and other infrastructure was reported. Humanitarian partners are set to conduct a needs assessment as soon as the conditions allow so. ((88 for #2))
 
-Additionally, since 7 October, Israeli forces have injured 1,391 Palestinians, including at least 134 children; an additional 35 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average of such injuries between 1 January to 7 October 2023. ((77 for #5))
+Additionally, since 7 October, Israeli forces have injured 1,391 Palestinians, including at least 134 children; an additional 35 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the biweekly average of such injuries between 1 January to 7 October 2023. ((76 for #5))
 
 
 ### Settler-related violence
@@ -3315,7 +3315,7 @@ Additionally, three Palestinians were killed during confrontations that erupted 
 
 Since the start of the hostilities and by 21:00 on 19 October, Israeli forces had killed 73 Palestinians, including 19 children. An additional six Palestinians, including one child, were killed by Israeli settlers during settler attacks in Qusra (Nablus) and Dura al Qar'a (Ramallah). One member of Israeli forces was reportedly killed by Palestinians. ((49 for #3))
 
-Additionally, since 7 October, Israeli forces have injured 1,399 Palestinians, including at least 129 children; an additional 35 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January to 7 October 2023. ((77 for #4))
+Additionally, since 7 October, Israeli forces have injured 1,399 Palestinians, including at least 129 children; an additional 35 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number of Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January to 7 October 2023. ((76 for #4))
 
 
 ### Settler-related violence
@@ -3333,7 +3333,7 @@ In the past 24 hours, Israeli settlers shot and killed a Palestinian man and inj
 
 In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued. Since the start of the hostilities and by 16:00 on 18 October, Israeli forces have killed 59 Palestinians, including 17 children. An additional five Palestinians, including one child, were killed by Israeli settlers during two consecutive settler attacks in Qusra (Nablus). ((89 for #1))
 
-Additionally, since 7 October, Israeli forces have injured 1,255 Palestinians, including at least 122 children; an additional 29 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January to 7 October 2023. ((77 for #4))
+Additionally, since 7 October, Israeli forces have injured 1,255 Palestinians, including at least 122 children; an additional 29 Palestinians have been injured by settlers. Over 1,100 Palestinians have been injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries have been caused by live ammunition. The number Palestinian injuries from live ammunition is almost eight times higher than the average of such injuries between 1 January to 7 October 2023. ((76 for #4))
 
 
 ### Settler-related violence
@@ -3351,7 +3351,7 @@ In the West Bank, including East Jerusalem, confrontations between Palestinians 
 
 Over the past 24 hours (until 17 October, 16:00), Israeli forces shot and killed two Palestinians and injured nine others with live ammunition during search-and-arrest operations in Aqbat Jaber Refugee Camp in Jericho and Halhul town (Hebron); these incidents were followed by confrontations. An elderly man succumbed to his wounds sustained on 13 October. ((50 for #2))
 
-Additionally, since 7 October, Israeli forces injured 1,202 Palestinians, including at least 117 children; an additional 28 Palestinians were injured by settlers. Over 1,100 Palestinians were injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries were caused by live ammunition. ((84 for #3))
+Additionally, since 7 October, Israeli forces injured 1,202 Palestinians, including at least 117 children; an additional 28 Palestinians were injured by settlers. Over 1,100 Palestinians were injured, mostly by Israeli forces, in the context of demonstrations. Some 27 per cent of injuries were caused by live ammunition. ((83 for #3))
 
 
 ### Settler-related violence
@@ -3367,7 +3367,7 @@ Settler violence across the West Bank, especially in Palestinian communities nea
 
 In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for ten consecutive days. Since the start of the hostilities, until 16:00 16 October, Israeli forces have killed 53 Palestinians, including 15 children. An additional five Palestinians were killed by Israeli settlers during two consecutive settler attacks in Qusra (Nablus). Last week was the deadliest week for West Bank Palestinians since OCHA began recording casualties in 2005. ((94 for #1))
 
-From the afternoon of Sunday to 16:00 on 16 October, Israeli forces shot and killed a Palestinian man and injured three others with live ammunition during a search-and-arrest operation in Aqbat Jaber Camp in Jericho. Confrontations erupted in the camp where Palestinians threw stones and Israeli forces shot live ammunition, sound grenades, and teargas canisters. Israeli forces injured three Palestinians, bringing the total number of Palestinians injured to 1,176, including at least 113 children. Over 1,000 Palestinians were injured, mostly by Israeli forces, in the context of demonstrations. Some 26 per cent of injuries were caused by live ammunition. ((85 for #2))
+From the afternoon of Sunday to 16:00 on 16 October, Israeli forces shot and killed a Palestinian man and injured three others with live ammunition during a search-and-arrest operation in Aqbat Jaber Camp in Jericho. Confrontations erupted in the camp where Palestinians threw stones and Israeli forces shot live ammunition, sound grenades, and teargas canisters. Israeli forces injured three Palestinians, bringing the total number of Palestinians injured to 1,176, including at least 113 children. Over 1,000 Palestinians were injured, mostly by Israeli forces, in the context of demonstrations. Some 26 per cent of injuries were caused by live ammunition. ((83 for #2))
 
 
 ### Settler-related violence
@@ -3383,7 +3383,7 @@ Settler violence across the West Bank, especially in Palestinian communities nea
 
 In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for eight consecutive days. Since the start of the hostilities, until 16:00 today (Sunday), Israeli forces have killed 56 Palestinians, including 15 children. An additional five Palestinians were killed by Israeli settlers during two consecutive settler attacks in Qusra (Nablus). Last week was the deadliest week for West Bank Palestinians since OCHA began recording casualties in 2005. ((94 for #1))
 
-From the afternoon of Saturday to 16:00 on Sunday, Israeli forces shot and killed one Palestinian boy during a settler attack in Beita village (Nablus), and another boy died from wounds sustained on 10 October after being shot by Israeli forces during confrontations near Tulkarm. Additionally, Israeli forces injured 23 Palestinians, bringing the total number of Palestinians injured to 1,173, including at least 113 children. Over 1,000 Palestinians were injured, mostly by Israeli forces, in the context of demonstrations. Some 26 per cent of injuries were caused by live ammunition. ((85 for #2))
+From the afternoon of Saturday to 16:00 on Sunday, Israeli forces shot and killed one Palestinian boy during a settler attack in Beita village (Nablus), and another boy died from wounds sustained on 10 October after being shot by Israeli forces during confrontations near Tulkarm. Additionally, Israeli forces injured 23 Palestinians, bringing the total number of Palestinians injured to 1,173, including at least 113 children. Over 1,000 Palestinians were injured, mostly by Israeli forces, in the context of demonstrations. Some 26 per cent of injuries were caused by live ammunition. ((83 for #2))
 
 
 ### Settler-related violence
@@ -3419,7 +3419,7 @@ In the past 24 hours, settler violence incidents continued. In four reported inc
 
 In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for the seventh consecutive day. Since 7 October, 43 Palestinians, including eight children, were killed in the West Bank, including East Jerusalem. Of those, five were killed by settlers and 38 by Israeli forces. ((88 for #1))
 
-Over 700 Palestinians, including 92 children. were injured by Israeli forces. Most of the injuries (over 600) were reported in various demonstrations.  ((100 for #2))
+Over 700 Palestinians, including 92 children. were injured by Israeli forces. Most of the injuries (over 600) were reported in various demonstrations.  ((99 for #2))
 
 Since yesterday evening, Israeli forces shot and killed 13 Palestinians, including four children and one woman. Most of the fatalities (10) were reported during confrontations that erupted in protests and marches in solidarity with residents of the Gaza Strip. One woman was killed, and her son was injured near Silwad (Ramallah), and another 16-year-old child was killed, and three others were injured near An Nabi Elyas (Qalqiliya) after Israeli forces opened fire at their vehicles for unknown reasons. One Palestinian man shot and injured two Israeli police officers in East Jerusalem before being shot and killed. ((90 for #3))
 
@@ -3437,9 +3437,9 @@ Settler-related violence across the West Bank, especially in Palestinian communi
 
 ## WEST BANK HUMANITARIAN OVERVIEW
 
-A total of 500 Palestinian, including 81 children were injured by Israeli forces. Most of the injuries (426) were reported in various demonstrations in solidarity with residents of the Gaza Strip. Over 35 percent of all injuries were shot with live ammunition ((83 for #2))
+A total of 500 Palestinian, including 81 children were injured by Israeli forces. Most of the injuries (426) were reported in various demonstrations in solidarity with residents of the Gaza Strip. Over 35 percent of all injuries were shot with live ammunition ((81 for #2))
 
-In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for the sixth consecutive day. Since 7 October, 33 Palestinians, including five children, were killed in the West Bank, including East Jerusalem; of those five were killed by settlers and 28 by Israeli forces. ((89 for #1))
+In the West Bank, including East Jerusalem, confrontations between Palestinians and Israeli forces have continued for the sixth consecutive day. Since 7 October, 33 Palestinians, including five children, were killed in the West Bank, including East Jerusalem; of those five were killed by settlers and 28 by Israeli forces. ((91 for #1))
 
 
 ### Settler-related violence
