@@ -22,6 +22,25 @@ In double nested brackets you'll see the distance number and which string matche
 
 ---
 
+## 2024-02-27
+
+### West Bank Updates
+
+* Since 7 October 2023 and as of 27 February, 403 Palestinians have been killed, including 102 children, and 4,590 Palestinians have been injured, including 708 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 90 Palestinians have been killed, including 25 in refugee camps. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((25 for #2))
+
+* Between 25 and 26 February, some 50 Palestinians were arrested across the West Bank, including East Jerusalem. Over 5,700 Palestinians have been arrested since 7 October. ((91 for #7))
+
+* On 27 February, Israeli forces shot and killed three Palestinians, and another Palestinian was injured, in two separate military operations in Tubas city and the nearby El Far'a Refugee Camp (both in Tubas). The raid in the camp involved an exchange of fire between Palestinians and Israeli forces and the throwing of pipe bombs and stones by Palestinians. Two of the fatalities, including a bystander, were killed in this incident. Initial information indicates that Israeli forces bulldozed multiple sections of streets in the camp, causing damage to infrastructure, including water networks, resulting in continuous water cut-offs. The third fatality occurred when a unit of undercover Israeli forces entered Tubas city and shot him. Reportedly, there was no exchange of fire. ((99 for #1))
+
+* According to the latest field assessments, since 7 October 2023, 848 Palestinians, including 397 children, have been displaced, following the destruction of 132 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. ((83 for #4))
+
+## Humanitarian Needs and Response Updates | 20–26 February ((48 for #8))
+
+* Since 7 October 2023, OCHA has recorded 590 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (52 incidents), damage to Palestinian-owned property (472 incidents), or both casualties and damage to property (66 incidents). ((6 for #5))
+
+
+---
+
 ## 2024-02-26
 
 ### West Bank Updates

@@ -95,6 +95,7 @@ const injuredMatchers = [
   /Since 7 October, Israeli forces and settlers have injured (?<all>[0-9,]+)[\\*]* Palestinians, including at least (?<child>[0-9,]+)[\\*]* children/,
 ];
 const bulkMatchers = [
+  /Since 7 October 2023 and as of [0-9]?[0-9] [A-Za-z]+, (?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children, and (?<allinj>[0-9,]+)[\\*]* Palestinians have been injured, including (?<childinj>[0-9,]+)[\\*]* children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel/,
   /Since 7 October 2023, a total of (?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children, and (?<allinj>[0-9,]+)[\\*]* Palestinians have been injured, including (?<childinj>[0-9,]+)[\\*]* children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel/,
 ];
 const settlerAttackMatchers = [
