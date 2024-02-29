@@ -4,6 +4,29 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-02-28
+
+### West Bank Updates
+
+* On 27 February, Israeli forces shot and killed a Palestinian man near An Nu'man checkpoint near Al Khas community in Bethlehem. The man was reportedly trying to bypass the checkpoint through an informal opening in the Barrier fence on foot.
+
+* Since 7 October 2023, 404 Palestinians have been killed, including 102 children, and 4,592 Palestinians have been injured, including 708 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 91 Palestinians have been killed, including 25 in refugee camps. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* Since 7 October 2023, 576 people, including 276 children, have been displaced in Area C and East Jerusalem, after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* According to the latest field assessments, since 7 October 2023, 848 Palestinians, including 397 children, have been displaced, following the destruction of 132 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+
+* On 26 February, a group of armed Israeli settlers, believed to be from Telem settlement, raided At Taybe village in Hebron and handcuffed and detained three elderly farmers while they were working on their land, according to eyewitnesses. The farmers were taken to a military base near Tarqumiya checkpoint for several hours before they were released. Landowners report that they have been regularly prevented from reaching their land by Israeli forces and/or settlers since 7 October. In total, OCHA has recorded 595 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (52 incidents), damage to Palestinian-owned property (477 incidents), or both casualties and damage to property (66 incidents), since 7 October 2023\.
+
+* Since 7 October, the Cash Working Group (CWG) has supported hundreds of conflict-affected Palestinian families in the West Bank through emergency multi-purpose cash assistance. These include 98 households, comprising 581 individuals, from 15 communities, who were displaced due to settler violence; over 600 households affected by curfews in the H2 area of Hebron; and 131 families, comprising 662 people, affected by military operations in Jenin. In addition, 457 Gazan patients who have been stranded in the West Bank were assisted with up to three payments to meet their most urgent needs.
+
+* On 27 February, Israeli forces installed a roadblock at the main entrance to Rantis village, west of Ramallah, impacting the daily movement of more than 3,600 people. Since 7 October, the Israeli army has installed dozens of new obstacles to movement throughout the West Bank, including road gates, earth-mounds and roadblocks, exacerbating the access and movement of Palestinians that had been impeded by some 645 obstacles prior to 7 October. The restrictions disconnect cities, villages and vulnerable communities from one another, and disrupt communities’ access to basic services and the delivery of humanitarian aid.
+
+## Humanitarian Needs and Response Updates | 20–26 February
+
+
+---
+
 ## 2024-02-27
 
 ### West Bank Updates

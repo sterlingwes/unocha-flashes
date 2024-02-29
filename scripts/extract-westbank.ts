@@ -96,11 +96,12 @@ const injuredMatchers = [
 ];
 const bulkMatchers = [
   /Since 7 October 2023 and as of [0-9]?[0-9] [A-Za-z]+, (?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children, and (?<allinj>[0-9,]+)[\\*]* Palestinians have been injured, including (?<childinj>[0-9,]+)[\\*]* children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel/,
-  /Since 7 October 2023, a total of (?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children, and (?<allinj>[0-9,]+)[\\*]* Palestinians have been injured, including (?<childinj>[0-9,]+)[\\*]* children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel/,
+  /Since 7 October 2023, (a total of )?(?<all>[0-9,]+)[\\*]* Palestinians have been killed, including (?<child>[0-9,]+)[\\*]* children, and (?<allinj>[0-9,]+)[\\*]* Palestinians have been injured, including (?<childinj>[0-9,]+)[\\*]* children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel/,
 ];
 const settlerAttackMatchers = [
   /7 October( 2023)?( and as of [0-9]+ [A-Za-z]+( 202[34])?), OCHA( has)? recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks/,
   /Since 7 October, OCHA has recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks/,
+  /In total, OCHA has recorded (?<all>[0-9,]+)[\\*]*( Israeli)? settler attacks against Palestinians that resulted in Palestinian casualties/,
 ];
 const exclusionMatchers = [/Between [0-9]+ January and/];
 

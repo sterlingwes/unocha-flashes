@@ -22,6 +22,23 @@ In double nested brackets you'll see the distance number and which string matche
 
 ---
 
+## 2024-02-28
+
+### West Bank Updates
+
+* Since 7 October 2023, 404 Palestinians have been killed, including 102 children, and 4,592 Palestinians have been injured, including 708 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 91 Palestinians have been killed, including 25 in refugee camps. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((21 for #2))
+
+* On 27 February, Israeli forces shot and killed a Palestinian man near An Nu'man checkpoint near Al Khas community in Bethlehem. The man was reportedly trying to bypass the checkpoint through an informal opening in the Barrier fence on foot. ((97 for #1))
+
+* According to the latest field assessments, since 7 October 2023, 848 Palestinians, including 397 children, have been displaced, following the destruction of 132 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm. ((83 for #4))
+
+* On 26 February, a group of armed Israeli settlers, believed to be from Telem settlement, raided At Taybe village in Hebron and handcuffed and detained three elderly farmers while they were working on their land, according to eyewitnesses. The farmers were taken to a military base near Tarqumiya checkpoint for several hours before they were released. Landowners report that they have been regularly prevented from reaching their land by Israeli forces and/or settlers since 7 October. In total, OCHA has recorded 595 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (52 incidents), damage to Palestinian-owned property (477 incidents), or both casualties and damage to property (66 incidents), since 7 October 2023\. ((46 for #5))
+
+## Humanitarian Needs and Response Updates | 20–26 February ((48 for #8))
+
+
+---
+
 ## 2024-02-27
 
 ### West Bank Updates
