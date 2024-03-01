@@ -4,6 +4,27 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-02-29
+
+### West Bank Updates
+
+* On 29 February, Israeli forces shot and killed a 17-year-old Palestinian child during a search-and-arrest operation in Beit Furik village in Nablus that involved clashes between Israeli forces and Palestinian stone throwers.
+
+* On 29 February, a Palestinian man died of injuries sustained on 19 October 2023 during an Israeli military operation in Nur Shams Refugee Camp near Tulkarm city, which resulted in the killing of 13 other Palestinians, including the man’s 12-year-old son.
+
+* Since 7 October 2023, 406 Palestinians have been killed, including 103 children, and 4,606 Palestinians have been injured, including 709 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 93 Palestinians have been killed, including 26 in refugee camps. During the same period, 13 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* On 28 February, the Israeli authorities demolished three homes in Al Walaja village in Bethlehem due to the lack of Israeli-issued building permits, displacing three families comprising 16 people, including six children. Since 7 October 2023, 592 people, including 282 children, have been displaced in Area C and East Jerusalem, after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* Since 7 October 2023, OCHA has recorded 601 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (53 incidents), damage to Palestinian-owned property (481 incidents), or both casualties and damage to property (67 incidents).
+
+* Movement restrictions affecting an estimated 7,000 residents of H2 area in Hebron continue to be in place since 7 October, with checkpoints that control access to the area only open for Palestinian pedestrians between 7:00 and 19:00\. Residents have also reported facing restrictions while moving between neighbourhoods within the H2 area.
+
+## Humanitarian Needs and Response Updates | 20–26 February
+
+
+---
+
 ## 2024-02-28
 
 ### West Bank Updates
