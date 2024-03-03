@@ -4,6 +4,23 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-03-01
+
+### West Bank Updates 
+
+* On 29 February, two Israeli settlers, including a 16-year-old child, were killed when a Palestinian man from Qalandiya Refugee Camp opened fire at a gas station on Road 60 near Eli settlement in Nablus. The man was subsequently shot and killed by an Israeli settler at the scene. Following the incident, Israeli forces closed most of the checkpoints and roads that connect the northern West Bank to the central and southern governorates. Settlers also gathered in multiple areas, preventing Palestinian vehicles from using Road 60\.
+
+* On 29 February, Israeli forces shot at three Palestinian brothers near Beit ‘Awwa village in Hebron, reportedly for attempting to enter Israel through informal openings in the Barrier, killing two of them, aged 26 and 34 years, and injuring the third. Also on 29 February, a 22-year-old Palestinian prisoner with cancer died at an Israeli hospital; the man is from Kafr Ein village in Ramallah and had been in prison since September 2022\. According to the Palestinian Prisoners Club, 11 Palestinians have died in Israeli prisons since 7 October 2023, mainly due to reported medical negligence or abuse. Since 7 October 2023, 409 Palestinians have been killed, including 103 children, and 4,611 Palestinians have been injured, including 709 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 96 Palestinians have been killed, including 26 in refugee camps. During the same period, 15 Israelis, including four members of Israeli forces, were killed and 86 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* Since 7 October 2023, 592 people, including 282 children, have been displaced in Area C and East Jerusalem, after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* Since 7 October 2023, OCHA has recorded 603 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (54 incidents), damage to Palestinian-owned property (482 incidents), or both casualties and damage to property (67 incidents).
+
+## Humanitarian Needs and Response Updates | 20–26 February
+
+
+---
+
 ## 2024-02-29
 
 ### West Bank Updates
