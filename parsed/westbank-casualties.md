@@ -22,6 +22,29 @@ In double nested brackets you'll see the distance number and which string matche
 
 ---
 
+## 2024-03-04
+
+### West Bank Updates
+
+* Since 7 October 2023, 412 Palestinians have been killed, including 106 children, and 4,623 Palestinians have been injured, including 710 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, 99 Palestinians have been killed, including 28 in refugee camps. Since 7 October, 15 Israelis, including four members of Israeli forces, were killed and 88 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((22 for #5))
+
+* On 2 March, Israeli forces shot and killed a 13-year-old boy, and injured another, at the entrance of the Al Jalazoun Refugee Camp in Ramallah, where they were from. According to Israeli media, the two children were attempting to throw Molotov cocktails. ((66 for #1))
+
+* On 2 March, Israeli forces shot and killed a 15-year-old Palestinian boy during a search-and-arrest operation in Kafr Ni’ma village in Ramallah. According to local sources, the boy was shot while watching the forces withdraw. ((59 for #2))
+
+* On 2 March, an Israeli civilian was injured after being stabbed by a Palestinian man in Adh Dhahiriya community, Hebron. The man was transported to Israeli hospital and the suspected assailant later arrested. ((94 for #3))
+
+* On 29 February, the Israeli authorities demolished 18 structures in the Jericho area, five of which were residential, due to the lack of Israeli-issued building permits, resulting in the displacement of seven people, including three children. Most of the remaining structures included external kitchens and bathrooms, agricultural structures and solar panel systems. Since 7 October 2023, 599 people, including 285 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain. ((97 for #6))
+
+### Funding ((34 for #9))
+
+* On the morning of 4 March, Israeli forces shot and killed a 16-year-old Palestinian boy and injured two others when the forces raided Al Amari refugee camp in Ramallah; there were no clashes at the time of the killing. Subsequently, an exchange of fire took place between Palestinians and Israeli forces, in which a member of Israeli forces was injured. ((92 for #4))
+
+* Since 7 October 2023, OCHA has recorded 607 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (53 incidents), damage to Palestinian-owned property (484 incidents), or both casualties and damage to property (70 incidents). ((7 for #8))
+
+
+---
+
 ## 2024-03-01
 
 ### West Bank Updates 
