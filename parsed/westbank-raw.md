@@ -4,6 +4,27 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-03-05
+
+### West Bank Updates
+
+* On 4 March, Israeli forces shot and killed a 10-year-old Palestinian child during a raid in Burin village, in Nablus governorate, which escalated into clashes between the Israeli army and Palestinian stone throwers. Community sources reported that the child was fatally injured while he was in a vehicle with his father, and that two other Palestinians were injured while they were trying to assist them. Since 7 October, 107 Palestinian children (including 106 boys and 1 girl) have been killed in the West Bank, including East Jerusalem, including 105 killed by Israeli forces, one by Israeli settlers, and one by either Israeli forces or settlers. Overall, since 7 October, 413 Palestinians have been killed and 4,645 Palestinians have been injured, including 712 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel.
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, were killed and 88 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* On 2 March, a Palestinian family was forced to demolish their newly built three-storey residential building in Al ‘Isawiya in East Jerusalem due to the lack of Israeli-issued building permits. As a result, four households comprising 17 people, including nine children, were displaced. Since 7 October 2023, 616 people, including 294 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* In the late hours of 3 March, the Israeli authorities demolished on punitive grounds a house in Nablus city, displacing one person. During the demolition, clashes erupted between Israeli forces and Palestinians, resulting in the injury of 15 Palestinians. The house belonged to the family of a Palestinian man accused of killing three Israeli settlers in the Jordan Valley on 7 April 2023, and was himself killed during a military operation in Nablus city on 4 May 2023\. On 5 March, another house was punitively demolished in Kafr Dan village in Jenin, displacing a family of seven, including two children. The house belonged to the family of two brothers who were detained after being accused by the Israeli authorities of being involved in the shooting attack in Huwwara on 19 August 2023, which resulted in the killing of two Israelis. Since 7 October, a total of 25 houses have been punitively demolished and two others sealed off, leading to the displacement of 129 Palestinians, including 53 children.
+
+* Israeli forces carried out a military operation in Nur Shams Refugee Camp in Tulkarm, during which an exchange of fire took place between Palestinians and Israeli forces. The operation resulted in extensive damage to roads connecting the camp with Tulkarm and Nablus cities as well as the destruction of electricity and sewage infrastructure. At least five livelihood structures were also damaged by bulldozers. Since 7 October, 853 Palestinians, including 350 children, have been displaced, following the destruction of 133 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+
+* Since 7 October 2023, OCHA has recorded 615 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (54 incidents), damage to Palestinian-owned property (491 incidents), or both casualties and damage to property (70 incidents).
+
+### Funding
+
+
+---
+
 ## 2024-03-04
 
 ### West Bank Updates
