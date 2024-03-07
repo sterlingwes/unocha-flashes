@@ -4,6 +4,25 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-03-06
+
+### West Bank Updates
+
+* On 5 March, Israeli forces shot and killed a 16-year-old Palestinian boy from Urif village (Nablus) on Road 60 near Huwwara village (Nablus), allegedly after stabbing and seriously injuring an Israeli soldier. Also on 5 March, a Palestinian man died of wounds sustained on 29 February after being shot in the head by Israeli forces during an undercover operation in Jenin city. Since 7 October, 415 Palestinians have been killed and 4,648 Palestinians have been injured, including 712 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. During the same period, 15 Israelis, including four members of Israeli forces, were killed and 89 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* Since 7 October 2023, 616 people, including 294 children, have been displaced in Area C and East Jerusalem after their homes were demolished due to the lack of Israeli-issued building permits, which are almost impossible to obtain.
+
+* Since 7 October, a total of 25 houses have been punitively demolished and two others sealed off, leading to the displacement of 138 Palestinians, including 57 children.
+
+* Since 7 October, 853 Palestinians, including 350 children, have been displaced, following the destruction of 133 homes during operations carried out by Israeli forces across the West Bank. About 95 per cent of the displacement was reported in the refugee camps of Jenin, Nur Shams and Tulkarm.
+
+* Since 7 October 2023, OCHA has recorded 622 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (56 incidents), damage to Palestinian-owned property (495 incidents), or both casualties and damage to property (71 incidents).
+
+### Funding
+
+
+---
+
 ## 2024-03-05
 
 ### West Bank Updates
