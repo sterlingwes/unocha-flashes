@@ -4,6 +4,23 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-03-07
+
+### West Bank Updates
+
+* On 6 March, a Palestinian man died of wounds sustained on 4 March when he was shot by Israeli forces in Burin village, in Nablus governorate, while trying to help an injured child who was shot and killed. Also on 6 March, a 14-year-old boy was arrested in Beit Hanina in East Jerusalem after stabbing and injuring an elderly Israeli settler in the nearby Israeli settlement of Neve Yaakov.
+
+* Since 7 October, 416 Palestinians have been killed and 4,658 Palestinians have been injured, including 718 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, a total of 101 Palestinians have been killed, compared to 71 in the same period in 2023, the majority by Israeli forces. Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 90 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel.
+
+* On 5 March, the Israeli authorities demolished a house in Nablus city, due to the lack of Israeli-issued building permits. As a result, family of eight people, including four children, were displaced. Since 7 October 2023, a total of 1,620 Palestinians, including 710 children, have been displaced across the West Bank, including East Jerusalem, because of the demolition of their homes. More than half of them were displaced during military operations, mainly in the refugee camps in Tulkarm and Jenin; 38 per cent were displaced following the demolition of their homes due to the lack of Israeli-issued building permits; and nine per cent on punitive grounds.
+
+* Since 7 October 2023, OCHA has recorded 623 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (55 incidents), damage to Palestinian-owned property (497 incidents), or both casualties and damage to property (71 incidents).
+
+### Funding
+
+
+---
+
 ## 2024-03-06
 
 ### West Bank Updates
