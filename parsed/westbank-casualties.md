@@ -22,6 +22,23 @@ In double nested brackets you'll see the distance number and which string matche
 
 ---
 
+## 2024-03-08
+
+### West Bank Updates
+
+* According to initial reports, on 8 March, Israeli forces surrounded the house of a wanted Palestinian suspect in Silat Al Harithiya village in Jenin governorate and exchanged fire with Palestinians. The Israeli army then informed the Palestinian District Coordination Office of one Palestinian fatality and are withholding the body. Since 7 October, 417 Palestinians have been killed and 4,665 Palestinians have been injured, including 718 children, in conflict-related incidents across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, a total of 102 Palestinians have been killed, compared with 71 in the same period in 2023, the majority by Israeli forces. ((52 for #1))
+
+* Since 7 October 15 Israelis, including four members of Israeli forces, have been killed and 90 injured in conflict-related incidents in the West Bank, including East Jerusalem, and Israel. ((96 for #2))
+
+### Funding ((34 for #6))
+
+* Over the past five months (between 7 October 2023 and 7 March 2024), OCHA has recorded a monthly average of 700 search-and-arrest operations and other military operations by Israeli forces across the West Bank, including East Jerusalem, more than double the monthly average for the first nine months of 2023 (some 340 operations). These include operations carried out by Israeli undercover units and ones that involved the exchange of fire with Palestinians. In total, 297 Palestinians have been killed, including 71 children, and 2,600 others were injured, within this context by Israeli forces, representing about 70 per cent of Palestinian fatalities during this period. In addition, over 5,400 Palestinians were arrested, and some 866 Palestinians, including 358 children, have been displaced because of the destruction of their houses during military operations. The vast majority (93 per cent) of displaced people were in the refugee camps of Nur Shams, Tulkarm and Jenin, where Israeli forces also regularly bulldozed roads and caused extensive damage to electricity, water and sewage infrastructure. ((99 for #4))
+
+* Since 7 October 2023, OCHA has recorded 624 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (55 incidents), damage to Palestinian-owned property (498 incidents), or both casualties and damage to property (71 incidents). ((7 for #5))
+
+
+---
+
 ## 2024-03-07
 
 ### West Bank Updates
