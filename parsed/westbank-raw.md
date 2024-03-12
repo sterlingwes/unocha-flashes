@@ -4,6 +4,29 @@ This file includes all sections from flash reports with a header that includes t
 
 ---
 
+## 2024-03-11
+
+### West Bank Updates
+
+* On 8 March, according to the Israeli military, seven Israeli soldiers were wounded near the Israeli settlement of Homesh by an explosion, allegedly caused by Palestinians. The explosion followed the opening of fire by armed Palestinians at a military post near the settlement. Consequently, Israeli forces launched a manhunt in Nablus city and the surrounding villages.
+
+* Since 7 October, 417 Palestinians have been killed and 4,665 Palestinians have been injured, including 718 children, across the West Bank, including East Jerusalem, and Israel. Since the beginning of the year, a total of 102 Palestinians have been killed in the West Bank and Israel, compared with 78 in the same period in 2023, the majority by Israeli forces.
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 97 injured in the West Bank, including East Jerusalem, and Israel.
+
+* Since the beginning of 2024, about 560 Palestinians, including 212 children, have been displaced across the West Bank, including East Jerusalem, because of the demolition of their homes (estimated at 116 houses). More than half of them (over 300) were displaced during operations carried out by Israeli forces, 90 per cent of whom were displaced during operations in refugee camps in Tulkarm and Jenin governorates. Only 21 people were displaced in the same context during the equivalent period of 2023\. The remaining displacements included 36 per cent displaced following the demolition of homes due to the lack of Israeli-issued building permits; and eight per cent on punitive grounds.
+
+* On 10 March, Israeli forces deployed heavy forces at entrances leading to the old city of Jerusalem, denying the entry of young Palestinian men through the gates of Al Aqsa Mosque. Israeli forces also reportedly physically assaulted Palestinians, including women and older persons. Since 7 October, and although there was no official announcement to this effect, the Israeli authorities have been imposing heavy restrictions on access to Al Aqsa Mosque compound on Fridays.
+
+* Between 7 October 2023 and 7 March 2024, some 866 Palestinians, including 358 children, have been displaced because of the destruction of their houses during operations carried out by Israeli forces. The vast majority (93 per cent) of displaced people were in the refugee camps of Nur Shams, Tulkarm and Jenin, where Israeli forces also regularly bulldozed roads and caused extensive damage to electricity, water and sewage infrastructure.
+
+* Since 7 October 2023, OCHA has recorded 626 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (56 incidents), damage to Palestinian-owned property (499 incidents), or both casualties and damage to property (71 incidents).
+
+### Funding
+
+
+---
+
 ## 2024-03-08
 
 ### West Bank Updates
