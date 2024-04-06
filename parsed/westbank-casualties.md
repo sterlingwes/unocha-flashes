@@ -22,6 +22,236 @@ In double nested brackets you'll see the distance number and which string matche
 
 ---
 
+## 2024-04-05
+
+
+---
+
+## 2024-04-03
+
+### West Bank
+
+* Between 26 March and 1 April, six Palestinians were killed by Israeli forces, five in the West Bank and one in Israel. On 31 March, an Israeli policeman shot and killed a Palestinian man from Dura village (Hebron) who injured three Israelis with a knife near a shopping mall in Ashkelon city. On 30 March, Israeli forces shot and killed a 14-year-old child and injured three Palestinians during a military operation in Qabatiya village (Jenin), reportedly during armed clashes. On 27 March, four Palestinian men were killed in an Israeli airstrike and by gunfire during a military operation in Jenin city and its refugee camp. ((98 for #1))
+
+* Since 7 October and as of 1 April, 428 Palestinians, including 110 children, have been killed by Israeli forces across the West Bank, including East Jerusalem, of whom 131 were killed since the start of 2024\. In addition, nine were killed by Israeli settlers and three by either Israeli forces or settlers. Four additional Palestinians from the West Bank have been killed while perpetrating attacks in Israel. During the same period, some 4,760 Palestinians have been injured, including at least 739 children, the majority by Israeli forces. According to the Palestinian Prisoners Club, 11 Palestinians have additionally died in Israeli prisons since 7 October 2023, mainly due to reported medical negligence or abuse. ((68 for #2))
+
+* Since 7 October and as of 1 April, 16 Israelis, including five members of Israeli forces and seven settlers, have been killed and 111 injured in the West Bank, including East Jerusalem, and Israel. These include 14 killed by Palestinians and two mistakenly killed by Israeli forces during a Palestinian attack. ((96 for #3))
+
+* Between 26 March and 1 April, Israeli forces carried out at least 155 operations across the West Bank, mainly search-and-arrest operations, the majority of which were in Hebron governorate (46 operations), followed by Jerusalem and Bethlehem governorates (each 37). Since 7 October 2023, Israeli forces carried out an average of 690 operations per month, detained over 6,000 Palestinians, and caused extensive damage to civilian infrastructure including roads, water and sanitation networks, residential houses, livelihood structures, and other public properties. Consequently, over 900 Palestinians have been displaced, primarily in Jenin, Tulkarm and Nur Shams refugee camps. ((93 for #4))
+
+* Since 7 October, a monthly average of some 280 Palestinians have been displaced in the West Bank, including East Jerusalem, compared to 128 Palestinians displaced on a monthly basis in the first nine months of 2023\. Moreover, since 7 October 2023, at least 206 Palestinian households comprising 1,244 people, including 603 children, have been displaced amid settler violence and access restrictions. The displaced households are from at least 20 herding/Bedouin communities. ((99 for #5))
+
+* Between 26 March and 1 April, Israeli settlers perpetrated nine attacks that led to five Palestinian casualties or damage to property. On 1 April, Israeli settlers raided the village of Huwwara in Nablus and physically assaulted and injured a Palestinian and hurled stones at Palestinian houses. In three separate incidents near the Khallet el Louza area in Bethlehem between 30 March and 1 April, settlers raided Palestinian land and vandalized gates, a solar panel and water tanks in one incident, a latrine in another incident and the door of a house and surveillance cameras in a third incident. On 30 March, Israeli settlers shot live ammunition at a Palestinian and physically assaulted three others on the outskirts of Mikhmas town in Jerusalem, injuring four people. In two incidents, Israeli settlers set fire to a vegetable stall owned by a Palestinian on Road 90 in Tubas on 29 March and to an animal shelter belonging to Al Muarrajat East Bedouin community in Ramallah on 27 March. On 26 March, Israeli settlers threw stones at a Palestinian herder in Umm al Kheir community in Hebron, killing a sheep. ((99 for #6))
+
+* Since 7 October 2023 and as of 1 April, OCHA has recorded 704 Israeli settler attacks against Palestinians, with a daily average of four incidents, resulting in Palestinian casualties (69 incidents), damage to Palestinian-owned property (558 incidents), or both casualties and damage to property (77 incidents). In total, 17 Palestinians have been killed and over 400 injured within this context, over 9,900 trees were damaged, and 40 houses were vandalized. In comparison, around 560 settler incidents were documented between 7 October 2022 and 1 April 2023. ((66 for #7))
+
+* According to the Islamic Waqf, some 125,000 worshippers performed Friday prayers in Al Aqsa Mosque on the third Friday of the month of Ramadan (29 March). Measures announced by the Israeli authorities limit the access of Palestinians holding West Bank IDs to Friday prayers at Al Aqsa Mosque in East Jerusalem to children under 10 years of age, women over 50, and men over 55, with a valid one-day permit and magnetic card. Eligible persons can cross the checkpoints starting at 4:00 and return before 17:00\. In 2023, men over 55, women of all ages and children under 12 were allowed entry without a permit on Fridays during Ramadan. In addition, access for Palestinian Christians holding West Bank IDs to East Jerusalem during Easter was subject to age constraints for the first time, allowing only women and men above 45 years of age to obtain permits to access East Jerusalem on 29 and 30 March, with some reportedly denied entry on 29 March. ((100 for #8))
+
+### Funding ((34 for #9))
+
+
+---
+
+## 2024-03-29
+
+
+---
+
+## 2024-03-27
+
+### West Bank Updates
+
+* Since 7 October, 438 Palestinians have been killed, including 426 by Israeli forces, nine by settlers and three by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 129 Palestinians killed since the start of 2024, the vast majority by Israeli forces. Some 4,700 Palestinians have been injured, including 725 children, since 7 October in the West Bank, including East Jerusalem. ((81 for #4))
+
+* Since 7 October, 16 Israelis, including five members of Israeli forces, have been killed and 109 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #5))
+
+### Funding ((34 for #8))
+
+* On 20 March, Israeli settlers physically assaulted and injured a Palestinian farmer and set his vehicle on fire while he was working on his land near the Israeli settlement of Homesh in Nablus governorate. Also on 20 March, an Israeli settler physically assaulted a Palestinian bus driver, injuring him in the head, in Neve Yaakov settlement in East Jerusalem. Since 7 October 2023 and as of 24 March 2024, OCHA has recorded 683 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (64 incidents), damage to Palestinian-owned property (541 incidents), or both casualties and damage to property (78 incidents). ((34 for #7))
+
+
+---
+
+## 2024-03-25
+
+
+---
+
+## 2024-03-22
+
+### West Bank Updates
+
+* Since 7 October, 434 Palestinians have been killed, including 421 by Israeli forces, nine by settlers and three by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 126 Palestinians killed since the start of 2024, the vast majority by Israeli forces. Some 5,000 Palestinians have been injured, including 725 children, since 7 October in the West Bank, including East Jerusalem. ((81 for #4))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 109 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #5))
+
+* On 22 March, a Palestinian man opened fire at an Israeli bus near Dolev Israeli settlement, in Ramallah governorate, causing damage to the bus, the Israeli military reported. Israeli forces then reportedly initiated a search operation lasting for about three hours, during which eight members of Israeli forces were injured in an exchange of fire with the man, according to Israeli media sources. An Israeli drone and helicopter were deployed and struck the Palestinian man with two missiles, killing him. During the incident, Israeli forces raided the nearby villages of Deir Ibzi and Kafr Ni'ma, closed the road gate at the only entrance to Ras Karkar village (with an estimated population of 2,200), and broke into the house of the killed Palestinian man, arresting his brother alongside two other Palestinians. ((94 for #3))
+
+* According to the Islamic Waqf, some 120,000 worshippers performed Friday prayers in Al Aqsa Mosque on the second Friday of the month of Ramadan (22 March). Measures announced by the Israeli authorities last week limited the access of Palestinians holding West Bank IDs to Friday prayers at Al Aqsa Mosque in East Jerusalem to children under 10 years of age, women over 50, and men over 55, with a valid one-day permit and magnetic card. Eligible persons can cross the checkpoints starting at 4:00 and return before 17:00\. In 2023, men over 55, women of all ages and children under 12 were allowed entry without a permit on Fridays during Ramadan. ((100 for #6))
+
+### Funding ((34 for #8))
+
+
+---
+
+## 2024-03-21
+
+### West Bank Updates
+
+* Since 7 October, 431 Palestinians have been killed, including 419 by Israeli forces, nine by settlers and three by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 123 Palestinians killed since the start of 2024, the vast majority by Israeli forces. Some 4,690 Palestinians have been injured, including 725 children, since 7 October in the West Bank, including East Jerusalem. ((82 for #6))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 101 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #7))
+
+Israeli forces killed nine Palestinians across the West Bank on 20 and 21 March:  ((98 for #1))
+
+* Minutes before the start of Ramadan Iftar on 20 March, Israeli forces targeted with a "Sky Quad Drone" a Palestinian vehicle driving in Jenin Refugee Camp, killing its three passengers and seriously injuring the fourth. According to reports from PRCS, two bodies were severely charred, while the third was dismembered. Palestinians later demonstrated in front of the Palestinian Presidential Compound, refusing to bury the three killed Palestinians before the release of political prisoners from a Palestinian Authority prison. Subsequent clashes and an exchange of fire erupted between Palestinian security forces and Palestinians in the camp, resulting in the injury of six Palestinians, one of whom sustained a critical head injury. ((73 for #2))
+
+* On 20 March, Israeli forces carried out a 10-hour military operation in Nur Shams Refugee Camp in Tulkarm city, during which the forces killed four Palestinians, two by Israeli airstrikes and two by shooting. Israeli forces also bulldozed road infrastructure and caused damage to residential houses and other properties. Israeli [media](https://www.haaretz.com/israel-news/2024-03-21/ty-article/.premium/idf-air-strike-on-four-terrorists-in-jenin-including-two-top-islamic-jihad-operatives/0000018e-5e2a-d27e-a7af-7eee3ff30000?utm%5Fsource=mailchimp&utm%5Fmedium=email&utm%5Fcontent=author-alert&utm%5Fcampaign=Jack+Khoury&utm%5Fterm=20240321-01:31&lts=1711008987182) outlets, citing the Israeli army, said that Israeli forces have caried out 45 air strikes across the West Bank since the start of the war on Gaza. ((100 for #3))
+
+* On 21 March, Israeli forces shot with live ammunition and killed an 18-year-old Palestinian male during an Israeli search-and-arrest operation in Al Bireh city, in Ramallah governorate, which involved clashes between Palestinians throwing stones and Israeli forces. During the operation, Israeli forces searched several houses in Al Bireh and Ramallah cities. ((99 for #4))
+
+* On the morning of 21 March, Israeli forces shot and killed an elderly Palestinian man from Hebron city at a bus station near the settlement of Elazar in Gush Etzion in Bethlehem. The circumstances of the incident remain unclear. ((38 for #5))
+
+### Funding ((34 for #10))
+
+
+---
+
+## 2024-03-20
+
+### West Bank Updates
+
+* Since 7 October, 422 Palestinians have been killed, including 410 by Israeli forces, nine by settlers and three by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 114 Palestinians killed since the start of 2024 (compared with 85 during the same period in 2023), the vast majority by Israeli forces. Some 4,690 Palestinians have been injured, including 724 children, since 7 October in the West Bank, including East Jerusalem. ((82 for #3))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 101 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #4))
+
+* Just before sunset on 19 March, a 43-year-old Palestinian herder, a father of four, was shot and killed in Khirbet Tell al Khashaba herding community near Aqraba village in Nablus. According to community sources and eyewitnesses, the Palestinian man was grazing his livestock when three Israeli settlers from a nearby settlement outpost wearing army uniforms approached him and forcefully pushed him to the ground. Community sources added that as he attempted to defend himself and pushed one of the attackers back, he was fatally shot in the chest by another settler. According to an Israeli army source, cited by a [media](https://www.haaretz.com/israel-news/2024-03-19/ty-article/.premium/two-shin-bet-agents-wounded-in-west-bank-attack-palestinian-killed-in-separate-incident/0000018e-581e-d7fb-a1df-d8fe78930000) outlet, the Palestinian man was shot by an Israeli soldier. ((31 for #1))
+
+* On 19 March, a Palestinian man opened fire at and injured two Israeli security officers in a natural reserve near Gush Etzion settlement junction next to the entrance to Beit Fajjar village in Bethlehem. The man was subsequently shot and killed by Israeli forces. ((93 for #2))
+
+* Since 7 October 2023 and as of 19 March 2024, OCHA has recorded 660 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (59 incidents), damage to Palestinian-owned property (526 incidents), or both casualties and damage to property (75 incidents). Almost two-thirds of these incidents took place between October and December 2023. ((32 for #6))
+
+### Funding ((34 for #7))
+
+
+---
+
+## 2024-03-19
+
+### West Bank Updates
+
+* Since 7 October, 420 Palestinians have been killed, including 409 by Israeli forces, nine by settlers and two by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 112 Palestinians killed since the start of 2024 (compared to 85 during the same period in 2023), the vast majority by Israeli forces. Some 4,690 Palestinians have been injured, including 724 children, since 7 October in the West Bank, including East Jerusalem. ((82 for #2))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 99 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #3))
+
+* Between 7 October 2023 and 18 March 2024, OCHA has recorded a monthly average of 670 search-and-arrest and other operations by Israeli forces across the West Bank, including East Jerusalem. This is almost double the monthly average for the first nine months of 2023 (some 340 operations). A total of 304 Palestinians have been killed, including 72 children, and 2,657 others were injured, within this context by Israeli forces, representing about 73 per cent of Palestinian fatalities during this period. Some of the operations involved fire exchanges between Palestinians and Israeli forces, airstrikes, and use of under-cover Israeli military units. As a result, over 5,700 Palestinians have been detained, and some 900 Palestinians, including 370 children, have been displaced due to the destruction of their homes by Israeli forces during these operations. The vast majority (94 per cent) of displaced people were in the refugee camps of Nur Shams, Tulkarm and Jenin, where Israeli forces also regularly bulldozed roads and caused extensive damage to electricity, water and sewage infrastructure. ((97 for #4))
+
+* On 17 March, according to local community sources, armed Israeli settlers physically assaulted two Palestinian shepherds while they were grazing their sheep near Ariel settlement in Salfit governorate and stole forty sheep. Since 7 October 2023 and as of 19 March 2024, OCHA has recorded 658 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (59 incidents), damage to Palestinian-owned property (524 incidents), or both casualties and damage to property (75 incidents). Almost two-thirds of these incidents took place between October and December 2023. ((34 for #6))
+
+### Funding ((34 for #7))
+
+
+---
+
+## 2024-03-18
+
+### West Bank Updates
+
+* Since 7 October, 419 Palestinians have been killed, including 408 by Israeli forces, nine by settlers and two by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 110 Palestinians killed since the start of 2024 (compared with 85 during the same period in 2023), the vast majority by Israeli forces. Some 4,690 Palestinians have been injured, including 724 children, since 7 October in the West Bank. ((81 for #2))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 99 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #4))
+
+* Since 7 October 2023 and as of 18 March 2024, OCHA has recorded 650 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (59 incidents), damage to Palestinian-owned property (518 incidents), or both casualties and damage to property (73 incidents). Almost two-thirds of these incidents took place between October and December 2023. ((32 for #6))
+
+### Funding ((34 for #7))
+
+
+---
+
+## 2024-03-15
+
+### West Bank Updates
+
+* Since 7 October, 418 Palestinians have been killed, including 407 by Israeli forces, nine by settlers and two by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 109 Palestinians killed since the start of 2024 (compared with 80 during the same period in 2023), the vast majority by Israeli forces. Some 4,690 Palestinians have been injured, including 724 children, since 7 October in the West Bank. ((81 for #1))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 99 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #3))
+
+* The Israeli authorities have [announced](https://www.facebook.com/COGAT.ARABIC) measures on the entry of Palestinians holding West Bank IDs, with valid permits and magnetic cards, to Al Aqsa Mosque on the first Friday of the month of Ramadan (15 March), limiting entry to children under 10 years of age, women over 50, and men over 55\. In 2023, men over 55, women of all ages and children under 12 were allowed entry without a permit on Fridays during Ramadan. ((33 for #2))
+
+### Funding ((34 for #6))
+
+* On 14 March, armed Israeli settlers from the "Sde Efraim" settlement outpost raided the nearby village of Kafr Ni'ma in Ramallah and attacked Palestinians and their property, injuring one Palestinian, vandalizing and setting fire to vehicles and agricultural structures, and killing two sheep. Since 7 October 2023 and as of 15 March 2024, OCHA has recorded 646 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (59 incidents), damage to Palestinian-owned property (513 incidents), or both casualties and damage to property (74 incidents). ((34 for #5))
+
+
+---
+
+## 2024-03-14
+
+### West Bank Updates
+
+* Since 7 October, 418 Palestinians have been killed, including 407 by Israeli forces, nine by settlers and two by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include 109 Palestinians killed since the start of 2024 (compared with 80 during the same period in 2023), the vast majority by Israeli forces. Some 4,690 Palestinians have been injured, including 724 children, since 7 October in the West Bank. ((81 for #1))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 99 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #3))
+
+* The Israeli authorities have [announced](https://www.facebook.com/COGAT.ARABIC) measures on the entry of Palestinians holding West Bank IDs, with valid permits and magnetic cards, to Al Aqsa Mosque on the first Friday of the month of Ramadan (15 March), limiting entry to children under 10 years of age, women over 50, and men over 55\. In 2023, men over 55, women of all ages and children under 12 were allowed entry without a permit on Fridays during Ramadan. ((33 for #2))
+
+* Between 7 October 2023 and 14 March 2024, an estimated 1,680 Palestinians have been displaced due to home demolitions carried out by Israeli forces across the West Bank, including East Jerusalem, nearly triple the number of people displaced by home demolitions during the corresponding period last year. These include some 900 people displaced as a result of the destruction of 138 houses during operations carried out by Israeli forces across the West Bank, the vast majority in the refugee camps of Tulkarm and Jenin. In addition, 25 houses have been demolished on punitive grounds, resulting in the displacement of some 140 people. Over 600 people have also been displaced by the demolition of their homes due to the lack of Israeli-issued building permits, more than half of whom were in East Jerusalem. On 11 March, the UN Human Rights Office [called](https://reliefweb.int/report/occupied-palestinian-territory/un-human-rights-office-opt-un-human-rights-office-calls-israeli-authorities-halt-imminent-home-demolitions-and-forced-displacement-palestinians-al-bustan-occupied-east-jerusalem-enar?utm%5Fsource=rw-subscriptions&utm%5Fmedium=email&utm%5Fcampaign=country%5Fupdates%5F180) on the Israeli authorities to immediately halt any imminent home demolitions and the forcible displacement of some 1,550 Palestinians in Al Bustan area of Silwan in East Jerusalem to create a park next to an Israeli settlement in the heart of the city. ((99 for #4))
+
+### Funding ((34 for #6))
+
+* Since 7 October 2023 and as of 14 March 2024, OCHA has recorded 645 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (59 incidents), damage to Palestinian-owned property (513 incidents), or both casualties and damage to property (73 incidents). These incidents have resulted in damage to an estimated 9,850 trees and saplings, 80 per cent of which were vandalized by Israeli settlers between October and December 2023\. In comparison, between 7 October 2022 and 14 March 2023, Israeli settlers vandalized more than 8,300 trees and saplings across the West Bank. ((33 for #5))
+
+
+---
+
+## 2024-03-13
+
+### West Bank Updates
+
+* Between the afternoons of 12 and 13 March, six Palestinians were killed in the West Bank:   ((90 for #1))
+
+* Since 7 October, 418 Palestinians have been killed, including 407 by Israeli forces, nine by settlers and two by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include a total of 109 Palestinians killed since the start of 2024 (compared with 80 during the same period in 2023), the vast majority by Israeli forces. Over 4,680 Palestinians have been injured, including 722 children, since 7 October in the West Bank. ((81 for #6))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 99 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #8))
+
+   * On 12 March, Israeli forces fatally shot a 13-year-old Palestinian boy in the chest with live ammunition while reportedly holding a lit firework and playing with other boys in Shu’fat refugee camp (Jerusalem). Israeli forces have withheld the boy’s body and raided his house in the camp. A general strike was announced in the camp following the killing.   ((34 for #2))
+
+   * On 12 March, Israeli forces opened fire at Palestinians who were allegedly attempting to throw Molotov cocktails at a military observation tower in Al Jib village (Jerusalem). Two Palestinians, aged 16 and 23 years, were killed and three others were injured. Israeli forces detained the injured Palestinians for approximately 30 minutes before handing them over to Palestinian medical teams.   ((90 for #3))
+
+   * In the early hours of 13 March, Israeli forces shot and killed two Palestinian men, and injured four others, during a raid in Jenin city and nearby refugee camps.   ((34 for #4))
+
+   * On 13 March, a 15-year-old Palestinian boy from Al Khader village (Bethlehem) reportedly carried out a stabbing attack at the Tunnels checkpoint that controls access from the southern parts of the West Bank into East Jerusalem, injuring two members of Israeli forces. The boy was subsequently shot and killed by Israeli forces. ((94 for #5))
+
+* The Israeli authorities have [announced](https://www.facebook.com/COGAT.ARABIC) measures on the entry of Palestinians holding West Bank IDs, with valid permits and magnetic cards, to Al Aqsa Mosque on the first Friday of the month of Ramadan (15 March), limiting entry to children under 10 years of age, women over 50, and men over 55\. In 2023, men over 55, women of all ages and children under 12 were allowed entry without a permit on Fridays during Ramadan. The UN Special Coordinator for the Middle East Peace Process, Tor Wennesland, said in a [statement](https://unsco.unmissions.org/sites/default/files/sc%5Fstatement%5Fon%5Fopt%5Fand%5Fisrael%5F-%5F12%5Fmarch%5F2024.pdf) on 12 March: “I take note of the guarantee by the Israeli authorities to allow the Muslim population of the occupied West Bank, including East Jerusalem, access to the Holy Sites. I call upon all sides to refrain from provocations and demonstrate maximum restraint.” ((97 for #7))
+
+* In the evening hours of 12 March, Israeli settlers raided Burin village in Nablus and set fire to a Palestinian car and damaged four others. Israeli forces subsequently entered the village and physically assaulted a driver in a car who was with his four-month-old infant. Since 7 October 2023, OCHA has recorded 639 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (59 incidents), damage to Palestinian-owned property (508 incidents), or both casualties and damage to property (72 incidents). Most of these incidents (over 400) took place between October and December 2023. ((10 for #11))
+
+### Funding ((34 for #12))
+
+
+---
+
+## 2024-03-12
+
+### West Bank Updates
+
+* Since 7 October, 412 Palestinians have been killed, including 311 by Israeli forces, nine by settlers and two by either Israeli forces or settlers, across the West Bank, including East Jerusalem. These include a total of 102 Palestinians killed since the start of 2024 (compared with 80 during the same period in 2023), the vast majority killed by Israeli forces. Over 4,660 Palestinians have been injured, including 718 children, since 7 October in the West Bank. ((81 for #2))
+
+* Since 7 October, 15 Israelis, including four members of Israeli forces, have been killed and 97 injured in the West Bank, including East Jerusalem, and Israel. ((84 for #4))
+
+* In the evening hours of 11 March, an undercover Israeli forces unit raided Attil village in Tulkarm governorate, shot and killed one Palestinian inside a supermarket, and seriously injured another who later died at a hospital. According to the Israeli military, its forces killed an armed Palestinian on his way to carry out an attack. According to the Palestine Red Crescent Society (PRCS), Israeli forces delayed ambulance access to evacuate the casualties for about half an hour. The body of one Palestinian fatality is still being withheld by Israeli forces. ((92 for #1))
+
+* A Palestinian man was physically assaulted and injured by Israeli settlers near Homesh settlement in Nablus, while he was reportedly picking wild thyme on 9 March. So far since 7 October 2023, OCHA has recorded 629 Israeli settler attacks against Palestinians that resulted in Palestinian casualties (57 incidents), damage to Palestinian-owned property (501 incidents), or both casualties and damage to property (71 incidents). Most of these incidents (over 400) took place between October and December 2023. ((16 for #3))
+
+* On 10 March, the Israeli authorities demolished four houses, including two under construction, in Area C of the West Bank, due to the lack of Israeli-issues building permits; these include a house in Furush Beit Dajan and three other houses in Al Jiftlik al Musaffah, both in the Jordan Valley area. As a result, two households comprising 11 people, including six children, were displaced. ((100 for #5))
+
+* On 11 March, an exchange of fire took place between Israeli forces and Palestinians, who threw pipe bombs during a raid by Israeli forces in Nur Shams Refugee Camp in Tulkarm city. Israeli forces bulldozed roads inside the camp, the main entrance of the camp and the main road that links the camp with Tulkarm and Nablus, causing damage to water, electricity, sewage and internet infrastructure. As a result, it is estimated that over 84,600 people in Nur Shams refugee camp and Tulkarm city were affected. Three houses and at least one livelihood structure were also destroyed. Since 7 October 2023, some 866 Palestinians, including 358 children, have been displaced because of the destruction of their houses during operations carried by Israeli forces in the West Bak, the vast majority (93 per cent) in the refugee camps of Nur Shams, Tulkarm and Jenin. ((98 for #7))
+
+### Funding ((34 for #8))
+
+
+---
+
 ## 2024-03-11
 
 ### West Bank Updates
