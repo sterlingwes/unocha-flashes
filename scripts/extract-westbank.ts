@@ -268,18 +268,18 @@ fs.writeFileSync(
   rawReportHeadSection.concat(rawReport).join("\n")
 );
 
-const csv = [csvHeader.join(",")].concat(
-  Object.entries(extractedValues)
-    .map(([reportDate, values]) => {
-      return [
-        reportDate,
-        values.killedCum ?? "",
-        values.killedChildrenCum ?? "",
-        values.injuredCum ?? "",
-        values.injuredChildrenCum ?? "",
-        values.settlerAttacks ?? "",
-      ].join(",");
-    })
-    .sort((a, b) => b.localeCompare(a))
-);
-fs.writeFileSync(csvFileName, csv.join("\r\n"));
+// const csv = [csvHeader.join(",")].concat(
+//   Object.entries(extractedValues)
+//     .map(([reportDate, values]) => {
+//       return [
+//         reportDate,
+//         values.killedCum ?? "",
+//         values.killedChildrenCum ?? "",
+//         values.injuredCum ?? "",
+//         values.injuredChildrenCum ?? "",
+//         values.settlerAttacks ?? "",
+//       ].join(",");
+//     })
+//     .sort((a, b) => b.localeCompare(a))
+// );
+// fs.writeFileSync(csvFileName, csv.join("\r\n"));
